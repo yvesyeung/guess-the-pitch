@@ -64,7 +64,7 @@ export const pitchesArray = [
     url: 'OVpHeFZfWGw0TUFRPT1fVUFnRVZ3SUVYZ1VBRGxJQVh3QUFBMVJlQUZsUUJ3SUFVVmNHVmxZRFVBZFhWUVJR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVpHeFZfWGw0TUFRPT1fVlZOU1V3VUZVQVlBQVZFQlZ3QUFCd0ZlQUFNTlZGRUFBd1pUVXdvQUIxZFFWQVVE.mp4',
   },
   {
@@ -252,7 +252,7 @@ export const pitchesArray = [
     url: 'anFaVldfWGw0TUFRPT1fQkFCVVVWRUZCVkFBRGxvSEJRQUFBVkFFQUZoUUFWa0FCQU1IQUFZRENRb0RVZ3Bl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'anFaVldfWGw0TUFRPT1fVlFKVlVBY0hCUUFBQ0FjRUJ3QUFDRmRSQUFBRVdsWUFBMU1NVmxFTkJnTlVVd1pS.mp4',
   },
   {
@@ -544,7 +544,7 @@ export const pitchesArray = [
     url: 'bG5Ba1JfWGw0TUFRPT1fVWdkV1YxSU1WUW9BRFZCUVZRQUFBd0pVQUFCVUFnSUFBUWRXVXdFR0FGVlJWZ3RU.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bG5Ba1JfWGw0TUFRPT1fVUZjQ0JsUUVWVkVBRFZkVVZRQUFVd1ZUQUZnTkJWUUFBRlpUVmdSVUNRdFdWQUlB.mp4',
   },
   {
@@ -560,7 +560,7 @@ export const pitchesArray = [
     url: 'bG5Ba1JfWGw0TUFRPT1fQjFVSFUxVUFYMVlBV1Z0VEJRQUFWd1ZTQUZnQ0FRY0FWd2NGVVZBRVVsQlRVVmRS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bG5Ba1JfWGw0TUFRPT1fQmdjQUFBRlhVd29BWGxNQ0JBQUFCbFVFQUFNQ1VRTUFWQWNHVkFVQkFnc0dVUUpY.mp4',
   },
   {
@@ -568,7 +568,7 @@ export const pitchesArray = [
     url: 'bG5Ba1JfWGw0TUFRPT1fQndOUVZsUUNVMVFBQ0FFR1V3QUFCVmNFQUZrRVVRSUFWRk1BVTFVSEF3SUhCQVlI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bG5Ba1JfWGw0TUFRPT1fQjFRRlZRRUZVUVFBV1ZGVFVnQUFDRlZlQUZnR0FsWUFVUUZXVlZFSFZWZGNVVkJU.mp4',
   },
   {
@@ -668,7 +668,7 @@ export const pitchesArray = [
     url: 'NU43ZFBfWGw0TUFRPT1fVndaVlZsSlNWUVlBREZaVVZBQUFDUTlVQUFBREJ3UUFWMVVOQWdvQ0NBUlJCVlJR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NU43ZFBfWGw0TUFRPT1fQXdCUkFnVlhWUUFBQ0ZOUlVRQUFWVlVIQUFOVFdsa0FWd0VCVmdzR1VnQURBUXNF.mp4',
   },
   {
@@ -684,7 +684,7 @@ export const pitchesArray = [
     url: 'NU43ZFBfWGw0TUFRPT1fQVFoWlVRRU1VUW9BV1ZzQ0FBQUFCQTRBQUFOUVdsQUFCMWNGQmdBQlVncFJVMUZm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NU43ZFBfWGw0TUFRPT1fQmxRRkFBWURVZ01BQ1ZzTFZ3QUFBRk5mQUFNTVZ3SUFWMUJRQ1ZFTVUxVUdBZ3BR.mp4',
   },
   {
@@ -704,11 +704,11 @@ export const pitchesArray = [
     url: 'NU43ZFBfWGw0TUFRPT1fVUFZSFYxY0ZCVmNBV1ZFTFV3QUFBVmNFQUZoWFZRUUFWMUFEQkFjQlZRZGRCUWNB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NU43ZFBfWGw0TUFRPT1fRDFkUUFWVU5Bd0VBQ1ZNQ0FBQUFBRlZVQUZrRVdnVUFBVndEVmxZTkJ3ZFVDVkZX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NU43ZFBfWGw0TUFRPT1fQWxKUlZGY0VVZ0lBWEZWVFVRQUFVd1JWQUFCUldnY0FVMWNBVlFjQkJGQmRBZ01E.mp4',
   },
   {
@@ -720,7 +720,7 @@ export const pitchesArray = [
     url: 'NU43ZFBfWGw0TUFRPT1fQWdOUlZWVUNBMUVBRGxkV1V3QUFVZ0ZTQUFCWEFGVUFWMVZUVXdaVUNBcFZBbGRR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NU43ZFBfWGw0TUFRPT1fQVZjSEFGSUFCQXNBQzFRQ1ZRQUFWQUFDQUZoVEJsRUFVRmRUQndjQVVBRlZVUUVB.mp4',
   },
   {
@@ -776,7 +776,7 @@ export const pitchesArray = [
     url: 'bkdvWmdfWGw0TUFRPT1fVWdnQ0JsTldBd0VBQUZJRVZ3QUFDUUpVQUZnTlZsSUFCd2NNVVZFRkFncGRDVlpY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdvWmdfWGw0TUFRPT1fVUZWVVVsd0RWVkVBREFCUVV3QUFWd1JmQUFNRVd3SUFVVndFQmxWUVVBTmRDQUVF.mp4',
   },
   {
@@ -892,7 +892,7 @@ export const pitchesArray = [
     url: 'eFpBQlZfWGw0TUFRPT1fRGxJQVZGWlFVVlFBWEFBRFZBQUFDRkpXQUFOUlZGZ0FWd0VIVkFNTkF3VUJVMUJV.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFpBQlZfWGw0TUFRPT1fQlFGWlYxWlFWbEFBQ2dFRlVRQUFBUU1EQUFNTUIxZ0FBbGNIVWxZQVV3SUFBZ2RY.mp4',
   },
   {
@@ -904,7 +904,7 @@ export const pitchesArray = [
     url: 'eFpBQlZfWGw0TUFRPT1fVkFSUkIxRUdWQVlBQUFZS0J3QUFWd1lIQUFNQ1YxZ0FBVklDQUFKVEFncFNVUXNI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFpBQlZfWGw0TUFRPT1fVWdBQVVsMEFYd1VBQ1FFTEJBQUFDQUlIQUFNQ1UxSUFDbGRUVVFFRkNRZFNBd1ZX.mp4',
   },
   {
@@ -920,7 +920,7 @@ export const pitchesArray = [
     url: 'eFpBQlZfWGw0TUFRPT1fQjFkVEJWQUVCUWNBWGxzRUFBQUFDQVJYQUZrQ0JRY0FWZ1pRVXdzTUFBSlVVMUJV.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFpBQlZfWGw0TUFRPT1fQTFBRUFWMVZCQVVBQUZJRFZ3QUFBd0pYQUZsUlZnSUFDbGRVVkZBTVYxRlVBQU5R.mp4',
   },
   {
@@ -972,7 +972,7 @@ export const pitchesArray = [
     url: 'eFpBQlZfWGw0TUFRPT1fRDFRQ1VWTUhCd0VBV2x0WEJRQUFBQVZVQUFOV0FRUUFCUUFOQWxaVVVBdFNDUVpl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFpBQlZfWGw0TUFRPT1fQVZVRFZRQldVUVVBQUZzRlZ3QUFWUTREQUFCUkFRUUFBbGNCVVZVSFVndGNCQUJX.mp4',
   },
   {
@@ -1000,7 +1000,7 @@ export const pitchesArray = [
     url: 'TGxQYllfWGw0TUFRPT1fVkFCWlZGQURCUVVBWEZVSFV3QUFVQTlmQUFNQkIxa0FBZ1FFQVZkUlVBQUhDUUJT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxQYllfWGw0TUFRPT1fQmdOVEFnWlJBQUlBWGdaV0JBQUFBd05XQUFBQlVGa0FBZ0VGQmxkVFVnTlFCUXBY.mp4',
   },
   {
@@ -1012,23 +1012,23 @@ export const pitchesArray = [
     url: 'TGxQYllfWGw0TUFRPT1fQkZNQUFWTUZYZ0lBQ0ZvQVVBQUFCMWRSQUFBRUFGSUFVVjFVQ1FwVEJRSlRDUU5V.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxQYllfWGw0TUFRPT1fQjFOUkJseFNYbEFBQ0ZBS1V3QUFBQTVRQUZnTUIxVUFCZ0VHQWd0WEJBdFdWbFpU.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxQYllfWGw0TUFRPT1fRGdOVFZRSlhVMWNBV2dFTFZBQUFBd0lIQUFOWEJsa0FDMWNEQVFJQ0IxWURVZ1ZX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxQYllfWGw0TUFRPT1fQlFGVkIxUlFCQVlBWGxGUkFnQUFCMU1BQUZrTVVWZ0FWZ1FOQUZaUUNGSmRDUVpm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxQYllfWGw0TUFRPT1fQWxKUlhGTUVVMVlBRFZRR1ZnQUFCUUVFQUZnTkFRTUFVMUZUVTFBR1V3SlRVZ3RT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxQYllfWGw0TUFRPT1fRDFOVlhGZFFVZ1lBQ1ZJRFh3QUFCRlZmQUZrTVZsSUFBZ1FOQmxZRFVGRlZCQVpl.mp4',
   },
   {
@@ -1036,7 +1036,7 @@ export const pitchesArray = [
     url: 'TGxQYllfWGw0TUFRPT1fVlFsVFZWUUhWd0lBQ0ZZTEJBQUFWdzhGQUZsVUFBQUFCd2NHQXdvQVVsZFZWZ0FE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxQYllfWGw0TUFRPT1fVUFaVUIxeFdCMUFBQVZjRUJBQUFCZ05mQUZoUVZnVUFCbDFSQndjRlZ3TUhVbGRY.mp4',
   },
   {
@@ -1044,7 +1044,7 @@ export const pitchesArray = [
     url: 'TGxQYllfWGw0TUFRPT1fVjFkWUJRRUZWQUFBREFkV0JBQUFVZ1VIQUZrR0JRSUFWbHhXQndzRENRUlZWQUJY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxQYllfWGw0TUFRPT1fQUZRRVVWQU1CQUVBWEFOVFZRQUFWRkpWQUZrQkFWTUFVRlpYQmdjQkNRdFVVZ0FE.mp4',
   },
   {
@@ -1052,7 +1052,7 @@ export const pitchesArray = [
     url: 'TGxQYllfWGw0TUFRPT1fVkFCV1hWMEFVd1lBRDFZQ1ZRQUFDVk5mQUFOVFZWY0FCVkpSVVZWWEFRVlZCUUFI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxQYllfWGw0TUFRPT1fVUZVRlVsQldCVkVBQUZJQVZnQUFBVkJXQUFBTkFnY0FVVlFNVlFjSFZBdFNCVk5U.mp4',
   },
   {
@@ -1088,7 +1088,7 @@ export const pitchesArray = [
     url: 'TGxQYllfWGw0TUFRPT1fRGdJSEJWVUhWQWNBQVFBR1VBQUFCZ01IQUZoUVVGY0FCMU1EVlFKVEJBTmRVVk5U.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxQYllfWGw0TUFRPT1fVUFKU1hWTldBZ0VBQzFzQ0FnQUFVZ0VGQUFCUVZWVUFWd05XQWdVTkJ3UldWbEJl.mp4',
   },
   {
@@ -1100,11 +1100,11 @@ export const pitchesArray = [
     url: 'TGxQYllfWGw0TUFRPT1fQUZVRUJ3Y0RWd2NBQVFCUVZ3QUFCQVlIQUZnQlZBQUFDMVVIVTFkWFVBc0dWQXNB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxQYllfWGw0TUFRPT1fQkFCUkJsUlZCd0lBWFZjQkJ3QUFVQU5RQUFOV0JnUUFCRk5XVmxBR0NGRlJVd05V.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxQYllfWGw0TUFRPT1fQWdoWVZ3SUNYd1lBVzFJRkJ3QUFWMUpWQUFBRVVWQUFCbDBNQkFFSFVsQlZCRkJl.mp4',
   },
   {
@@ -1252,11 +1252,11 @@ export const pitchesArray = [
     url: 'NU43Z0dfWGw0TUFRPT1fVkFaVlZWd05CVkFBQ1ZzQ1VnQUFBVk1DQUZnRFZnVUFCbDFUQ0FRTUJRVlNBd0VF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NU43Z0dfWGw0TUFRPT1fQXdKV0JsWlJVMUFBQ2dCVFZnQUFBMVJVQUZnRVUxY0FCQUFNQ0ZCWEF3TlhWQU5S.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NU43Z0dfWGw0TUFRPT1fVkFnRUFBRlFVd01BRGxZRFhnQUFBUTVTQUFBRVVGTUFCZ05RQVZGUkFRWUdDVllF.mp4',
   },
   {
@@ -1272,7 +1272,7 @@ export const pitchesArray = [
     url: 'NU43Z0dfWGw0TUFRPT1fQVFKWlhGQUVVUUVBQVZvR0JBQUFCUVpUQUZrSEJnSUFBQVlHQ1ZJQ1ZBc0VWZ0FI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NU43Z0dfWGw0TUFRPT1fVUFGUVZnQlFCUWNBQ1FNQlVnQUFVQWNBQUZrQVV3TUFWMWRXQkFkVUJRRlFBZ3RY.mp4',
   },
   {
@@ -1308,7 +1308,7 @@ export const pitchesArray = [
     url: 'NU43Z0dfWGw0TUFRPT1fQlFSV1hRQlFVVk1BQ1ZOVUJ3QUFVQTRIQUFNTVZGWUFBZ2RYQ1FjSEExSmNWQU1B.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NU43Z0dfWGw0TUFRPT1fVTFkVEJWSlhCMVlBRGxzTFZRQUFBRk5TQUFBTlZRY0FWRklEQlFOVEFBTUdCbEZR.mp4',
   },
   {
@@ -1328,7 +1328,7 @@ export const pitchesArray = [
     url: 'NU43Z0dfWGw0TUFRPT1fRGdZRUFRVlFYd01BQUZvR1VnQUFVd1VBQUZnRFVnQUFWd1JXQWxaWFZBWUJBVlFB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpyWVlfWGw0TUFRPT1fRHdaWkFGVlNBd0FBWFFSV0FBQUFVdzllQUZnQVZRTUFVVndGQWdkVUFnUlZWbEZR.mp4',
   },
   {
@@ -1340,7 +1340,7 @@ export const pitchesArray = [
     url: 'TVpyWVlfWGw0TUFRPT1fQmdWVlVGWldWQUFBWFFFRUJBQUFVd1JYQUFBTlZGSUFBd2NHVkZjTkJRY0FDVk5m.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpyWVlfWGw0TUFRPT1fVXdWWkFsWUNCMU1BRFZNQVh3QUFCbFVBQUZrRVUxSUFWMUlEQVZFTkNGZFJWbGRW.mp4',
   },
   {
@@ -1348,7 +1348,7 @@ export const pitchesArray = [
     url: 'TVpyWVlfWGw0TUFRPT1fVWxjSEFGeFhVVk1BRHdZTEFBQUFDQU1DQUZnSEFsVUFWMUFIQWdaUkFncGNCQVJU.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpyWVlfWGw0TUFRPT1fQUFGUVYxQUhBd29BWGxJTFV3QUFBMWNFQUFOV1ZGRUFVUUVIQlF0WEJWRlZBQVlG.mp4',
   },
   {
@@ -1364,7 +1364,7 @@ export const pitchesArray = [
     url: 'TVpyWVlfWGw0TUFRPT1fQWdjQ1VRSU5VMUFBWFFNQVZBQUFCbFZRQUFOV1ZWY0FCbEVEQ1ZBRkF3WlFCVkJV.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpyWVlfWGw0TUFRPT1fVjFRSFV3WUJWQVVBQ1ZwV1ZRQUFCQU5VQUZsVFZWa0FBZ0ZXQlFRQ0F3RlVVMVJX.mp4',
   },
   {
@@ -1456,7 +1456,7 @@ export const pitchesArray = [
     url: 'OGdHemVfWGw0TUFRPT1fVUZKU1VsZFdWd0FBWGxwVUJRQUFDUVpmQUFNSEFsUUFDbGRRQUFCVFZGZFVBRk1B.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OGdHemVfWGw0TUFRPT1fQVFaV1VsME1Vd01BV2dBRUF3QUFBZ1FIQUFOV1ZsZ0FBbEZYQXdRSFZRWlJVd3NI.mp4',
   },
   {
@@ -1492,7 +1492,7 @@ export const pitchesArray = [
     url: 'NFg3YkJfWGw0TUFRPT1fVXdZRkJRWlJBMU1BQ0ZVRlVRQUFVMVZYQUZnRlcxRUFVMVJYQlFCVFVnb0JBd1lE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NFg3YkJfWGw0TUFRPT1fRDFSWkFsZFdWUW9BQVZzS0J3QUFCd1pXQUFOV1YxRUFVRllNQ1FBQ1ZGVUdCMVlB.mp4',
   },
   {
@@ -1516,11 +1516,11 @@ export const pitchesArray = [
     url: 'NFg3YkJfWGw0TUFRPT1fQkFZRFZnZFdVMVFBQVZFREJ3QUFWUUJYQUFOV0JnTUFDZ1pXQTFjQkFndGRDQVJR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NFg3YkJfWGw0TUFRPT1fVUZRRkFRY0NBZ1lBQzFVREJRQUFCbFJVQUZsUUFsZ0FCVk1FQXdSVFZ3TUJBd1VI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NFg3YkJfWGw0TUFRPT1fVlFOVUFsWU1BQUlBQzFBRlVRQUFDUVJUQUZoV1VRQUFCd0JRVkFaUkF3WURWbGNB.mp4',
   },
   {
@@ -1544,7 +1544,7 @@ export const pitchesArray = [
     url: 'NFg3YkJfWGw0TUFRPT1fQUFWVkJnQUJCUXNBREZaUlZBQUFCUU5WQUFNTUFGa0FBbEFBQjFjQkFGSlVDRlJY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NFg3YkJfWGw0TUFRPT1fVUZCV1hWSUdVQVVBV2xCWFZ3QUFBZzlSQUZnTlZnUUFWMUpSQmxWV0FRSldCUUVF.mp4',
   },
   {
@@ -1552,7 +1552,7 @@ export const pitchesArray = [
     url: 'NFg3YkJfWGw0TUFRPT1fVndGWFZnSUNBd1FBWEZJSFZnQUFCRmRXQUZsVVZsUUFWQU1BQUZZR0FBWmRVd3BX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NFg3YkJfWGw0TUFRPT1fQndrSFhGZFFWZ0FBV3daUVh3QUFVZ1ZWQUZnRkFWSUFBMXhXVmdVTkF3cFhVZ05U.mp4',
   },
   {
@@ -1580,7 +1580,7 @@ export const pitchesArray = [
     url: 'V3luR1BfWGw0TUFRPT1fVlZOVlYxd0RVMUVBQ1ZSUVVRQUFCRlJSQUZrRVdsRUFBZ1pVQlFJTkExSUhVMUZY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'V3luR1BfWGw0TUFRPT1fQlFNQ1VGQUNWQW9BWFZwVFV3QUFDUU5WQUFBRkFWUUFCd1lHVlFkUlYxWURCUUFD.mp4',
   },
   {
@@ -1608,7 +1608,7 @@ export const pitchesArray = [
     url: 'V3luR1BfWGw0TUFRPT1fQkZCVlVBQUZCUW9BQ3dFSFVBQUFDRlZRQUZrRVZGWUFBd0FFQWxFQkNBQUFVMVpS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'V3luR1BfWGw0TUFRPT1fRHdFRUFRQUJVVkFBRGxWVUFnQUFBVmNGQUFBTkFsSUFCRlFOVVZaWEJBdFJBZ3BY.mp4',
   },
   {
@@ -1636,7 +1636,7 @@ export const pitchesArray = [
     url: 'V3luR1BfWGw0TUFRPT1fVndCV0FGRUVWZ1lBQVFSV1ZRQUFVRk5WQUZsVFVRTUFBVk1FQmdOUUFRWUFDVlpV.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'V3luR1BfWGw0TUFRPT1fVUFsVEFBVUJWMUVBQUZCVFZRQUFWRlJlQUZnRkFBSUFBQUVNQ1FNQkJncFhBUUZV.mp4',
   },
   {
@@ -1688,7 +1688,7 @@ export const pitchesArray = [
     url: 'R1phWUJfWGw0TUFRPT1fVkZVRUJsSU1BZ0VBQVFFQlhnQUFCQVFEQUZoV1V3QUFWbEZXVlFzTlVBcFJCd0JY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'R1phWUJfWGw0TUFRPT1fQWdWWVZWd0JCUU1BWGxWUkJBQUFWQUpRQUZsVEFRSUFBRk1BQWdJQUFRZFdVZ0lG.mp4',
   },
   {
@@ -1696,7 +1696,7 @@ export const pitchesArray = [
     url: 'R1phWUJfWGw0TUFRPT1fVUZWWEIxUUFVZ0VBRHdFRlVnQUFWRlZYQUFOWFV3QUFVVmNEVVFVQkFWRlhVUXRY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'R1phWUJfWGw0TUFRPT1fQWdCVUFsUlNVMVFBQVZaUVZnQUFBRmRVQUFOUVVsZ0FBVklOVXdwVVUxVUdVd0ZW.mp4',
   },
   {
@@ -1720,7 +1720,7 @@ export const pitchesArray = [
     url: 'R1phWUJfWGw0TUFRPT1fQVZjRFhBZFFWRkVBV2dkWFhnQUFWd0pVQUZsVVVRSUFWZ2NHQVFNR1VsSUFBRmNE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'R1phWUJfWGw0TUFRPT1fQWdjREJnWU5WMVFBQzFKUkJRQUFBUU1BQUZnTVd3TUFVMU1BQWdkWEFRTldBZ2NI.mp4',
   },
   {
@@ -1912,7 +1912,7 @@ export const pitchesArray = [
     url: 'MDNlWHhfWGw0TUFRPT1fVUFkV1ZRSlNWbE1BWGxVQlVBQUFBUU5YQUZoV0JWVUFCZ1FCQmxCUkF3TUJDUW9E.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MDNlWHhfWGw0TUFRPT1fQWdNSFZWY0hYd0VBWGxwUUJRQUFDVk1GQUZoWFUxY0FVVjFXQjFFRlVsRldBVmRl.mp4',
   },
   {
@@ -1924,7 +1924,7 @@ export const pitchesArray = [
     url: 'MDNlWHhfWGw0TUFRPT1fVXdkVEIxWUVBd1FBWGxRRkF3QUFVbFVDQUFBTUFnTUFDZ01NQkFwUUNBVmNVZ1Zm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MDNlWHhfWGw0TUFRPT1fQndNQ0FWUUhWUUVBWFZOV1ZRQUFBd0FFQUZsV0JsWUFVQVJUVmdJQlUxZFRWUVJX.mp4',
   },
   {
@@ -1940,7 +1940,7 @@ export const pitchesArray = [
     url: 'MDNlWHhfWGw0TUFRPT1fVTFWVlZWQlJWUVVBV1FBR0JRQUFWQVVDQUZrRVVWRUFBVlpSQkZCVUFRcFdBbEJT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MDNlWHhfWGw0TUFRPT1fVXdNREFGY0dBZ1FBQ2xjQkJRQUFVZ0ZYQUZnQkFWVUFDd01EVWdvR0JGRlZBd3Bm.mp4',
   },
   {
@@ -1952,7 +1952,7 @@ export const pitchesArray = [
     url: 'MDNlWHhfWGw0TUFRPT1fQmxKU0FGMVhWUVlBQ1FRTFZBQUFCZ0lBQUZsUldnQUFDbGRUQ0ZJRFZGVmNBVk5R.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MDNlWHhfWGw0TUFRPT1fRHdjRlV3QUNVMWNBQ0FBTFh3QUFCVlFIQUFBRlZnSUFVRmRYVVFvR0FsRUhVd0ZV.mp4',
   },
   {
@@ -1960,7 +1960,7 @@ export const pitchesArray = [
     url: 'MDNlWHhfWGw0TUFRPT1fRHdnQ1ZGQUJVQWNBWFFjR0JBQUFBVk5mQUFNR1dsWUFBMVlHQWdOUkJGQUJDUUpS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MDNlWHhfWGw0TUFRPT1fQUFRRUJRWlZCd01BWGxNRFh3QUFBd0JWQUZsVVVRSUFVd0FHQXdZRkFWWlRVMVpX.mp4',
   },
   {
@@ -2200,7 +2200,7 @@ export const pitchesArray = [
     url: 'R1phekJfWGw0TUFRPT1fRHdnSFhGUU1VQUFBRDFRQVZBQUFBQVJWQUFBQ1ZGRUFBQVlOVlFJQkFBZFNBd01I.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'R1phekJfWGw0TUFRPT1fQlFnRlVWTUdBMU1BQVFGVVZBQUFBUVZXQUFNTVVGSUFBbFJUVmdSV0NGRmRWQXBR.mp4',
   },
   {
@@ -2528,7 +2528,7 @@ export const pitchesArray = [
     url: 'R1phWG5fWGw0TUFRPT1fQXdaWVhRQldWbGNBREZZS1ZRQUFDVlVGQUFNRkJWZ0FVd1lBQkZjRFZRVURBQXBY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'R1phWG5fWGw0TUFRPT1fQkZSV1VWUUhVUVFBWGxjR1ZRQUFDVlJUQUZrRFVWTUFWZ0JVQUFNR1ZBcGNCVmRX.mp4',
   },
   {
@@ -2604,7 +2604,7 @@ export const pitchesArray = [
     url: 'b25vRDlfWGw0TUFRPT1fRGdZQ0FWSUNBRllBQ2xCV0F3QUFBMVZYQUZrRVZsWUFWZ0VOQkFjTUJWRmNDVk5V.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'b25vRDlfWGw0TUFRPT1fVUZSWEIxSUZCQVFBRDFzRlZBQUFCUVFFQUZoUUFnVUFCRkFNQmdwWEIxVlNCQUZT.mp4',
   },
   {
@@ -2640,7 +2640,7 @@ export const pitchesArray = [
     url: 'b25vRDlfWGw0TUFRPT1fQmdaVEIxQUdBQUFBV3djSFVnQUFBbEpUQUZrRVVGUUFBZ1pXQmxkVEF3dFZVd0JU.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'b25vRDlfWGw0TUFRPT1fVWdsUUJsSUVWRllBREZNQVZnQUFDRklGQUFNQkFGY0FDZ2NEVkZBREJ3RURBd2RX.mp4',
   },
   {
@@ -3276,11 +3276,11 @@ export const pitchesArray = [
     url: 'QnZHTjlfWGw0TUFRPT1fQkZOUUFnRURCUUVBREFNRlh3QUFCRmRUQUZsV1VsY0FWZ0FCVVZVRlYxRUJDQXNI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVyQWpfWGw0TUFRPT1fVXdCWUFWVURVUU1BQUFCV1h3QUFDQVZVQUZrREFWY0FWbE5VVXdRQlVnQldBd1lF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVyQWpfWGw0TUFRPT1fQWdkUUJWVUVWZ29BVzFzREFBQUFVQVJTQUFCUUJsZ0FBVklCQUFSWEFWWlFVbEZX.mp4',
   },
   {
@@ -3308,7 +3308,7 @@ export const pitchesArray = [
     url: 'MzVyQWpfWGw0TUFRPT1fVUFCVkFWUUFWUXNBQ1ZjRlhnQUFCUTVVQUZsWFZnQUFCVlFFVWdvQ0NBQlVBVmND.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVyQWpfWGw0TUFRPT1fVlFKV1ZsTlNWd0lBRHdCVUF3QUFCd05UQUZrQlZnQUFCRk5UVkFzSEJBSlFWQUZX.mp4',
   },
   {
@@ -3320,7 +3320,7 @@ export const pitchesArray = [
     url: 'MzVyQWpfWGw0TUFRPT1fQndaVVZsTUFVRk1BQ1ZNRUFnQUFCRlFDQUFBR1YxVUFWbFlBQmdjQkFRSURWVmRl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVyQWpfWGw0TUFRPT1fVWxSV0IxQlZYd3NBRHdCVVVRQUFCUVFDQUZnRkIxZ0FVVk1CQndBQkFBZFFCZ3RX.mp4',
   },
   {
@@ -3732,7 +3732,7 @@ export const pitchesArray = [
     url: 'MzVyTHlfWGw0TUFRPT1fVndsU0FRRUhVMUFBREFkV1hnQUFVd05WQUZnRFZWUUFCMXdCQVF0VVZGRUFBUVFB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cThHZXpfWGw0TUFRPT1fQlZBQVZBRUNWVmNBQ1ZaVFVRQUFCd1JUQUFNQ0JsQUFCVkFCQmdCUUJGY0RCbE1G.mp4',
   },
   {
@@ -4144,7 +4144,7 @@ export const pitchesArray = [
     url: 'UVduOFZfWGw0TUFRPT1fQWxOVFZsVURWbEFBRFFGVVV3QUFWMVFBQUZrSFZ3VUFBUU1OQTFFQkJ3WlZBRkFB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cThHZXpfWGw0TUFRPT1fQndjRlVWUlNYd1FBQ0FNQlZBQUFBMUFEQUZoVFVnY0FCd1FIQ0FjTVZ3VldVd0JU.mp4',
   },
   {
@@ -5096,7 +5096,7 @@ export const pitchesArray = [
     url: 'WVFuOHlfWGw0TUFRPT1fVlFSVkJ3WldVd1FBQUZGWEJBQUFDQVVFQUFOUlVnSUFCd1FIVTFJQ0FWSmRBUXRX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBM29fWGw0TUFRPT1fVlFWUUFGRURYZ1lBQzFNRFh3QUFWVmRlQUZrRVZRY0FDbElBQmd0VEJGZGRBbFlF.mp4',
   },
   {
@@ -5128,7 +5128,7 @@ export const pitchesArray = [
     url: 'WVFuOHlfWGw0TUFRPT1fQWdCVUFWSU1Bd01BWEFNQ0J3QUFDQTlVQUFOUldsTUFVRkpRQWxCVFZRQUFCUUpS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NU43cU1fWGw0TUFRPT1fVkFkUlhWWUJWZ0VBQ2dGWEFBQUFCRkpVQUZoV1VWVUFVRkFOQkFvQ1VsVldBUXRW.mp4',
   },
   {
@@ -5224,7 +5224,7 @@ export const pitchesArray = [
     url: 'Z0diWDRfWGw0TUFRPT1fVWdrRVhWQlhWZ1FBQVZSUlVBQUFWUVVFQUZnRkFBQUFBVkZUVmdWV0JnWlFBZ0VF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'UVduV1FfWGw0TUFRPT1fVlFZQVZnRU5Wd2NBV1ZVQlVnQUFBMUFDQUZrR1ZGQUFVMUFNQkFVREFBVUhWRkZl.mp4',
   },
   {
@@ -5328,7 +5328,7 @@ export const pitchesArray = [
     url: 'S3duYXZfWGw0TUFRPT1fQUFKWkFsQUZYZ01BQ1ZNQUJBQUFWRmNDQUFCV1cxTUFCZ2NIVmxFRkJBSUFWVlJS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdvTmRfV0ZRVkV3dEdEUT09X1VnY0RYQWRTVjFFQVd3WURVd0FBQkFBRUFBTUdWbFVBQkFCUUNBUUVCRkJRQ0FBRQ==.mp4',
   },
   {
@@ -5400,7 +5400,7 @@ export const pitchesArray = [
     url: 'bG5BOUdfV0ZRVkV3dEdEUT09X1V3SlZBbEVEVmxFQUNscFhYd0FBQWdSZkFGZ0dVbFVBQkZBQVZRVUhCQXRXQVZBRQ==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdvTmRfV0ZRVkV3dEdEUT09X0FBSUNCUVpRVUFVQUFWSUJCUUFBVWdWZUFBTldVbFVBQWxBQUJnc0FBZ3BjVmdjSA==.mp4',
   },
   {
@@ -5428,7 +5428,7 @@ export const pitchesArray = [
     url: 'S3duYXZfWGw0TUFRPT1fQWdkWFZsTUdBd1FBV2xZS1VRQUFCdzlTQUFBQVZBUUFDd05SVWxBSFZRcGNWZ1FB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFpBUGRfWGw0TUFRPT1fVkFKUkFWd0FCUVlBRGxZRlZRQUFVd2RYQUZrQ1Z3VUFWd0ZUVlZJTUJGWlFDUUFB.mp4',
   },
   {
@@ -5472,7 +5472,7 @@ export const pitchesArray = [
     url: 'bG5BOUdfV0ZRVkV3dEdEUT09X1Z3aFpVRndDQWdZQUFRWUJBQUFBVlFCVUFGa0NWUVFBVndjQUFRRldCRkFEQlFwVA==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdvTmRfV0ZRVkV3dEdEUT09X0RsVUVVRkJSVmdJQUFRZFhWd0FBQ1ZVQ0FBTU1BbFVBQVFSUlVRcFRCVkJWQkZGUQ==.mp4',
   },
   {
@@ -5516,7 +5516,7 @@ export const pitchesArray = [
     url: 'bG5BOUdfV0ZRVkV3dEdEUT09X1ZRa0hVVkpSQkZRQUMxb0RWQUFBQWdRRkFBQlFBZ1FBQkZkV0FncFJBUW9IVTFNRQ==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdvTmRfV0ZRVkV3dEdEUT09X0F3bFhCMVVEQUZBQUNRQUVBQUFBVWdaWEFGZ0dWMUlBQ2xJQUF3WURBUWRXQkFaUw==.mp4',
   },
   {
@@ -5528,7 +5528,7 @@ export const pitchesArray = [
     url: 'WVFuOHlfWGw0TUFRPT1fQXdRQ0JsSlJYd0lBRDFZQlZRQUFVZzlXQUZnQlV3Y0FDbDBIQkZBQUIxWlFBRkFD.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WGdua2FfWGw0TUFRPT1fQVZJQUFGTlFVUU1BQUZBR0J3QUFWd1VGQUZnREFGQUFWRkJYVlZJTlZWVldWQXBR.mp4',
   },
   {
@@ -5540,7 +5540,7 @@ export const pitchesArray = [
     url: 'R1phbkJfWGw0TUFRPT1fQlFKWlhGWURWbFFBQVZVRFZnQUFDRkJYQUZoVUFWVUFCbElGQUFZRlZBTmRCUUJY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdvTmRfV0ZRVkV3dEdEUT09X0J3ZFdCZ0pXQjFFQUMxUUZWZ0FBQVZJSEFBTUZXd1VBQ2xCUkFsWUdCZ05YQjFNRA==.mp4',
   },
   {
@@ -5556,7 +5556,7 @@ export const pitchesArray = [
     url: 'NU43cU1fWGw0TUFRPT1fQXdsUUJsRUJYd1FBVzFBQ0J3QUFVd0plQUZsV0FGQUFCMTFSQndBRVZGVmRCd0Zm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Z0diWDRfWGw0TUFRPT1fVUFGUkFGVUdVRmNBRFZNTEFnQUFCQWNFQUFNRVV3TUFBQVpUVVZVSENBQlNBRllG.mp4',
   },
   {
@@ -5572,11 +5572,11 @@ export const pitchesArray = [
     url: 'Tnc3cXpfV0ZRVkV3dEdEUT09X1VBVlNCUVVOQlFzQUR3QlhYZ0FBQlFRRUFBQU1WVlFBVndjRFZGY0FCZ0VCVmdBRg==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVpHa1ZfV0ZRVkV3dEdEUT09X0ExVllBbEVIVndVQURGb0JVZ0FBQkFOVEFGaFJCVk1BVVZKWEFBVURVd0JTVkFKUQ==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVyT3ZfWGw0TUFRPT1fQUZSUUFsRUhBQUVBRFZVR1VnQUFWRk1EQUZnTlZBY0FBQU5YQndkV1ZGQlFVVlpY.mp4',
   },
   {
@@ -5660,7 +5660,7 @@ export const pitchesArray = [
     url: 'MDNlbnJfWGw0TUFRPT1fVUFsUUFWQlNVZ1VBRDFFQ0FBQUFVZ1JYQUFNRVZsZ0FWd1JXQkZBTkJWWldVZ0pY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBM29fWGw0TUFRPT1fVWdFSFhWUUVYd01BRFFZRlZRQUFBZ0JlQUFBQkJ3SUFVMXdBQ1FBSEF3QlVVMWRl.mp4',
   },
   {
@@ -5700,7 +5700,7 @@ export const pitchesArray = [
     url: 'NU43cU1fWGw0TUFRPT1fVUFGVVVsY0NVd0lBRGxzSFh3QUFCd0pXQUZrRFcxY0FBVkZXVVZkUVVBVlNWQWNE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'UVduV1FfWGw0TUFRPT1fRGdGUkIxY0dVd29BWFZVR1ZRQUFCQVVFQUZnTVVGQUFCZ2NFQ0FaVVZGWURWUW9B.mp4',
   },
   {
@@ -5744,7 +5744,7 @@ export const pitchesArray = [
     url: 'bG5BOUdfV0ZRVkV3dEdEUT09X0JBWUZVUUZYVVZFQURnRUNVUUFBQVFJSEFGZ0hCbEFBQkFNREFRb0FCZ29IVVZFRg==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdvTmRfV0ZRVkV3dEdEUT09X1YxZFdWbElOVUZNQUMxc0tVZ0FBVlFaUkFGZ01BVlVBQWxZR0FnRUNDVlZXVXdGVw==.mp4',
   },
   {
@@ -5824,7 +5824,7 @@ export const pitchesArray = [
     url: 'Z0diWDRfWGw0TUFRPT1fVWdZQVhGMVFBRkFBQ0FkUUFnQUFWd1plQUFCWEFnVUFWMUpVQkFGWENGSUVCQU5Y.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVyT3ZfWGw0TUFRPT1fVWxKWVZBSlNWVllBQ0ZwV0FnQUFBUUJWQUFOVFZGVUFWRlVNQVFkUUFsRlJBZ2RU.mp4',
   },
   {
@@ -5832,7 +5832,7 @@ export const pitchesArray = [
     url: 'S3duYXZfWGw0TUFRPT1fQXdoVFhGUlZCMU1BQUZaUVh3QUFVZ2NBQUFBQlZsVUFBZ0FHQ1FaVFZBZFNBZ0JY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVpHa1ZfV0ZRVkV3dEdEUT09X1VGTlpBVllHQkFFQVdnRlRCd0FBVkFKVEFBTlJVUWNBQVFFRlZBVlhBd0pYVmxOZg==.mp4',
   },
   {
@@ -5928,7 +5928,7 @@ export const pitchesArray = [
     url: 'Tnc3cXpfV0ZRVkV3dEdEUT09X1VBZFdBbEVNQXdzQUNsQldWQUFBVjFNSEFGa0dVZ1VBQUZVQ0FBWlhDQVZXQkFwZg==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NU43cU1fWGw0TUFRPT1fQmxJRlhGWlNWRmNBV1ZSUlZBQUFWQUpVQUFCUkFsQUFVMVZSVWdvRVZRWUdWZ0JW.mp4',
   },
   {
@@ -5940,7 +5940,7 @@ export const pitchesArray = [
     url: 'bG5BOUdfV0ZRVkV3dEdEUT09X1VGUUVVbFVHVlFZQVhsTUVWQUFBVWc5VkFBTURBZ1VBQmdjSEFBWlJVZ3RRQ0ZGVw==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NU43cU1fWGw0TUFRPT1fVndoWkFnVU1VQXNBQUFFTFV3QUFCbE5UQUFNTkJsZ0FVVndGQVZaVEF3SUdWQU5V.mp4',
   },
   {
@@ -5956,7 +5956,7 @@ export const pitchesArray = [
     url: 'MDNlbnJfWGw0TUFRPT1fRGdsVVVWRUZWZ0lBRDF0WFVnQUFCUVJSQUZnTVYxVUFBbElIVlFRSFVGZFRBQUlI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBM29fWGw0TUFRPT1fRGxjRlVGd0NVUUVBQ0ZGUlZnQUFWVk1FQUZrQkJ3UUFVRlpUVlZGVUF3VlJBd0ZY.mp4',
   },
   {
@@ -6044,7 +6044,7 @@ export const pitchesArray = [
     url: 'UVduV1FfWGw0TUFRPT1fQndWVlVWME5CVkVBWEZNQ1ZBQUFVMUpRQUZsWEFRUUFCMU1HVkFRQ0FnRUJCMUJY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WGdua2FfWGw0TUFRPT1fRDFjQ1ZWMENYMUFBV1ZBTFZ3QUFDQU5XQUZoUlcxZ0FBd1FBQ0ZCUUFsRlhBRlFE.mp4',
   },
   {
@@ -6120,7 +6120,7 @@ export const pitchesArray = [
     url: 'eFpBUGRfWGw0TUFRPT1fQndWWVZnQURBQUlBWEZWUVVRQUFWQUZYQUZnRUFRTUFWMU1IQ1FJQ0NRVmRVbEJT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WGdua2FfWGw0TUFRPT1fVUFkVVVBZFdBd29BVzFJRFhnQUFBZ1JlQUFOVVZnSUFDZ0JUQTFGV1ZGVmRCVlFI.mp4',
   },
   {
@@ -6160,7 +6160,7 @@ export const pitchesArray = [
     url: 'elpBM29fWGw0TUFRPT1fQmxkVEIxQUFVZ0FBQzFzRFVBQUFBQVVGQUFOWFcxUUFBQUFBQmdGV0IxWUJBVmNI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Z0diWDRfWGw0TUFRPT1fVkFoVVhGTU1YZ0FBRFZOUVZBQUFDRlVFQUFNRFZsTUFBVmNCQWdBRFZBTlNDUWRm.mp4',
   },
   {
@@ -6224,7 +6224,7 @@ export const pitchesArray = [
     url: 'MzVyT3ZfWGw0TUFRPT1fQkFNRUJRY0JYd3NBRHdRSFZnQUFBbFZlQUFNSFZRVUFVQVFBQTFCV1ZBQlJWbEFD.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVyazZfWGw0TUFRPT1fRHdOU0JnWUZWUVVBQUFFQVZBQUFBQVVIQUZsVFVsVUFBQUVEVWdBTVZWRURDQVFE.mp4',
   },
   {
@@ -6256,7 +6256,7 @@ export const pitchesArray = [
     url: 'ZW5NamJfWGw0TUFRPT1fQmdBSFVGd01CUUVBREZJRFh3QUFWUWNEQUZnSEJ3SUFVVlpSVVZWWEJsVmNVd3BU.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5MNWJfWGw0TUFRPT1fQmdJQVVGQUJWbFlBQUFaV1ZnQUFBMUpVQUFNRUFsTUFVd0JSQUFRQ0FRUUhBRllB.mp4',
   },
   {
@@ -6272,7 +6272,7 @@ export const pitchesArray = [
     url: 'ZW5NamJfWGw0TUFRPT1fVWxkVVhGWUZBMVFBRDFFQVV3QUFBVk1EQUZsVUJRTUFVQU1HQWxWVFVBQUJCRk1E.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'V3luNllfWGw0TUFRPT1fVlFBRVhRWlJCVmNBQUZvRlhnQUFWQTVmQUFBRlZGa0FDd01DVmxZTVZGVUhVVlpU.mp4',
   },
   {
@@ -6420,7 +6420,7 @@ export const pitchesArray = [
     url: 'ZW5NMm9fWGw0TUFRPT1fVUFsVVZsMEFBRk1BV2xwWEFBQUFVdzlTQUZnRFVnTUFCVklFVkFWV0ExQmNDRmND.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5NamJfWGw0TUFRPT1fQmdnRkJsZFdWUVFBQ2dOWFVnQUFBdzlYQUFBRkFsVUFVUUZSQmdZQ1V3SUFWZ05R.mp4',
   },
   {
@@ -6524,7 +6524,7 @@ export const pitchesArray = [
     url: 'anFaRzVfWGw0TUFRPT1fRGdkWVVGVlNCUU1BV2dSVVZRQUFWUUJWQUFCV0FsVUFVd0ZRVVF0VUNBQlJCMUJV.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5MNWJfWGw0TUFRPT1fQmdaWkFBZFNBd3NBV1ZzSFZ3QUFVMVJTQUFCV1dsRUFBd0VCVWdjQUFnY0VDVkZR.mp4',
   },
   {
@@ -6544,7 +6544,7 @@ export const pitchesArray = [
     url: 'MVlqbnJfWGw0TUFRPT1fRGxVQUFRQlJBQW9BQzFaUkFBQUFCMUlDQUZrQlVnSUFWMVlFQXdNQUFBRmRVd0JW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVyazZfWGw0TUFRPT1fQlZOVFhBRUVVZ0FBV1ZkVUFBQUFDUUFFQUFNQVZRVUFBRmRSQXdaUUJGWlZCRmRT.mp4',
   },
   {
@@ -6588,7 +6588,7 @@ export const pitchesArray = [
     url: 'ZW5MNWJfWGw0TUFRPT1fVkFrQ0FWRUVYZ0VBRDFvRlZRQUFWVmNGQUFNQlVsWUFDd05YQmdNTkFndFZWUUZm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'S3duQmpfWGw0TUFRPT1fQndWWlVGTlZYMU1BQ2xJS1h3QUFBZ2NEQUZoUlVWWUFDbEVCQ1FNRVZ3dFhBbE5Y.mp4',
   },
   {
@@ -6604,7 +6604,7 @@ export const pitchesArray = [
     url: 'MVlqbnJfWGw0TUFRPT1fVXdBSEJsQlFVd1FBQUZBS1ZRQUFCQUpSQUFOVEFsVUFVRmRSQWxKUUJBRmNBZ1JY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'V3luNllfWGw0TUFRPT1fVXdWVFZBY05BRk1BRDFRS1h3QUFVRkpmQUZoUUFWa0FWMTBHQ1FCV0FGSlhBd05S.mp4',
   },
   {
@@ -6636,7 +6636,7 @@ export const pitchesArray = [
     url: 'ZW5NMm9fWGw0TUFRPT1fQmxBQUJ3SlNBd2NBV1ZNR1VBQUFWd1pXQUFNREFRQUFCd0FOQWdWV0JGZFJDUWRU.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5MNWJfWGw0TUFRPT1fQmxOVEJWZFhCUUFBWEZ0UVVnQUFCZ0JSQUFBRFVBTUFBMUlHVWxjREJWSUdWQVVF.mp4',
   },
   {
@@ -6704,7 +6704,7 @@ export const pitchesArray = [
     url: 'MVlqbnJfWGw0TUFRPT1fVndjSFhBVlFCUUFBV1ZRQVVnQUFBQThFQUFCVEFBY0FWbDFYVkFOUlVGY0VWZ0FG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5MNWJfWGw0TUFRPT1fQVFWWVZGRlJVbE1BWFZZSFZnQUFBVlVDQUZsWFZGUUFCbHdHVlFVRVVnVlVCbFFB.mp4',
   },
   {
@@ -6716,7 +6716,7 @@ export const pitchesArray = [
     url: 'elpBQlpfWGw0TUFRPT1fVndKU0FGRURWRlFBV2dRQUFBQUFWRkJWQUZoVEFGWUFVVjBHVmdvSEFGVmNBZ0FB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MVlqTjJfWGw0TUFRPT1fQkFrRFUxeFZBZ3NBWGdFRlZRQUFVdzhEQUZnQVdnY0FCUVlFQlFFREIxQmNBUU1G.mp4',
   },
   {
@@ -6728,7 +6728,7 @@ export const pitchesArray = [
     url: 'ZW5MNWJfWGw0TUFRPT1fVTFSWlZRVldVQWNBQ2dCVUFBQUFWUUpRQUZnREFGa0FWbFlDQmxaVEJGQlRVUU5U.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'anFaYnhfWGw0TUFRPT1fQmxNRUJnQUVWMVlBWGdRRFZRQUFDUUVIQUZrQVZRTUFWMU1EQ0FSWFVsRlFVUVlI.mp4',
   },
   {
@@ -6828,7 +6828,7 @@ export const pitchesArray = [
     url: 'ZW5MNWJfWGw0TUFRPT1fVlFaVkJ3SUZCQU1BQUZZQkJBQUFVZ0VEQUZnTVVGZ0FWQUVGVWxBTUFWVldVMUFD.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5MNWJfWGw0TUFRPT1fQTFkUlZsTU1VMVFBQ1FjQ0JRQUFDQThGQUFCVVZRVUFBVllHVlZJQ0NWVlNBQVpm.mp4',
   },
   {
@@ -6904,7 +6904,7 @@ export const pitchesArray = [
     url: 'V3luNVJfWGw0TUFRPT1fQmdaVlUxVUFWd1VBVzFjRkJBQUFCRlZTQUFNQkJsUUFVQWNDQjFBQVV3UURBVlFB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5MNWJfWGw0TUFRPT1fQVFOV1YxQUNVZ1lBRHdaUUF3QUFBRkJXQUFCUkFnY0FDbEJSVWxkVFZWZFJVbGRX.mp4',
   },
   {
@@ -6988,11 +6988,11 @@ export const pitchesArray = [
     url: 'dk1HNzNfWGw0TUFRPT1fQmdrSFUxTUVWUVlBV2xjRVVnQUFBRkJSQUZsVFUxWUFBVkJVVlZaVUFnQlZVZ0VB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5NMm9fWGw0TUFRPT1fQmxWV1Z3Y0NBZ0lBRFZBS1V3QUFBd1pRQUFOVFVBVUFBUUZYQkZGVUF3UlVBVlFB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MVlqTjJfWGw0TUFRPT1fVWxJRVUxRUhCVllBV1ZjTFh3QUFBbE5RQUFOUkJWTUFCQVFFVlFJQ1VndFNWZ0JS.mp4',
   },
   {
@@ -7028,7 +7028,7 @@ export const pitchesArray = [
     url: 'V3luNVJfWGw0TUFRPT1fRGdZRVV3WlZVd0lBV3dCVEFBQUFBQVFBQUFOUkJRTUFCMUlCQ1FVREJRb0FVbGRW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5MNWJfWGw0TUFRPT1fRHdoU1VWd0VBbEVBWEFFSEJBQUFBVlJRQUFBRFZnQUFCbHdFVlFNQUNRQlhVZ1JW.mp4',
   },
   {
@@ -7124,7 +7124,7 @@ export const pitchesArray = [
     url: 'ZW5NamJfWGw0TUFRPT1fVUFaWlhRQUJCUU1BVzFBS0F3QUFCdzVWQUFNQVUxVUFBd1lNVXdaVUNGY0RVMVFB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'V3luNllfWGw0TUFRPT1fQUFGUVYxMEFVQU1BQ2djQ1ZBQUFCQU1DQUFNTlZWTUFWbDBGQXdKUlZGY0RBRk5W.mp4',
   },
   {
@@ -7156,7 +7156,7 @@ export const pitchesArray = [
     url: 'elpBQlpfWGw0TUFRPT1fVlZNRUJWWUJBd01BQUZGUVZnQUFVQUJWQUFNTVVnVUFBUVFCVVFWUUJRUlNWVlpY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'S3duQmpfWGw0TUFRPT1fRHdsV1hGUlJYd0VBV3dNQVVnQUFVQU1IQUFNQ0FWTUFDMVVCQkZWUVV3QlNWQVFF.mp4',
   },
   {
@@ -7220,7 +7220,7 @@ export const pitchesArray = [
     url: 'ZW5MNWJfWGw0TUFRPT1fQlZJREJsTUhVUVlBQzFCWFV3QUFVQUpRQUZoV1VGRUFVRjBEVTFjQVZBQlFWZ0lD.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5MNWJfWGw0TUFRPT1fQUFZQ1VGZFJBbFlBWGxZR0FnQUFWVmRlQUZnSEJsZ0FDZ1pSQlFFQUJ3SldBZ29G.mp4',
   },
   {
@@ -7244,7 +7244,7 @@ export const pitchesArray = [
     url: 'MVlqbnJfWGw0TUFRPT1fQndOVVYxVUhBMUFBQVZJTFZnQUFCbGRYQUFOUldsUUFWQVFBQmdaV1ZGVlJVMUZX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVyazZfWGw0TUFRPT1fVkZJRUFnQURWd0VBWEFRR0FBQUFVZ1JlQUFNTUFnSUFBRkZXQjFkVENWY0RBZ1Zm.mp4',
   },
   {
@@ -7256,7 +7256,7 @@ export const pitchesArray = [
     url: 'S3duQmpfWGw0TUFRPT1fQTFOVlZBRUZVZ3NBWFFkUVV3QUFDVlZlQUZsVVZWY0FBMUFOQndCVEIxZFdCZ1pT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5MNWJfWGw0TUFRPT1fVTFKUlhBVlNWd1lBWFZRRFVnQUFWUU5lQUFNRlVBVUFDMTBGQ0FVQ0JsQmNWbEFE.mp4',
   },
   {
@@ -7272,7 +7272,7 @@ export const pitchesArray = [
     url: 'MVlqbnJfWGw0TUFRPT1fRGdnREJWSldWVmNBWGdaUUJ3QUFBZ05XQUZnR0FGSUFCVlJVVTFaV1VBVlVVbFlI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MVlqTjJfWGw0TUFRPT1fVXdCUlYxUlZBbFlBQ2xCWFV3QUFDVmRSQUFOVVZsUUFDbEZVQTFCVUFWSURBd2NB.mp4',
   },
   {
@@ -7344,7 +7344,7 @@ export const pitchesArray = [
     url: 'elpBQlpfWGw0TUFRPT1fQmdnRkFGRlFVVmNBQ0ZNQ0FnQUFCZ0FIQUFNR1dnY0FCQVlFQVFvRkExSmNDUVJX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5NMm9fWGw0TUFRPT1fVlFFRFZsMEZVUUlBRDFGV1VnQUFBZ0FGQUZnQVZWUUFVVkZSVWdwUUFsZFZDQUJX.mp4',
   },
   {
@@ -7356,15 +7356,15 @@ export const pitchesArray = [
     url: 'MzVyazZfWGw0TUFRPT1fVWxCWUJ3SUNBbEFBQ2dOV1hnQUFCRkJXQUFCUVZWSUFDMTFUQ0FWWEFsQlVBMVJm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5MNWJfWGw0TUFRPT1fVUFKWUJWeFJYMUFBRGxSUlhnQUFWQUZWQUFOUlVBSUFCMWNNQUZBRkJ3UlZDQW9E.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5NamJfWGw0TUFRPT1fRGxSWVVWQUJWZ0lBQzFJSFh3QUFCZ1pmQUFBSFZWa0FWQWNOQWxFTkJ3dFVBQUJY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'S3duQmpfWGw0TUFRPT1fRHdoVVUxVURBQVVBREFGUkFBQUFWQWNGQUFBTVdnTUFCMUZXQlZBTkJBUUVVbE5l.mp4',
   },
   {
@@ -7420,11 +7420,11 @@ export const pitchesArray = [
     url: 'V3luNVJfWGw0TUFRPT1fQmxkVkIxVUdBd3NBRHdRQ0JBQUFBVmRSQUZrRFVsY0FWd01HVkFRREFRVlFCd1ZU.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5NMm9fWGw0TUFRPT1fVndGUVhGQlFVQU1BVzFNRVhnQUFCZ2RSQUZrTkJsRUFWbFFDQTFGUVVBWURVZ1Zl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBQlpfWGw0TUFRPT1fQUFoVFZsd0VBQWNBRGxzRVZRQUFWd0JSQUFNTVVsZ0FBQU1GVWdBTVVsQlJDUUlF.mp4',
   },
   {
@@ -7444,7 +7444,7 @@ export const pitchesArray = [
     url: 'WGc0MlpfWGw0TUFRPT1fVUFaWlUxTlhVZ1FBRGxwWFVnQUFCQVFDQUFNQVVWTUFBMUFBVmxkWEJnTlNBZ01G.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5NMm9fWGw0TUFRPT1fVXdoVFVnSUZYMWNBQ0ZZQ1h3QUFBd0JmQUFNQlVRUUFBMVZSQmdaWFVsRURCVlFD.mp4',
   },
   {
@@ -7536,7 +7536,7 @@ export const pitchesArray = [
     url: 'b25vcktfWGw0TUFRPT1fVXdnRlVGQU1BZ0lBQVZKVUJ3QUFBd1JYQUZoWEJRQUFDbEVEQTFVREJBZFNVd1VF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MkJ3ajVfWGw0TUFRPT1fVjFRRlZsd0VWUVVBWEZBSFV3QUFWVkJTQUZnR1ZWTUFBd1lHQmdVRkF3VlFWbGRU.mp4',
   },
   {
@@ -7760,7 +7760,7 @@ export const pitchesArray = [
     url: 'N1pHOEFfWGw0TUFRPT1fRGxSV1YxWlhVVmNBQ2xvQ1ZnQUFCUUZSQUZnTVd3TUFWZ1lCQ1FCUUJRQUJBZ0ZY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NjREZDJfWGw0TUFRPT1fQmxOVFZseFdWUXNBWGxOVEJBQUFBd0VBQUFOUUJ3TUFVVjFVQUFFRlZRUUFCbGRX.mp4',
   },
   {
@@ -7844,7 +7844,7 @@ export const pitchesArray = [
     url: 'UGpsbzNfV0ZRVkV3dEdEUT09X1VGTllWQUJWWDFRQUMxTlVYZ0FBQUFFRkFGaFJVZ0lBVTF3RUJBc0NBQW9BQmdGUw==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MDM4b3hfWGw0TUFRPT1fQUFSU1ZGMEFBQXNBQVZNTFVBQUFCRk5lQUZnRVVGVUFVMVlEVWdzRFZWVlFBQVVG.mp4',
   },
   {
@@ -7892,7 +7892,7 @@ export const pitchesArray = [
     url: 'dzdBREFfWGw0TUFRPT1fVkZCVVZRRlZBbEFBQ2xaV1hnQUFCQUVEQUFNR1ZRUUFWQU1FQWdwVVVGZFVCd0lB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'b25vcktfWGw0TUFRPT1fVWdFRVhBRlhYMVlBRGxRQ0FBQUFBd1FFQUFNRlUxTUFDbFZSQTFjREJnTlZVMWNB.mp4',
   },
   {
@@ -7940,7 +7940,7 @@ export const pitchesArray = [
     url: 'UlczeE5fWGw0TUFRPT1fQUFJQVUxMEFCRmNBWEZCUUJBQUFVd1JlQUZoUUJsRUFWMUpYQndjRkNBb0JDVkZX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MVlqMXJfWGw0TUFRPT1fVUFGWkJsRldBQVVBVzFBQ0JBQUFBZ2NIQUFOUVdnTUFBVndGQlFGWEFsVUVCVkVB.mp4',
   },
   {
@@ -8240,7 +8240,7 @@ export const pitchesArray = [
     url: 'NjRRQTJfWGw0TUFRPT1fRGdRRFZ3VUZVUUVBRGxJTFZBQUFWd05XQUFNQ1ZsZ0FBZ0FOQXd0UUIxQUhCUVZm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NjREZDJfWGw0TUFRPT1fQndZSEFRY01CVkFBVzFSVFVRQUFCZ0FBQUFNQ1ZBTUFDMVVFVVZaUVZGRmNDQVpm.mp4',
   },
   {
@@ -8472,7 +8472,7 @@ export const pitchesArray = [
     url: 'T1FWZzBfWGw0TUFRPT1fQWdJRVZsSU1WRkVBWEZVQlVRQUFBVlFGQUZnRFZBY0FCd1pRQUFOVEJ3VUJCd2RR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NjREZDJfWGw0TUFRPT1fVTFBQUJsUU1WVmNBWFFkWFZRQUFBbElFQUFNRVVWY0FDZ1pUQUZWVVZWSmNCZ3BU.mp4',
   },
   {
@@ -8624,7 +8624,7 @@ export const pitchesArray = [
     url: 'dzdBREFfWGw0TUFRPT1fVlFGU0Fsd0dVd0FBWGxvQkFnQUFDRlFBQUZrTVVWUUFWMXhUQUFKVEJRdFFWbFpV.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MVlqMXJfWGw0TUFRPT1fQjFBQ1ZBWlZWd0VBREZ0WEF3QUFVQVlGQUFCV0FWVUFBbHhXQkFFRkFsRmRVZ2NF.mp4',
   },
   {
@@ -8636,7 +8636,7 @@ export const pitchesArray = [
     url: 'NjREZDJfWGw0TUFRPT1fVXdkU0FRQlNYMUFBQUZzSEFBQUFDQU1GQUZsWFVRQUFVUWNCVWdvREFnRUVWZ2NE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MVlqMXJfWGw0TUFRPT1fVWxOVEFWRU5YMU1BQ1ZjRVZ3QUFVQVpXQUFBQVVGSUFWRlJYVXdNREFRVldCVkJl.mp4',
   },
   {
@@ -8660,7 +8660,7 @@ export const pitchesArray = [
     url: 'NjREZDJfWGw0TUFRPT1fVXdRRVVGQUZYd0lBWEFZS1ZRQUFVQVlGQUFBQ1ZBVUFCRjBGVlFSUUFnSlNBMWNF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'dzdrNjNfWGw0TUFRPT1fRDFJQ0IxWlZVbGNBQUZJSFh3QUFDQVJYQUFBQlVBQUFVd2NIQlZBRkFWZGRVVllF.mp4',
   },
   {
@@ -8768,7 +8768,7 @@ export const pitchesArray = [
     url: 'OGdqeWVfWGw0TUFRPT1fVlFkVlZBY0ZBd1VBQ2dFRFVRQUFVd2NGQUFCV1cxRUFVVllGQTFWUlZ3UlNWZ1ZV.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cThrMzFfWGw0TUFRPT1fRGdkUlhWQlZBMWNBV3dFTEJRQUFVbFZRQUZrQlZsUUFVRmNEQkFvQVVsQUVCMUVG.mp4',
   },
   {
@@ -9144,7 +9144,7 @@ export const pitchesArray = [
     url: 'UGpxdmRfWGw0TUFRPT1fVXdZQVZGVUdWd29BWGdFS1ZnQUFDVk5XQUFCVUJ3UUFBMVFHVmd0VFUxWlNCMWRR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cThrMzFfWGw0TUFRPT1fQUZOUkFnVlJVQWNBWFZZRFZRQUFCVk5UQUZoVVYxZ0FVd05UVXdkWFZWQUVCRk5T.mp4',
   },
   {
@@ -9356,7 +9356,7 @@ export const pitchesArray = [
     url: 'QnZHWGJfWGw0TUFRPT1fVndoVVVWRURBQVVBRDFvQUJRQUFVRk5VQUZsVVVGRUFCZ1lEQ0ZFREFBdGRVd29F.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'QnZHWGJfWGw0TUFRPT1fQUFFRFVWUlZCRkVBWFZzREFBQUFVd0JVQUFOVVZnVUFWbDBDQlFWUlV3UUFCUVlD.mp4',
   },
   {
@@ -9408,7 +9408,7 @@ export const pitchesArray = [
     url: 'MVlqVzlfWGw0TUFRPT1fQXdOVkJRWlFCQXNBRGxOUVZBQUFWVlZRQUZrR0JsRUFBUVpVQjFZQlV3cFhWUWRW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cThrMzFfWGw0TUFRPT1fVXdNRFVsMEZBd2NBQ1FjRVVRQUFBZzhGQUZnRlVGTUFVVlJRQmdaWEJnSlhWQXBm.mp4',
   },
   {
@@ -9484,7 +9484,7 @@ export const pitchesArray = [
     url: 'QnZHWGJfWGw0TUFRPT1fQVZkWlZGd0dWUVVBRGxkWEFnQUFDQVlFQUFNQVVsWUFDd1pSQlZjTkNBQUhVUWRm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cThrMzFfWGw0TUFRPT1fRGdNRVVsME1Yd0lBQ0ZaVUJRQUFWdzVTQUZrRUJnVUFCMXhYVmxJRVUxVUVVbEJR.mp4',
   },
   {
@@ -9764,7 +9764,7 @@ export const pitchesArray = [
     url: 'UGpxdmRfWGw0TUFRPT1fVjFkVlhWRlFVQXNBVzF0UVZBQUFBd0pWQUZrRVd3SUFDd1lEVWdRR0FsVUFCUVJS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'QnZHWGJfWGw0TUFRPT1fQVZCVUFGRUhVbEFBRGxCWFZRQUFDUUlGQUZrR1ZGVUFDd2RRVmdFRFVnVmNWUUpX.mp4',
   },
   {
@@ -9908,7 +9908,7 @@ export const pitchesArray = [
     url: 'YUs0RERfWGw0TUFRPT1fVkFSVEJRSUVWbFFBV1ZWWFZBQUFCbE5WQUFBQUFWUUFBbEFBQmxjSEF3ZFJBZ3RU.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'QnZHWGJfWGw0TUFRPT1fQTFVRVZRQlNWQW9BQ0FjS1Z3QUFVQUpVQUFBQlYxQUFWbDFVVmdCVEF3VlZWUU5Y.mp4',
   },
   {
@@ -9988,7 +9988,7 @@ export const pitchesArray = [
     url: 'b25vWlFfWGw0TUFRPT1fQVFRRkFBZFNBd01BQzFRSFVRQUFDRkJXQUFNTlVRSUFCUWNNVXdCVFV3WmRBd3ND.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'b25vZVdfWGw0TUFRPT1fRHdaWVV3VUJCVllBWEZjS1hnQUFBRkpRQUZrQUJnUUFBQVlFVWdaVVZ3VlFWRkJV.mp4',
   },
   {
@@ -10008,7 +10008,7 @@ export const pitchesArray = [
     url: 'dk1HUDZfWGw0TUFRPT1fVXdRRFYxSURYbFFBQUZzRVhnQUFCQVVBQUZrRUFGSUFBd0ZVQ0ZFSEJnZGRWQXBm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'b25vZVdfWGw0TUFRPT1fQUFVRlUxQU5Bd0lBRDFzQVZnQUFBUWRlQUFCUUJsUUFVUU1CQndCVUNGSlhCUWNG.mp4',
   },
   {
@@ -10068,7 +10068,7 @@ export const pitchesArray = [
     url: 'elpBWTdfWGw0TUFRPT1fVndkWkFsY0hBbE1BWGxGUUJBQUFVd1lDQUZrQkJsVUFVUU1GQ0ZkUlZRUlFBd1ZT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'anFadlhfWGw0TUFRPT1fQUFoUUJWRlJVQU1BQ1ZWUUF3QUFWVlJTQUFNRlZWZ0FWbDBFVkF0VVUxRUFBRkJl.mp4',
   },
   {
@@ -10100,7 +10100,7 @@ export const pitchesArray = [
     url: 'Tnc3a2tfWGw0TUFRPT1fVWdGWVYxY01WUVFBV2xZRFZ3QUFBdzllQUFNQ1dnY0FVRjBIQ1FKV0FsVUJBUWRX.mp4',
   },
   {
-    pitch: 'FO',
+    pitch: 'FS',
     url: 'ZW5NMDZfWGw0TUFRPT1fQWxSUlhBQlNBQXNBQ1ZFTEJ3QUFCd01DQUZnREFsTUFCZ1lGQjFZQ0JncFFBZ0pT.mp4',
   },
   {
@@ -10132,7 +10132,7 @@ export const pitchesArray = [
     url: 'elprTnhfWGw0TUFRPT1fQXdkWkFnSUhYMVFBV1ZJQUJ3QUFBVkJVQUFOUVZGY0FVd1lHQWxZR1VBY0hBMVlD.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Tnc3a2tfWGw0TUFRPT1fQmxBSFVRSlFCRk1BQ2dRTFh3QUFVZ0pYQUZnRVdsQUFDMVVDVlZVQ1VsZGNCQVlE.mp4',
   },
   {
@@ -10140,7 +10140,7 @@ export const pitchesArray = [
     url: 'QnZHem5fWGw0TUFRPT1fQmdaUlZseFhVQUlBRDFOUlZRQUFCbEJVQUFBTUJnY0FWbEVOQWdVTVZ3dFFBZ0pS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5NMDZfWGw0TUFRPT1fQlFsVUFWeFdBd29BV2xvQUJRQUFWMUpWQUFNTUFGSUFBVjBOVmxVTVZWRUVDQUpT.mp4',
   },
   {
@@ -10212,7 +10212,7 @@ export const pitchesArray = [
     url: 'QVlCenhfWGw0TUFRPT1fVlZRRFZWQlFVQVlBQ3dOVFZBQUFCUThDQUZnRFZGUUFBQUJVVTFVSFVnTUhCQXRW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5NMDZfWGw0TUFRPT1fVkZjRVZnRlJVQU1BV1ZJS0F3QUFBMU1BQUFBRlUxVUFBQU5XVWdNQlZGRmNBRllE.mp4',
   },
   {
@@ -10232,7 +10232,7 @@ export const pitchesArray = [
     url: 'cmVBTjFfWGw0TUFRPT1fVlZCWlhBRUdVVllBV1ZCWFZBQUFBQVVBQUFBQlV3SUFCVjBBVTFZR0NBdGRVZ0pY.mp4',
   },
   {
-    pitch: 'FO',
+    pitch: 'FS',
     url: 'elpBWTdfWGw0TUFRPT1fQUFWUVhBSU1YMUVBQVFBRFV3QUFWQUZYQUZrSEFGY0FVd1lGQTFFQlZBTlRBd1pT.mp4',
   },
   {
@@ -10312,7 +10312,7 @@ export const pitchesArray = [
     url: 'RFhHa1pfWGw0TUFRPT1fVkZjRlVnRUhBZ1lBQUZRR0JRQUFBZ2RSQUZoWFVBTUFBbFFGVVFRRUJBWlRBMU5W.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'anFaZXhfWGw0TUFRPT1fQlFaWUFsQURYZ0VBQ2xjRFZ3QUFBZ0JSQUZoWFV3QUFCd0ZYVWdOUUF3b0JCUVVB.mp4',
   },
   {
@@ -10356,7 +10356,7 @@ export const pitchesArray = [
     url: 'OVo4QWJfWGw0TUFRPT1fQXdsWUJWMEhCQXNBWFFZS1ZRQUFVd1pSQUFNRlZGUUFBMVFNQmdFQ0IxQUFBbEJT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxuTk5fWGw0TUFRPT1fQmxSV0J3WldWUVlBV3dGUlZRQUFVd2NFQUFBRlUxQUFWMU1HVmdzREFRdFdWZ2NB.mp4',
   },
   {
@@ -10388,7 +10388,7 @@ export const pitchesArray = [
     url: 'OVpHYUdfWGw0TUFRPT1fRHdjRUFGRUhCQUVBWEZNQkJ3QUFWVkFEQUZrSFVBSUFDZ2RVQVZkV0ExRlZCVmRS.mp4',
   },
   {
-    pitch: 'FO',
+    pitch: 'FS',
     url: 'elpBWTdfWGw0TUFRPT1fVlZVQ1hBSUVCMU1BWEZvRlV3QUFWVkFFQUFCWFVWVUFVUU5YVXdJRUNRcFhBZ0lI.mp4',
   },
   {
@@ -10420,7 +10420,7 @@ export const pitchesArray = [
     url: 'TVpyeldfWGw0TUFRPT1fQkFJRVhGMVNWRmNBWFZzRUFnQUFVd0pVQUZsV0JWTUFDZ1FHQWxJTlZGY0FVZ1JS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'anFadlhfWGw0TUFRPT1fQkZCWkFBSlNVQVFBWFFGVUJRQUFBZ0ZTQUFBQkFGQUFBUWNIQUFWVFVsQlRCQVJV.mp4',
   },
   {
@@ -10448,7 +10448,7 @@ export const pitchesArray = [
     url: 'bG5BOGRfWGw0TUFRPT1fQkZCWEJWVUVWVlFBQ0FZRVZ3QUFVZzlTQUZsUVYxVUFWQVlHQmxFTkJ3cFRVUXBX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxuTk5fWGw0TUFRPT1fQWdkU0J3WUNBbGNBWGxCUVZ3QUFCQUVBQUZoVUFsRUFBbFpXQTFFQ0NRSlRBUWND.mp4',
   },
   {
@@ -10520,7 +10520,7 @@ export const pitchesArray = [
     url: 'WmUxZE9fWGw0TUFRPT1fQkFaU1ZsRUNYd0FBQUFOUVZBQUFWRmNEQUZnTUIxUUFWMUpRVWxZTVZ3Y0RWVmRY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'QnZHem5fWGw0TUFRPT1fQkZjQUFWRUhWUW9BV2daUVhnQUFDQVFBQUFCWEJsa0FCUUVNQlZWVFZRWlVCbFJm.mp4',
   },
   {
@@ -10548,7 +10548,7 @@ export const pitchesArray = [
     url: 'S3duVlJfWGw0TUFRPT1fQkZWWVUxTUZWZ3NBWFZkVFh3QUFDQThEQUFNQkFBQUFWd01NVVFCVUJBUmNBZ1VF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVpHYUdfWGw0TUFRPT1fQmdSWlZRSlNCVkVBV2xzQ0FBQUFCZ1ZTQUZrSEFGWUFWMVFNQlZFTlVBWmNBZ0ZR.mp4',
   },
   {
@@ -10584,7 +10584,7 @@ export const pitchesArray = [
     url: 'elprTnhfWGw0TUFRPT1fQlZJREJWRldBMVlBQ3dkV0FBQUFDQVlEQUZsUUFRSUFWMU1DVWdZRlVBUlhCQXRl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5NMDZfWGw0TUFRPT1fQTFjSFhWVUVCUUlBQ2xzRlZnQUFDUVpXQUZrSFZGY0FWMVZSQmxCV0FGWlRCZ1VI.mp4',
   },
   {
@@ -10632,7 +10632,7 @@ export const pitchesArray = [
     url: 'bG5BOGRfWGw0TUFRPT1fVUFKU0JnSldWZ1VBRFZzREFBQUFCUThDQUFNTUFGTUFBd1JXVmdVTUFGVlJVUXRW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Tnc3a2tfWGw0TUFRPT1fVlFFSFhRQURBMVlBRGxSWEF3QUFBd0pVQUZsVVZsQUFBMU1OQ1FwUkJWWlRDVk5T.mp4',
   },
   {
@@ -10716,7 +10716,7 @@ export const pitchesArray = [
     url: 'S3duVlJfWGw0TUFRPT1fVUZkV0FsUUVCMU1BREZwVEF3QUFDUWRSQUFBTVUxY0FCVkVHVVFZQkNWRUhVZ3RS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxuTk5fWGw0TUFRPT1fQmxJQ0FsVlJCRkFBRGdNREFBQUFDQVpRQUFCV0FRQUFBQWRYVWdGWEFnb0JCbEJm.mp4',
   },
   {
@@ -10780,7 +10780,7 @@ export const pitchesArray = [
     url: 'S3duVlJfWGw0TUFRPT1fVlFaVFVsTUJWRkFBWFZWUkJBQUFBRlVGQUZsV0FBY0FWRmRYQXdzQkFGSlVCZ3BV.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxuTk5fWGw0TUFRPT1fQVFKVVZBY0JYbEVBRGxOUlhnQUFWUUVDQUFCV1V3UUFDd0FDQlFZSFZGZFJCZ0ZR.mp4',
   },
   {
@@ -10816,7 +10816,7 @@ export const pitchesArray = [
     url: 'QnZHeEJfWGw0TUFRPT1fRHdoWVZ3WUNWZ1VBWGdOVVVBQUFBQThDQUFNR1ZGWUFBRkVBQ0FFQkFRVUFWUVlD.mp4',
   },
   {
-    pitch: 'FO',
+    pitch: 'FS',
     url: 'ZW5NMDZfWGw0TUFRPT1fQXdaVkJnWUNCUVlBQ3dkVVVnQUFDQTRBQUZrRkJnVUFDMUZYQ0FNQ0JBQUJCRk5S.mp4',
   },
   {
@@ -10852,7 +10852,7 @@ export const pitchesArray = [
     url: 'OVo4QWJfWGw0TUFRPT1fQWdBRFVBY0dVZ0FBQ2xvQkJBQUFWMWRUQUZnQlZnVUFVRllFQWdOWEJ3TmRCd1FD.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cmVBTjFfWGw0TUFRPT1fVWxOWEFWSUNWUUFBQzFZQVZnQUFDVlFBQUZoWEFGUUFBZ2NFQUZVRUJGZGRBRlFF.mp4',
   },
   {
@@ -11004,7 +11004,7 @@ export const pitchesArray = [
     url: 'Tnc3M09fWGw0TUFRPT1fVUFGUVhGMVhCd1lBVzF0WEFnQUFCd0FBQUZrR1ZBQUFBRllEQ1FZTkFWRlVCUUVI.mp4',
   },
   {
-    pitch: 'FO',
+    pitch: 'FS',
     url: 'ZW5NMDZfWGw0TUFRPT1fVWxkWUJWVlJVQVVBQ1ZKVFZBQUFBVkplQUZsVUFGY0FDMUFDQjFjRkFRVlNCUWRS.mp4',
   },
   {
@@ -11024,7 +11024,7 @@ export const pitchesArray = [
     url: 'cmVBTjFfWGw0TUFRPT1fQmdKWlZWRlFCUVVBREZJQVVRQUFDRk1EQUFBQVZBSUFVRkVEQUFkV1UxY0JCbGRR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'anFadlhfWGw0TUFRPT1fRHdOUlVGY0RVbFFBQUFRTFV3QUFWd0lIQUFBRlVWZ0FWRk1DVmdvQkFnSlJCd2RV.mp4',
   },
   {
@@ -11036,7 +11036,7 @@ export const pitchesArray = [
     url: 'anFaZXhfWGw0TUFRPT1fQTFjRVZsWlFVbFlBQVZvREJBQUFBbElDQUZsUlZnY0FBbEVOQnd0VVVBUUhVd0FD.mp4',
   },
   {
-    pitch: 'FO',
+    pitch: 'FS',
     url: 'ZW5NMDZfWGw0TUFRPT1fQUFOWkFsWUhCd01BQVZJR1h3QUFCd1JmQUFNRkFGUUFBd0ZSVXdBR0JGWUdVbFpS.mp4',
   },
   {
@@ -11112,7 +11112,7 @@ export const pitchesArray = [
     url: 'Tnc3a2tfWGw0TUFRPT1fRGdSUkFWRUFBMUVBQ3dBRlVRQUFVZ1FFQUZoUUJsUUFWMVJSQTFZTUFsRmNCZ1FG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpyeldfWGw0TUFRPT1fRDFSUUFRVU5BbFFBV2dNRlZ3QUFDUUJUQUZrQlVBVUFBRk1GVmdZTVVndFZDRkFI.mp4',
   },
   {
@@ -11136,7 +11136,7 @@ export const pitchesArray = [
     url: 'Tnc3M09fWGw0TUFRPT1fRDFSWkFBRlZCMVFBQzFwWFZRQUFVMUJmQUZnR0JRY0FVMXhRQlFFRUFBUUVDUXRU.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5NMDZfWGw0TUFRPT1fVlFVSFVWRURYMUVBQ1ZZSFZRQUFCMUJXQUFCWFUxTUFCQVFIQVFjTkNRQldCd0VD.mp4',
   },
   {
@@ -11168,7 +11168,7 @@ export const pitchesArray = [
     url: 'Tnc3a2tfWGw0TUFRPT1fQmdGVEJ3ZFhWUUVBWGxjQkJRQUFCQTREQUZrRlVnQUFBQUFBQUFzSEJWWlJBMUFB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bG5BOGRfWGw0TUFRPT1fQkFGVkJ3WUdYZ0lBV1FNS0J3QUFBbEFEQUFNRlVnSUFCRllCQndKUVZRSURBUXNF.mp4',
   },
   {
@@ -11240,7 +11240,7 @@ export const pitchesArray = [
     url: 'OVpHeUFfV0ZRVkV3dEdEUT09X0FWUlFCVklNQUFvQURnUlVVQUFBQ0FWVEFGZ05BRmdBQlZNREJsSURDRmRVVXdRQQ==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVpHYUdfWGw0TUFRPT1fQkFSWFVBZFNBQUFBQVZzRUFBQUFWRlZUQUFOUUFsa0FCQWRUQVFKUUFRRldCUVFE.mp4',
   },
   {
@@ -11456,7 +11456,7 @@ export const pitchesArray = [
     url: 'MVlqUjRfV0ZRVkV3dEdEUT09X1V3Z0RCUVlOVjFjQUNWRUFVQUFBQ0ZJQ0FGaFdCVmtBQUFBRVZsRlJBZ1lIQVFJRQ==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cmVBUXlfWGw0TUFRPT1fVXdkV1Z3WUFWQW9BRFZJQ0FnQUFCd1JVQUFNSEJ3SUFBbEpRQndVR0JsVURBUVZU.mp4',
   },
   {
@@ -11580,7 +11580,7 @@ export const pitchesArray = [
     url: 'a1pWOVdfWGw0TUFRPT1fVlFNSEJ3QlhYZ2NBQ1ZOUVh3QUFVMUpXQUFOV0J3QUFWbDBBQTFGV0ExY0JBQUJl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Tnc3OU9fWGw0TUFRPT1fRGxNQVZGY0dBMU1BWFZFS1ZRQUFVQWRXQUZoV0JnVUFBVkJSQkFkVFYxWldBQXND.mp4',
   },
   {
@@ -11656,7 +11656,7 @@ export const pitchesArray = [
     url: 'WmUxT2dfV0ZRVkV3dEdEUT09X1VsY0VVRnhXQjFRQUNBUUJCUUFBVkZCZkFBQlhVQUFBVUZFQlZBWUJBd0ZVVlZCVw==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WGduNzlfWGw0TUFRPT1fRGdkWVZsQU5BbEFBQ2x0UVVRQUFCZ0FDQUFNTkJWa0FDbGRSQXdSUUNBQURCd2NE.mp4',
   },
   {
@@ -11748,7 +11748,7 @@ export const pitchesArray = [
     url: 'OVpHNHlfWGw0TUFRPT1fVkFJSFhWRUZYZ1FBREFBSEJBQUFVbFZlQUZrRFdnUUFDMU1IVWd0VEFRcFZWbEJX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MVlqUjRfV0ZRVkV3dEdEUT09X1VsY0FBbFVDVWdRQURBQlhWQUFBQjFVQ0FGbFFBZ0lBVTFFQUFWRUFWRkJUQ0FaVQ==.mp4',
   },
   {
@@ -11968,7 +11968,7 @@ export const pitchesArray = [
     url: 'cmVBUXlfWGw0TUFRPT1fVWxWVUIxVU1BMVlBQ0ZJTEJBQUFCMVZXQUFCVUFsSUFBVmNCVlZZSEFWRUJDQU5R.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVpHNHlfWGw0TUFRPT1fRGxkV1Z3WlFWd1FBWGdOVFhnQUFWQTVVQUZoV1VRY0FCVndCQndSVUF3Y0FWZ1ZR.mp4',
   },
   {
@@ -12020,7 +12020,7 @@ export const pitchesArray = [
     url: 'a1pWOVdfWGw0TUFRPT1fRGxCVUJnY0dYbEFBV1FSVVhnQUFBMUJlQUZoUkFGY0FDMXdDQ0FzRENRb0RWbFlG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MVlqUjRfV0ZRVkV3dEdEUT09X1ZRWUNWZ0JYVVZNQUQxSUJBZ0FBQVZNRUFGaFFXd1FBQVFCUVZnZFhVRkpjVVZOVw==.mp4',
   },
   {
@@ -12120,7 +12120,7 @@ export const pitchesArray = [
     url: 'cmVBUXlfWGw0TUFRPT1fVndnRFhRVUJBQWNBV3djRVhnQUFVbFJlQUFOV1dsSUFCVmNIQmxFQUJnVlFWQUZU.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TndaQmRfWGw0TUFRPT1fVlZkVEFRSUdWQW9BV3dkVEFBQUFVRkJmQUFOUVYxY0FWd1pXQndRQkJ3SUVDUXBS.mp4',
   },
   {
@@ -12184,7 +12184,7 @@ export const pitchesArray = [
     url: 'bG5BZW9fWGw0TUFRPT1fRGxCWVUxUUZBQVFBRFFBR1h3QUFCZ0JSQUFBR1ZWWUFCQUVCQmdzRENWWUJCMVpY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MVlqUjRfV0ZRVkV3dEdEUT09X0JBZ0VBUVVFQndBQUNsc0hYd0FBVjFWU0FGa0RVbFFBQVZZRkFnRlFDQXRWVlZOWA==.mp4',
   },
   {
@@ -12256,11 +12256,11 @@ export const pitchesArray = [
     url: 'a1pWOVdfWGw0TUFRPT1fQlFoUlhWMVFBZ0VBRGdZQVhnQUFDUTVWQUFBQUJnVUFCQWNIQmdJQUJnWlhDQVVG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFpBUnpfWGw0TUFRPT1fVUZBQVZ3QURCRkVBRFZNQ1Z3QUFBZ1FGQUZoVVYxSUFVRkFHQUZVRUJ3SUhVZ1Zm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZFo5eFhfWGw0TUFRPT1fQVFJRUFsMENCd0FBQUZWV0JRQUFBQUZWQUZnQUJWTUFDbE1FQ0FJRFZ3RlVWUUJT.mp4',
   },
   {
@@ -12292,11 +12292,11 @@ export const pitchesArray = [
     url: 'VmdueU9fWGw0TUFRPT1fQTFOVlYxTlNBRkVBV2xFTFVBQUFCRkJmQUFNRVZsRUFCZ0ZUQlFOVUNWSldBd0pR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NjREd0dfWGw0TUFRPT1fVUFFQVVBY0FVZ29BQVZJQlV3QUFVd2NIQUZrQVZsRUFBRkJVQkZVRkF3QUJBbEVB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVpHNHlfWGw0TUFRPT1fQlFGVlVWRU5Wd0FBREZNRVV3QUFCRklIQUZnTlVGSUFBRlVNVmdVRUJWRUhCRkJS.mp4',
   },
   {
@@ -12316,7 +12316,7 @@ export const pitchesArray = [
     url: 'bG5BZW9fWGw0TUFRPT1fRGdaVFhGRlZBbEFBQ0ZaVVV3QUFVRk1IQUZsUlV3Y0FBbElGVmxWUlYxZFNVd0ZY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cmVBUXlfWGw0TUFRPT1fQWdsWlVRVldVd3NBREZvQUF3QUFVbEpSQUFCWFUxY0FVUUZXVkZWV0FRRmRBd3BR.mp4',
   },
   {
@@ -12336,7 +12336,7 @@ export const pitchesArray = [
     url: 'eFpBUnpfWGw0TUFRPT1fQmdrRFhWQURVd0FBQ1ZOUkJBQUFWQVJYQUZoVVcxY0FCQVFBVkZjRlVBRldCZ1ZT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFpBUnpfWGw0TUFRPT1fVWxSUUJWRURVd1VBV2xOUVhnQUFWQUpmQUZrREFBTUFDd1FNQTFkVENRTldDRmRV.mp4',
   },
   {
@@ -12348,7 +12348,7 @@ export const pitchesArray = [
     url: 'ZFo5eFhfWGw0TUFRPT1fQWxWV1hWRURWd0lBRFFCUUJBQUFVbE5mQUZnQ1cxQUFWMVlGVVZZTkJBRlFDUU5m.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cmVBUXlfWGw0TUFRPT1fQndCV0J3RURYbEFBQ1ZRSFZBQUFCbEFDQUFCVUJsTUFCbEJYQWxCUkFnVUdVd0ZS.mp4',
   },
   {
@@ -12368,7 +12368,7 @@ export const pitchesArray = [
     url: 'dzdBMVFfWGw0TUFRPT1fQXdaVlVRWUVBZ0VBRFZFTEFnQUFWUUlGQUZnSFdsa0FVd1lOQmdBR1VnUUVBQVFE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NjREd0dfWGw0TUFRPT1fQXdnQ1hRVUJWZ2NBREZNRlVBQUFCUUpSQUFNQ1Zsa0FCbFZVVkZCVENGVlhWUUlF.mp4',
   },
   {
@@ -12396,7 +12396,7 @@ export const pitchesArray = [
     url: 'TVpyendfWGw0TUFRPT1fQndJSEFGVUZVUWNBQUFZQlV3QUFDVlJXQUFNTVZWRUFCRk5SQmxBQlZGWmRVZ2RV.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFpBUnpfWGw0TUFRPT1fVWxVQ1YxZFFBRmNBREZZQUF3QUFVMUFDQUZnRUJWY0FBbHdCQlFWVUNWRmRWVlpY.mp4',
   },
   {
@@ -12408,7 +12408,7 @@ export const pitchesArray = [
     url: 'bG5BZW9fWGw0TUFRPT1fQlFJRkIxSlZWUU1BQzFGVEF3QUFDRlZXQUZnQVdsY0FWRklDQWxJR0FsVldCd2RV.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZFo5eFhfWGw0TUFRPT1fQWdaVlhWRUdVbFFBWEZCVFZnQUFDUWRRQUZnQVd3QUFCUUFHQ0ZGUUIxSlFWZ1JX.mp4',
   },
   {
@@ -12440,11 +12440,11 @@ export const pitchesArray = [
     url: 'bG5BZW9fWGw0TUFRPT1fQUFCVlhRSlhBbE1BV2xkUUFBQUFBZ0FIQUFOUUFGVUFWQU1CQmxGVUF3SmNCd3NG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TndaQmRfWGw0TUFRPT1fQTFWU1VsSlhWd3NBQ0FjRlZ3QUFCQThIQUZnTVdsRUFVRlFOQVZCV0JnY0RCUXBW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFpBUnpfWGw0TUFRPT1fVUZjSFUxMEdBRllBWEZVREFnQUFVZ1ZRQUZrR0FsVUFVMXdHQ1ZJQ0ExY0hCRkZW.mp4',
   },
   {
@@ -12452,7 +12452,7 @@ export const pitchesArray = [
     url: 'TndaQmRfWGw0TUFRPT1fRHdjSEFWMERWUVlBQ2xzRkJBQUFVQU1IQUZoVFVBUUFVVkVFVmdaUVVGY0dDUUlG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'VmdueU9fWGw0TUFRPT1fQjFCU1ZsMVhBd1FBVzFNSFh3QUFCMUJRQUFCUlVWWUFCbEFFVXdBTVVsSmRVd2NF.mp4',
   },
   {
@@ -12460,7 +12460,7 @@ export const pitchesArray = [
     url: 'a1pWOVdfWGw0TUFRPT1fQVFWV1VsRUJVQUVBV1ZGWEFnQUFWUUJRQUFNSFYxa0FDZ0VDQndFTkExWldWZ1pT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFpBUnpfWGw0TUFRPT1fQkFaUlhGSlJBZ2NBWEFjRkJRQUFWVlZWQUZrQUJnUUFWbHdNQmxFR0FsQlhDUVpR.mp4',
   },
   {
@@ -12476,7 +12476,7 @@ export const pitchesArray = [
     url: 'dzdBMVFfWGw0TUFRPT1fQmdCUlZBQldYZ2NBQ2dkV1ZBQUFWVk5UQUFBTkJnSUFCbFlFVlFRSEJRdGNCUUJT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cmVBUXlfWGw0TUFRPT1fQlZjRlVsRUZWUW9BQUZVQkJBQUFWd05YQUFCVUJ3UUFBMUlCQWxkVEFWRUFCRllI.mp4',
   },
   {
@@ -12484,11 +12484,11 @@ export const pitchesArray = [
     url: 'a1pWOVdfWGw0TUFRPT1fQkFNSFhBSUZYMVFBRFFjQVVBQUFBQUlBQUFNQlVWa0FBMUFGQVFJRUFnWlJCRlJT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MVlqUjRfV0ZRVkV3dEdEUT09X1ZWSUFBVjFYQXdJQUFGdFVWQUFBVUZKVEFBQlFXMUFBQmxNSEJRVUhBQWRUQVZGVA==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVpHNHlfWGw0TUFRPT1fQXdWVVVsQUhWbEFBQ0Z0WEF3QUFWUTlWQUFNRUJsa0FBd0JXVlFZR1YxSURBQXRV.mp4',
   },
   {
@@ -12528,11 +12528,11 @@ export const pitchesArray = [
     url: 'bG5BZW9fWGw0TUFRPT1fVTFSVFZ3VUhVZ2NBQ0FkV1V3QUFBRmRWQUZnQlVGSUFBbHdEQmdNREJnWldCd05X.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WVFuOTJfWGw0TUFRPT1fQVZWVFZnSUFYMUVBWEZzR1Z3QUFBVkJlQUZnRUFRY0FVRlZVVXdaUkJGRlVWVmNI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NjREd0dfWGw0TUFRPT1fQlZOUVhBQUFVUU1BRFZGV1VBQUFCVkFGQUZrR1VnTUFCMUVHQUZBREJRVlhBUXRU.mp4',
   },
   {
@@ -12560,7 +12560,7 @@ export const pitchesArray = [
     url: 'WmUxT2dfV0ZRVkV3dEdEUT09X0FWVllYVllEWGdjQVhGSlRBQUFBQjFOV0FBTURXbGNBVkZJTlZncFdCQWNEQTFBQQ==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WGduNzlfWGw0TUFRPT1fVkZKUVVGME5Vd1FBV2djREJ3QUFBbFVIQUFBRlZ3UUFWbFVDQWxjQlZRWlJCUU5U.mp4',
   },
   {
@@ -12672,11 +12672,11 @@ export const pitchesArray = [
     url: 'Yms2eEJfWGw0TUFRPT1fQVFOV1ZWUUhBQUFBQVFSV1VRQUFBZ1FDQUFNQ0FnTUFCd0FEVlFjTUFBSUhCd1pS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'a1pMRHZfWGw0TUFRPT1fQTFkU0FGTUZWbFFBQ0ZvS1VRQUFWVlJmQUFOUld3TUFBRkFNQkZKUlZ3RmRVd05Y.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZFo5TEtfWGw0TUFRPT1fVlZWUlV3QlNWUW9BV2djRFVBQUFWdzVXQUFNTkJWSUFDbGNFVkZCVENRVlNCd05m.mp4',
   },
   {
@@ -12712,7 +12712,7 @@ export const pitchesArray = [
     url: 'a1pMRHZfWGw0TUFRPT1fVXdCWkFWTUdBRlFBQ0FjRlZBQUFWRlFEQUZnRFVnUUFWd0ZRVXdkUUFRRUFBQVJR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'a1pMRHZfWGw0TUFRPT1fRDFCWFVBWUFBd0lBQ2djR1VRQUFCRklEQUZsUUFBTUFBRmRYQkFZRFVsWUVDVkJV.mp4',
   },
   {
@@ -12868,7 +12868,7 @@ export const pitchesArray = [
     url: 'MDM4NDdfV0ZRVkV3dEdEUT09X1ZWTUZVMVVOQUFJQVhRY0tBd0FBQWdWWEFGbFRBbGtBVndRSEJsVUVBQVlHVkFWVw==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MDM4NDdfV0ZRVkV3dEdEUT09X0JnZFlVMVVNVUFRQVhWb0tWZ0FBQkZJRkFBQUZVbEVBQWdBR0NWRUVVZ0lFVWxSUg==.mp4',
   },
   {
@@ -12932,7 +12932,7 @@ export const pitchesArray = [
     url: 'WGduZGpfWGw0TUFRPT1fVkZRRUFsZFdWd3NBQ1ZSV0FnQUFWd01FQUFNR0JsTUFBRjBFVXdOUlZRWlNBd3RW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'a1pMRHZfWGw0TUFRPT1fVlFRREJRQUdCd3NBWEZZTFV3QUFWd1VDQUZrTlZnSUFCZ0JSQkFFTUJRWlZVVk5S.mp4',
   },
   {
@@ -13292,7 +13292,7 @@ export const pitchesArray = [
     url: 'ZFo5TTZfV0ZRVkV3dEdEUT09X0FnVlNCbDBHVjFNQUNRRlJWQUFBVnc1U0FBQUFCVmtBVTFVRFZWY01BMWRVQkZFRQ==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Z0diZVdfWGw0TUFRPT1fQmdGV1VRVldVRkFBQUZaVEJ3QUFCVk5UQUFBRFd3UUFDbE1GVmdaUkFBZFFVd3BT.mp4',
   },
   {
@@ -13396,7 +13396,7 @@ export const pitchesArray = [
     url: 'OVpHQlFfWGw0TUFRPT1fVkFoWVhWeFdVd1VBRFFGVFV3QUFVbE5WQUZsUVZ3UUFBMVlFVVFZTVUxVldDRlJS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MkI3a2pfWGw0TUFRPT1fQmdOUVV3Y0VYZ0VBQ2dOUlh3QUFVZ0pSQUZsVEJnY0FVd05SQWdOUUJnWUdVd1JS.mp4',
   },
   {
@@ -13588,7 +13588,7 @@ export const pitchesArray = [
     url: 'Yms2eEJfWGw0TUFRPT1fQlZSVFZWRU1YMWNBRGdjQ0FBQUFVZzlVQUFOUVVBY0FBMWRUQ0FVR0FnVlZCQXRS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZFo5TEtfWGw0TUFRPT1fQWdJQ1VGUlhVQVlBREFZS0FnQUFVbGRYQUZoWEFGVUFCRkpRVTFGWFZRcFhVMWRV.mp4',
   },
   {
@@ -13904,7 +13904,7 @@ export const pitchesArray = [
     url: 'ZW5NNTNfWGw0TUFRPT1fVkFOUUJsWUdWUVFBQVZwUkJBQUFBQVlDQUFBR1dsa0FCVkZRVVZjTlZRSlFCQUVF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bG5BMWRfWGw0TUFRPT1fQXdsVVZGUUVWRkFBQ2dkVUFBQUFBbFZlQUFNTVYxRUFCRmNIVmdCUkFBTlVWUXRT.mp4',
   },
   {
@@ -13920,7 +13920,7 @@ export const pitchesArray = [
     url: 'MVlqRG5fWGw0TUFRPT1fQVFKVUFGY05BZ0lBRHdGVVh3QUFBbFVDQUFNQkJsZ0FDZ0VEQ1F0UkFBdFdBUW9F.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eVpBYk5fWGw0TUFRPT1fVlFCWlYxVlJCd1lBVzFOV1VnQUFBUTlWQUFCWEFsZ0FBRkJRVVFCWENRVmNCZ0ZV.mp4',
   },
   {
@@ -13928,11 +13928,11 @@ export const pitchesArray = [
     url: 'elpBMDZfWGw0TUFRPT1fQVZSU0JnQU5VVllBWFFFS1VnQUFDVmNFQUZsWFUxWUFWbHdDQTFFRFZGZGNDQWRR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'YUs0YThfWGw0TUFRPT1fRHdNRkJsRUhWbFlBWEFkV1h3QUFVQTVRQUZoV0FnUUFCRkZVQWdOVUNWWlJCUXRW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eVpBYk5fWGw0TUFRPT1fQTFKUkJRVUdWMUVBWGxwUkFnQUFCbFZVQUZnQVZsa0FVd2RVVXdCVENGSUFVbEZX.mp4',
   },
   {
@@ -13968,7 +13968,7 @@ export const pitchesArray = [
     url: 'WGduYVpfWGw0TUFRPT1fVkZRRlVBZFdBd29BV2xJTFVBQUFVdzVmQUFOVFYxUUFVRlFFVmdwVVVsQmRBVmRR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'YUs0YThfWGw0TUFRPT1fQUZOUkFWMVNYbFlBWEZCV1ZnQUFCZzRIQUZoVVVnUUFBVkFEQ0FVRUFRQlhBVlFE.mp4',
   },
   {
@@ -14064,7 +14064,7 @@ export const pitchesArray = [
     url: 'elpBMDZfWGw0TUFRPT1fVlFGV1UxY0NWbGNBQ0ZWVVZ3QUFCMUpVQUFOUVV3TUFVRkZRQjFCV1VBUUhBd2Rl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bG5BMWRfWGw0TUFRPT1fQmdrRVYxWlFVMUFBREZZRlZBQUFWQUZRQUFNRVVGTUFBbDFUQ0FjRUJsWlFBVkFD.mp4',
   },
   {
@@ -14100,7 +14100,7 @@ export const pitchesArray = [
     url: 'elpBMDZfWGw0TUFRPT1fVUFKVFVGSlNBbE1BQUZzQUJ3QUFVZ1ZmQUFBTkFGUUFCRkJRQ1ZjRUJWSUdWQXBX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WGduYVpfWGw0TUFRPT1fQkFGUVVGSUVCMWNBWFZNTFh3QUFWd1FDQUZnTUJWWUFBd1lNVVFjQVYxY0RCd29I.mp4',
   },
   {
@@ -14204,7 +14204,7 @@ export const pitchesArray = [
     url: 'VmduT2FfWGw0TUFRPT1fQlFnQ1hWSU1CQXNBWFZRS0J3QUFWdzVVQUFBR1d3QUFWbFFEQUFwUVZWQUdBbGRm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5NNTNfWGw0TUFRPT1fQWdnQ1ZGRlhYd1FBQ3dCVVV3QUFBVlZSQUFBRlZRQUFBbFpYQVF0UVVsY0RBd0pV.mp4',
   },
   {
@@ -14212,15 +14212,15 @@ export const pitchesArray = [
     url: 'elpBNzlfWGw0TUFRPT1fQXdBQVZGSlNWd29BQVFOVFZBQUFVMUpVQUZoUlVsQUFWZ0FCVkZFR1VnRUVWQW9B.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'UGpsZDlfWGw0TUFRPT1fQlFZQUJnSUVWMWNBQ1ZjR0FnQUFDQVVEQUZsVUJnVUFBbFFOVlFKVUJsZFFVUVpX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpXQVlfWGw0TUFRPT1fRHdKVFVsRUFYZ0lBV1ZFRVh3QUFBMU5WQUFBRVdnY0FWZ2RVVWdSVEFnUURBQXNB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFpBMGpfWGw0TUFRPT1fVWxSWlZWSlhWbEFBRGxFS1V3QUFBbE1DQUZnQ0FWVUFVVlVFVlZKUVZWSUdVUUZU.mp4',
   },
   {
@@ -14248,7 +14248,7 @@ export const pitchesArray = [
     url: 'Z0diZ1dfWGw0TUFRPT1fVlFFSEJnZFJWVllBQ1ZaV1ZRQUFVZ0JUQUZoVEIxRUFVRlFBQkZBR0FRb0hBQUVG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bG5BMWRfWGw0TUFRPT1fQlFOVlhBVUZBd1VBREZNQ1ZBQUFBdzlTQUFBSEJ3TUFDZ0VDQmdZRFVnRmNVZ01E.mp4',
   },
   {
@@ -14256,7 +14256,7 @@ export const pitchesArray = [
     url: 'QVlHa1FfWGw0TUFRPT1fVTFSU0JnSldBbEFBRGxRTEJBQUFBZ1JmQUZsWEJWQUFWbHhSVlFFR0ExRlVCVmNG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBNzlfWGw0TUFRPT1fQlFkUlYxd0hYMVlBQVFFQUJBQUFBRklGQUZoWEJsSUFBRndBQWdRRUNGSURCbE5S.mp4',
   },
   {
@@ -14268,7 +14268,7 @@ export const pitchesArray = [
     url: 'elpBNzlfWGw0TUFRPT1fQlZKWkJWZFFWd0VBV3dNRUF3QUFDRkJWQUZoWEJsSUFBMWNFQ0FzTVUxSlNCUUJT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFpBMGpfWGw0TUFRPT1fVWxCVEFsSUFWd2NBQUZwWFZnQUFWd0lIQUZsVFYxTUFCMUlOQVFSUUJsVlJBZ2RX.mp4',
   },
   {
@@ -14288,7 +14288,7 @@ export const pitchesArray = [
     url: 'WGduYVpfWGw0TUFRPT1fVndOUVVWRlZBQUFBQUZJSFVnQUFBRkJRQUFNR0FsSUFCbHhRQWxGVUF3RlhWbEVB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5NNTNfWGw0TUFRPT1fQXdsU0FBQUVCUVFBRFFGVUJRQUFWdzVUQUFOVFVnQUFCMVVHQ1ZVR0FRc0RVd1VI.mp4',
   },
   {
@@ -14364,7 +14364,7 @@ export const pitchesArray = [
     url: 'TVpyV2RfWGw0TUFRPT1fRGdGVUFGSldCQVlBQVFBQ1Z3QUFBZ2NIQUFBTlVWWUFWbEpYQ1ZKVVUxZFFVUVJX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'UGpsZDlfWGw0TUFRPT1fVjFVRkFseFZCd1VBQ2xvQ1VBQUFBZzlWQUZrR0JRY0FBZ0VNVlZFTVYxVUVBQUFI.mp4',
   },
   {
@@ -14404,7 +14404,7 @@ export const pitchesArray = [
     url: 'OVpHa0dfWGw0TUFRPT1fQUZWUkJRVlFVd0FBREFCWEF3QUFCQWRmQUFNQUFsTUFBVllCVVZaUUNWRldVMWRm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bG5BMWRfWGw0TUFRPT1fVUFkVkFGWUZCVlFBV1ZZSFZRQUFVZ2NGQUFBTkFBQUFWRmNDQlFGV0IxWldCbEFD.mp4',
   },
   {
@@ -14428,7 +14428,7 @@ export const pitchesArray = [
     url: 'NjREYXZfWGw0TUFRPT1fVWdBRVZWVU5YZ0VBQ1ZwVVVnQUFBMUJXQUFBRUJWSUFVVlVOQkFOUkF3b0JWUUZR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eVpBYk5fWGw0TUFRPT1fQmxSVEFnRlhVUUFBQVFBRFVRQUFWdzVYQUZnTUJnVUFWbEFCQndaV1ZRZFhCd0Zl.mp4',
   },
   {
@@ -14436,7 +14436,7 @@ export const pitchesArray = [
     url: 'OVpHa0dfWGw0TUFRPT1fQlZBRlVWd0ZVUVlBQ3dGV1Z3QUFBZ0VIQUZnRFUxVUFBMXdBQTFjRENGVUJBbE1I.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bG5BMWRfWGw0TUFRPT1fRHdoVEJWRURVbEVBQUZFR1Z3QUFCUUFDQUFBRVd3VUFCVllDQjFjRUNRTUdDQW9D.mp4',
   },
   {
@@ -14444,7 +14444,7 @@ export const pitchesArray = [
     url: 'WGduYVpfWGw0TUFRPT1fRHdNQUJRY0ZVZ29BV3dGUUJ3QUFBQTVSQUZoV0JnTUFDMUVBQmdRR1VndFhBQUJS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bG5BMWRfWGw0TUFRPT1fQTFkWFhWUUdWd1lBWGdkVUFnQUFVbFJmQUFNTVVWY0FCVnhUVWdvREFBUUFWUU5X.mp4',
   },
   {
@@ -14504,7 +14504,7 @@ export const pitchesArray = [
     url: 'elpBMDZfWGw0TUFRPT1fRHdnRkJWd0dWZ2NBRGxOV0F3QUFWUTVYQUZoVEJnVUFBbEpVVWxaWEJnZFdBVkJm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'UGpsZDlfWGw0TUFRPT1fVlFWUUJ3SU5VbE1BRDFJQ1h3QUFVbFZUQUZnSFVRY0FCQUVNVkFNRUNRSlZWVlFF.mp4',
   },
   {
@@ -14560,7 +14560,7 @@ export const pitchesArray = [
     url: 'QVlHa1FfWGw0TUFRPT1fVUFKVkJsZFdYZ2NBV1FZRkFBQUFBbFJlQUZsVFUxSUFCRkFDQkZZTkJRSUJVVmRm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVpHa0dfWGw0TUFRPT1fVlFSUkFBSlJWZ1VBV2xRQVh3QUFVQVVIQUZnRVcxZ0FCRlVCVWxVSEIxQUhBUVJl.mp4',
   },
   {
@@ -14588,11 +14588,11 @@ export const pitchesArray = [
     url: 'elpBNzlfWGw0TUFRPT1fVXdrQVVsRUNYbGNBV2x0V0F3QUFVZ1ZUQUFCV0JnVUFDbEVIQmdKUkJGRlVCMUJl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpyV2RfWGw0TUFRPT1fVWdOV1ZGd0ZVUVFBRGdZRlhnQUFBUU5mQUZnQ0FGQUFBZ0JRQlFVRFYxVmRWRkJW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFpBMGpfWGw0TUFRPT1fRGdnRlZRWlJVd0FBRDFRRFV3QUFDQVVDQUZrQUFBUUFDbFVBQTFjTkNWVUFBZ3BV.mp4',
   },
   {
@@ -14648,7 +14648,7 @@ export const pitchesArray = [
     url: 'dzdBMjVfWGw0TUFRPT1fQmxCVlVWUlZVVlFBV1ZWUlh3QUFCd2RSQUZsV1VGTUFBRlpRQUFBQUIxRmNCUU1D.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WGduYVpfWGw0TUFRPT1fQVZRRlVWTlFCd2NBQVZZRUJRQUFCQUVFQUZrRkFnSUFCRkVGVVFJQUFGWldBRk5T.mp4',
   },
   {
@@ -14664,7 +14664,7 @@ export const pitchesArray = [
     url: 'dzdBMjVfWGw0TUFRPT1fVkFSVlhWY0NVUVVBRFZzQ1VBQUFBZ1VIQUZsVVcxRUFDd0VHQmxJR0IxSUFVUW9G.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'b25yR2dfWGw0TUFRPT1fQkZKVFVnSlNBbFFBV3dGV0FBQUFVd0VBQUFCUlVnQUFBbEJVQlZBQ1ZWWlhDRk1D.mp4',
   },
   {
@@ -14812,7 +14812,7 @@ export const pitchesArray = [
     url: 'UGpsTHlfWGw0TUFRPT1fVkFkV1hBQUZWZ0FBV3dZRlhnQUFWQVFGQUZnQ1VGUUFCUUFIQlFBSENBUlJWUVFE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'QVlHa1FfWGw0TUFRPT1fVWdFRkJsMEdVRmNBRDFWVFZRQUFBVlFBQUZnSFZGVUFDd01DVkZBTlZGVUVBUUZU.mp4',
   },
   {
@@ -14892,7 +14892,7 @@ export const pitchesArray = [
     url: 'NjREYXZfWGw0TUFRPT1fQkFOWlVGWUZVMUFBQ1FZRVZRQUFDQTlVQUFCV1dnUUFCMUVCVkFFQ1ZWZFdDUVlI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFpBMGpfWGw0TUFRPT1fQXdCV0JWTUhBd0lBWFZvTFZBQUFVQUJYQUFCVVVBVUFVRnhVQjFZQVUxRlFCUUJT.mp4',
   },
   {
@@ -14980,7 +14980,7 @@ export const pitchesArray = [
     url: 'elpBMDZfWGw0TUFRPT1fVlFkUkFGVUVWZ29BQ0ZNQ0JRQUFBZ0lGQUZoV1ZWY0FBRklFQXdvQ0FsZGNDRkZY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBNzlfWGw0TUFRPT1fVndaVlZsTlFWbFlBQ2xvRlZBQUFVQU5WQUZnR0JsZ0FCMVVCVWdGVEJRVUdDQVZU.mp4',
   },
   {
@@ -15012,7 +15012,7 @@ export const pitchesArray = [
     url: 'eVpBYk5fWGw0TUFRPT1fVjFWWVVnRlNWbEVBREZBR1hnQUFVbFFEQUFOUldnQUFDd05XQjFKV1ZGWURVbEFF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVpHa0dfWGw0TUFRPT1fQjFkUlhRVUdCMUFBRDFzRFZBQUFVQUZUQUZoWEJ3QUFVRkpSQXdkUlZBQlVDVkVE.mp4',
   },
   {
@@ -15032,7 +15032,7 @@ export const pitchesArray = [
     url: 'WGduYVpfWGw0TUFRPT1fVkZVRlZGY0hVUXNBRDFwV1VRQUFBZ1lBQUZnR1ZWY0FWZ2NBQUFFTkJ3QlFBZ01B.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'YUs0YThfWGw0TUFRPT1fVXdZQUFRRUZBMVFBRFZZQ0JBQUFBbE1IQUFNQlZRTUFCRk1EQmdJRkJnQUJDRk1D.mp4',
   },
   {
@@ -15044,7 +15044,7 @@ export const pitchesArray = [
     url: 'TVpyV2RfWGw0TUFRPT1fQkFRSFVGY0dBd1FBQ1FjRVZ3QUFBd0VIQUFNRlZsSUFBd2NEQ0FFTVV3VldWQVFD.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'YUs0YThfWGw0TUFRPT1fQUFnRUJWSlFBQUlBRFZZTFVnQUFBQWRmQUFBRkFWUUFBMU1CVVZkWEFRUUVWQU5X.mp4',
   },
   {
@@ -15268,7 +15268,7 @@ export const pitchesArray = [
     url: 'MDM4TWdfWGw0TUFRPT1fVWxKU1VRRUFWZ0FBRDFCV1V3QUFVMUpSQUZrTldnTUFVRkZRQVF0VUJGRURCUVFI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Yms2b09fWGw0TUFRPT1fQTFSVEJsWU5VMVlBQVZCVFhnQUFDQUVIQUFBRUFWQUFWRjBFQ1ZKVFV3ZGRDVkJm.mp4',
   },
   {
@@ -15348,7 +15348,7 @@ export const pitchesArray = [
     url: 'QVlHS1pfWGw0TUFRPT1fQmxVRFVnRUhWd29BV2xCV0FnQUFWRklDQUZrQ0FsSUFBVkJXQTFBTkFndFVDUU1I.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Z0diMVFfWGw0TUFRPT1fQjFOU1ZBRU5CQWNBRFZFRVZBQUFDRk5WQUZrR0FRY0FVRlFHVVF0WFV3WlNCMUFF.mp4',
   },
   {
@@ -15416,7 +15416,7 @@ export const pitchesArray = [
     url: 'Yms2b09fWGw0TUFRPT1fQkZOWEFnZFZWZ2NBREFaVVZBQUFVbGRSQUZoV0FBUUFVRnhXQmdGUkFnSldCQUJT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Yms2b09fWGw0TUFRPT1fRDFSWlV3RlJBMVFBQ0ZjTFZBQUFVbEJVQUZoVFZGWUFBRkFOQjFjTUJRSUdCRmRT.mp4',
   },
   {
@@ -15664,7 +15664,7 @@ export const pitchesArray = [
     url: 'Z0diMVFfWGw0TUFRPT1fVUFnSEIxWldYbE1BRFZSVVV3QUFBd0VDQUZnQlVWVUFDd2NNQ0FGVUJRWlJVZ0pm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MDM4TWdfWGw0TUFRPT1fVWdFSEJWUlhVUUVBQ3dOUlVRQUFBMUplQUFOUVVsY0FBd0ZRQ1FZREJRTlJDVk1B.mp4',
   },
   {
@@ -15828,7 +15828,7 @@ export const pitchesArray = [
     url: 'Tnc3YkJfV0ZRVkV3dEdEUT09X0FBWUZBVkFFVUFZQURnRUVVZ0FBQ0E1V0FBTU5VMUFBQVZVREJBVUFWQWNCVkFOVA==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Tnc3YkJfV0ZRVkV3dEdEUT09X0ExUlNWQVVDVXdBQURRRUNWQUFBQmdjQ0FBQU5VRmNBQUZWWEIxZFFCRmRSQlFaVg==.mp4',
   },
   {
@@ -15864,7 +15864,7 @@ export const pitchesArray = [
     url: 'cmVBYlZfWGw0TUFRPT1fRGdnRFZWQU5YZ3NBRFZvQVZBQUFDQUplQUZnQ1VWRUFWQVFDVXdkUUJWSUdBQUFE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Tnc3MDJfWGw0TUFRPT1fRHdZREFsQUFVUUlBREFBTFZRQUFWQUJXQUFBTlZGWUFVVkJRQmxjR1ZBQUVBQUpW.mp4',
   },
   {
@@ -15880,7 +15880,7 @@ export const pitchesArray = [
     url: 'dzdBWjVfWGw0TUFRPT1fQjFCWEJnQlZYMU1BQ0ZwVUJ3QUFBd0JUQUFOWEFsQUFDbDBOQndVSEF3VUdCQUZR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WVFuZXlfWGw0TUFRPT1fQXdZQVVGd0ZVUUVBWGxkUlVnQUFWQUJWQUZsWFZRQUFDMXhVVkZaWEF3UUJCVkZY.mp4',
   },
   {
@@ -15912,7 +15912,7 @@ export const pitchesArray = [
     url: 'MDM4TWdfWGw0TUFRPT1fVjFBREJRZFZVZ1VBRGxjQkJBQUFCQUlIQUFOUkFRTUFWbFlCQUFSVFV3RmNBMU1E.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Tnc3YkJfV0ZRVkV3dEdEUT09X0JGQUVVUVVHQWdjQUMxSUFCUUFBQnc1VkFGZ0dWbE1BQVZjQVVRSUJCd05RVVZSUw==.mp4',
   },
   {
@@ -15952,7 +15952,7 @@ export const pitchesArray = [
     url: 'YmtWUHdfWGw0TUFRPT1fRHdRRVhGY0dWbE1BQzFFQkJ3QUFWd05TQUFNTVVBUUFCVmRUQWdRSFZRSUFCd0ZV.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Tnc3YkJfV0ZRVkV3dEdEUT09X0R3VllBVlJTVkFvQURsRURVd0FBVlFGZUFGbFFWbGdBQjFZQ0JRVUZWd1pRVkFOZQ==.mp4',
   },
   {
@@ -16092,7 +16092,7 @@ export const pitchesArray = [
     url: 'cThrUWdfWGw0TUFRPT1fRGdCUlhBY0RYd0lBV1ZvRlZBQUFVZ05TQUFNTVYxTUFCUVFHQmdzRkJWSUFCQXBR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'N1pHcUdfV0ZRVkV3dEdEUT09X1Z3VlNBRklOVXdBQVdRQUdCUUFBQjFVRkFBTUFCVklBQ2xFR0JBY0VWVkZYQWdOVQ==.mp4',
   },
   {
@@ -16308,7 +16308,7 @@ export const pitchesArray = [
     url: 'QnY1bFFfWGw0TUFRPT1fRDFkWUFRWlJBMUVBRHdGVUFnQUFCbE5WQUZsUlVBSUFCRkFOQ1ZJR1V3UmRCRlFF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'T1F3ODRfWGw0TUFRPT1fVUFJRUJ3VU5YZ1lBV1FBRFZBQUFDQUVIQUZoWEFnY0FWMUlFQ1FkVVVnc0JVd2NI.mp4',
   },
   {
@@ -16316,7 +16316,7 @@ export const pitchesArray = [
     url: 'WGduWGtfWGw0TUFRPT1fVTFKV1V3VlJVd0FBRGxJQlhnQUFBUUplQUZnQkJRY0FVUUVCQndjTlVsRlFCQUpW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Z0diMVFfWGw0TUFRPT1fVWxkVkIxTUhYZ0lBREZwWFVBQUFVZ0pYQUFBQkFGTUFWQWNFQUZVQ1V3SlRBd0VD.mp4',
   },
   {
@@ -16332,11 +16332,11 @@ export const pitchesArray = [
     url: 'QVlHS1pfWGw0TUFRPT1fRHdKWEFsUUVVd01BVzF0UlV3QUFVMUJSQUZrQUFGQUFVRndHQUF0V1ZGQmNCZ2RS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Yms2b09fWGw0TUFRPT1fQmxKUVYxVUZVVllBWGxzTEJBQUFVbGRWQUZnQ0FsUUFBVjFVVkFjQ0NWSUdDQUFD.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WVFuZXlfWGw0TUFRPT1fVlFjSFZWVlhVZ1VBV1Z0WFVRQUFBRklBQUZrSEFsZ0FBUVlFQmdNTkFWSmRWUXBY.mp4',
   },
   {
@@ -16392,7 +16392,7 @@ export const pitchesArray = [
     url: 'bG5rMm9fWGw0TUFRPT1fQmdkVlVGSlZCVk1BQVZFREF3QUFVQVFBQUFBRFYxSUFBVndGQVZKUlZRQlFCZ1VB.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'ZW5MUVpfV0ZRVkV3dEdEUT09X0FBUlFBbEZTVVFvQVdnUUNCQUFBVkZNRkFBQURXZ1VBVmxjQUFBUUdBQXRWVWdRRg==.mp4',
   },
   {
@@ -16424,11 +16424,11 @@ export const pitchesArray = [
     url: 'bkdMMmtfWGw0TUFRPT1fQXdkWVV3VUZYZ29BQVZRTFhnQUFCMUpVQUZoVUFsQUFVUWNNVXdkVUF3QURVZ3BW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5MUVpfV0ZRVkV3dEdEUT09X0JBZFpVRmRRWHdBQVhWZFJYZ0FBQlE1U0FGa0FBVmdBQmdaWFZsSlhWVlZVQmxRQQ==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5MUVpfV0ZRVkV3dEdEUT09X0JsUUFBVklCWGxRQUNGQUtBQUFBVXdkZkFGaFJWbE1BVUYwSFZnVlhDQWRUQUFZQw==.mp4',
   },
   {
@@ -16464,7 +16464,7 @@ export const pitchesArray = [
     url: 'WmUxek9fWGw0TUFRPT1fVkZkU0JsUUZCQVlBQ2djRUJRQUFBMWNBQUZsUlZ3QUFBMVlIQUZBRlZ3RldVd1JV.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'WmUxek9fWGw0TUFRPT1fQVFsVFZBVUhWd1FBQ3dFQlVRQUFBVlJYQUFNRkJsTUFDbFFDQXdRTUFBcFVBd01I.mp4',
   },
   {
@@ -16524,7 +16524,7 @@ export const pitchesArray = [
     url: 'R1pLNjlfV0ZRVkV3dEdEUT09X0IxSlRWd0pYVXdzQURRTlRVd0FBVlFOUkFGbFdVUU1BVmxKUVVnRUVWMVpUQXdwZg==.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'QnZHWlFfWGw0TUFRPT1fQmdNSFZWTUhBbEFBRDF0WFZ3QUFDQTlXQUFBREFGZ0FBd05RQjFGVEJnUlVCRkVF.mp4',
   },
   {
@@ -16656,7 +16656,7 @@ export const pitchesArray = [
     url: 'b25va2dfWGw0TUFRPT1fQmdVRlYxWUdYZ29BQ1FOV1ZRQUFWRk5mQUZrQ1ZsWUFDMVFEQndwVEFBRlFBQVVI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'QnZHMTlfWGw0TUFRPT1fVkFWVVZsRldVd3NBWGxRS1VRQUFVQVZRQUFBRUJnTUFCVlZYQkZZSFZBQUdVUWND.mp4',
   },
   {
@@ -16732,7 +16732,7 @@ export const pitchesArray = [
     url: 'WmVLMzhfWGw0TUFRPT1fVUZWU1VGSlFVd1VBQ2xkUkFBQUFBZ2NGQUFOWFdsRUFDMVlEVWdFQ1Z3WlNDRk1E.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5MUVpfV0ZRVkV3dEdEUT09X0RnSlNBVmRSVmxjQURWUUVVUUFBQkZVQUFGZ0NCbFFBVUZkUVVsWlFWQUJkQVFOUw==.mp4',
   },
   {
@@ -16928,10 +16928,6 @@ export const pitchesArray = [
     url: 'YUtaWXlfWGw0TUFRPT1fVndKUUFGUlZWZ2NBREZaV0FnQUFCd05lQUFOVFZBQUFCMUpYQ0FvQkFWVUVCVmRV.mp4',
   },
   {
-    pitch: 'FF',
-    url: 'NFg3WThfV0ZRVkV3dEdEUT09X0RnY0RWbEVCVmdVQUQxdFRCd0FBVUFCV0FBTUFXbGNBQzFWVVZsY0VVbFZWQmdjQQ==.mp4',
-  },
-  {
     pitch: 'SL',
     url: 'WmUxek9fWGw0TUFRPT1fQVFnRlZnVUhBZ01BRFFBR1VnQUFWd0ZTQUZnTlVnUUFCd2NDQjFBSEJsZGNVMU5W.mp4',
   },
@@ -17000,7 +16996,7 @@ export const pitchesArray = [
     url: 'R1pLNjlfV0ZRVkV3dEdEUT09X1V3TlVVZ1lOQUFVQURsQlhYd0FBQVFCUkFGa0NXd2NBVTEwTUIxY0NVd0lBVXdNRA==.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'ZW5NWUdfWGw0TUFRPT1fVWdaVEFnQUhWUWNBWEFaVFV3QUFCQVpWQUZsVUFWTUFVMU1NVlZVRkNBcGRDVlpW.mp4',
   },
   {
@@ -17052,7 +17048,7 @@ export const pitchesArray = [
     url: 'R1pLNjlfV0ZRVkV3dEdEUT09X1ZRa0NVRk1FVndBQUMxQUZBd0FBVWxWUUFGbFdCVk1BQWxNR0JnQUhWQU5WQkFzSA==.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'WmUxek9fWGw0TUFRPT1fVWdkUVVsVURWbEFBRFZZQVh3QUFWQTRBQUZnRlVnQUFVd0VDVXd0VVZGWlZBQWRm.mp4',
   },
   {
@@ -17124,7 +17120,7 @@ export const pitchesArray = [
     url: 'QnZHWlFfWGw0TUFRPT1fQTFCWEIxY0NWVllBRGdZS1Z3QUFCUThGQUZrTVVBVUFDbHdDVWxGVUJnWUJWUVJX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5MUVpfV0ZRVkV3dEdEUT09X0Fna0ZVVkFDVmdvQVhGWUtBd0FBVTFKU0FBTUFVVlVBQlZJTUF3RUdCUU1FQkFOVA==.mp4',
   },
   {
@@ -17272,7 +17268,7 @@ export const pitchesArray = [
     url: 'bG5rMm9fWGw0TUFRPT1fVkZJRUFWd0VCRlFBQ1ZzS1V3QUFDUTlSQUFNQlVnUUFWZ0FDQVZZR0FndGRCZ0Zl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cThHTzRfWGw0TUFRPT1fQUZNQ1VBSlhCd0VBWFZZRlVRQUFBbEJUQUFCUVZGa0FVUWNHQkFWVUNBSURBbE5R.mp4',
   },
   {
@@ -17300,7 +17296,7 @@ export const pitchesArray = [
     url: 'S3diNDJfWGw0TUFRPT1fQWxOWVZsY0RBMWNBQUZjRVh3QUFDUUJTQUZrRFVRY0FBUWRUVVFWUkJRWUFBd1FI.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'ZW5MUVpfV0ZRVkV3dEdEUT09X0JRTlRBbEpYQlFFQVhWSUJCUUFBQUFNRUFGa0VCMU1BVkFjTkNRQlFWQUVIQlFVQQ==.mp4',
   },
   {
@@ -17340,11 +17336,11 @@ export const pitchesArray = [
     url: 'UGpsR1dfWGw0TUFRPT1fQndnQ1VsQlNYZ2NBRFZWVVhnQUFDUThBQUZsWEFGY0FDMU5YQWxkUVVsRlhBZ0FI.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'R1pLNjlfV0ZRVkV3dEdEUT09X1ZBTlJVbEpWQndJQURGQlFBQUFBQndkV0FGa0NBVklBVmxFTVVnc01CZ1lHVVZaUg==.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'ZW5NWUdfWGw0TUFRPT1fQndBRVZRZFJCd0FBV2xvQlZRQUFCMVFBQUFBTlcxSUFWRlJRVlZZQlZRVlRWRkFD.mp4',
   },
   {
@@ -17360,7 +17356,7 @@ export const pitchesArray = [
     url: 'UGpsR1dfWGw0TUFRPT1fQlZJRFUxUUZVMVFBWFZFQlZRQUFWUVZXQUZoV0JWRUFBVmNIVVZFRlVGQUJCUUJm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WmUxek9fWGw0TUFRPT1fQkZOWlUxVUZWQVVBQ1FGUkF3QUFWQVpTQUZnQ0JnUUFBQU5XVTFBRUNRcFhVd3RY.mp4',
   },
   {
@@ -17616,7 +17612,7 @@ export const pitchesArray = [
     url: 'S3diNDJfWGw0TUFRPT1fQmxOUUJsRUhWRlFBQzFRQUFnQUFCMUJRQUZsUVVGY0FVMUlOQ0FWUVZGWUJDUVJm.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'WmUxek9fWGw0TUFRPT1fVUFSWUFBVUZYd0lBQ1FRRFVRQUFVd0VDQUFNSFYxY0FVRk5YQTFVTlZWWUVCRmRW.mp4',
   },
   {
@@ -17664,7 +17660,7 @@ export const pitchesArray = [
     url: 'S3diNDJfWGw0TUFRPT1fVjFkWVhRSlhWVmNBQ3dOVUJRQUFCQVpTQUZoVVdsSUFBZ2NNQ0ZBRVVnSlZBRlFE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5MUVpfV0ZRVkV3dEdEUT09X0FGUUNVRk5YVlZRQVhWRlFWd0FBQmdCUUFBTUVBQU1BVmxSWFZRUUdDQU5UQUZaWA==.mp4',
   },
   {
@@ -17684,7 +17680,7 @@ export const pitchesArray = [
     url: 'b25veTBfWGw0TUFRPT1fVndkU0FWY05WZ0FBQ1ZBSFhnQUFVZzVRQUZnQ1VsQUFBRlVBQUZJTVZRQmRBUVVG.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'WmUxOERfWGw0TUFRPT1fVjFjQ1VGVlNWQW9BV2xjR1ZBQUFVbE5SQUFCV1dsSUFWbDBHVlZVTkJnVlRBVmNI.mp4',
   },
   {
@@ -17728,7 +17724,7 @@ export const pitchesArray = [
     url: 'WVFuZzlfWGw0TUFRPT1fVlFCWVhWSUJVd0lBQzFZQlh3QUFCZ1ZlQUFOUldsWUFVRmNHQVFVTlVGRlZCUVJX.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'S3duOWxfWGw0TUFRPT1fVndBRkFnWUVWd0VBQUZKUkF3QUFDUVVFQUZrRlZBUUFCbEFGQkFBR1VBVUJWQXBT.mp4',
   },
   {
@@ -17772,7 +17768,7 @@ export const pitchesArray = [
     url: 'Z0diWVBfWGw0TUFRPT1fVWdrRFZ3WU1VMUFBRGdkWFZBQUFDUUJTQUFBREJWTUFBMXhVQVFOV0FBVUdWUUFF.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'TVpyQjVfWGw0TUFRPT1fQkZKV1V3QUFBd01BWFZRRUJ3QUFWMUpUQUFBQ0FBSUFCbEJYQkFzTUFBdGNCd1lD.mp4',
   },
   {
@@ -17800,7 +17796,7 @@ export const pitchesArray = [
     url: 'eVpBWE5fWGw0TUFRPT1fVUFrSFZnSU1YZ2NBQ0ZvQ0JBQUFCZ1JWQUZnRkJ3TUFVMXdHQUZZTkFnRlVCbEZV.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'Z0diWVBfWGw0TUFRPT1fVkFSWVV3VlhBbEFBQ2xWVVZnQUFWd2RRQUFCV1Yxa0FDd05VQ1FvQlZRTUJDQUpl.mp4',
   },
   {
@@ -17820,7 +17816,7 @@ export const pitchesArray = [
     url: 'b25veTBfWGw0TUFRPT1fQmdFREJRQU1VQUVBQVZwVFZRQUFCZ0ZTQUFNSEFGY0FCUUZUQjFZQ0FBUldDQUpm.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'S3duOWxfWGw0TUFRPT1fVndaUVhGd0ZWd29BWGxBQUF3QUFBZ0FGQUZoUkFsZ0FBRklGQ0ZFRkFRVmRBbE5X.mp4',
   },
   {
@@ -17832,7 +17828,7 @@ export const pitchesArray = [
     url: 'MVlqMFZfWGw0TUFRPT1fQkZkU0IxUUNWZ3NBWGxZR1ZnQUFVRkFIQUZsWEJWVUFWRkpVVmdjR1VGY0dWQUZT.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'S3duN2pfWGw0TUFRPT1fVlFCWEFWSU5VZ1FBV2xFQ0JBQUFDRlJRQUFNTUFnSUFCd2NIVVFVQlZWY0dBUU5m.mp4',
   },
   {
@@ -17840,11 +17836,11 @@ export const pitchesArray = [
     url: 'cmVMMm9fWGw0TUFRPT1fQmdoVFZRVlhCRllBWFFNREJ3QUFVMUpTQUZsV1ZsTUFCUUFNQkZaUlZRRUdVUVFD.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'S3duOWxfWGw0TUFRPT1fQUZCV1ZsUURVUUFBVzFFRUFBQUFBVmRlQUFBTUJsUUFWRlZRQmxKUVVGQUhWQVFI.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'MzVyeTZfV0ZRVkV3dEdEUT09X0JnVUFCVnhRVndNQURWVlVWQUFBQkFWVkFGZ0VXbElBQndSV1VRQUhDQUZRVkFzRA==.mp4',
   },
   {
@@ -17880,11 +17876,11 @@ export const pitchesArray = [
     url: 'eVpBWE5fWGw0TUFRPT1fQlZBRFZWTURYMU1BQUZNSFVRQUFCMUFDQUFNRlVnY0FBbHdBVTFkWEF3SlhBVmRU.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'cmVBZ2VfWGw0TUFRPT1fQkZRQUIxRlNVZ01BQ0FjQUFnQUFBUVJYQUFCWFZnVUFDMUlHQ0ZBQlYxY0RVd1lE.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'Z0diWVBfWGw0TUFRPT1fQmdaVUJRQU5Cd2NBREZZQ1hnQUFVd1ZSQUFBSEFWUUFBZ0VDQUZGUkJsRlRVd3BU.mp4',
   },
   {
@@ -17912,7 +17908,7 @@ export const pitchesArray = [
     url: 'MkI3UjNfWGw0TUFRPT1fVXdZRFVGME5YZ1FBV1Z0WEJRQUFWd2RRQUFCV0IxRUFBUVlDQVFvR1VnVUhBUXNG.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'MzU4OVJfV0ZRVkV3dEdEUT09X0RsQlZWbDBHQjFZQURRTUVBd0FBQUFaUkFGbFJBbEFBQUFRQkJ3WUFWUVJYVmxSVA==.mp4',
   },
   {
@@ -17988,7 +17984,7 @@ export const pitchesArray = [
     url: 'NjREWTRfWGw0TUFRPT1fQlFjSFVRRlJBQXNBWGxOV0F3QUFBd1plQUZrR1ZBVUFBVllBQkFVTkNWZFNWVkZW.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'NjREWTRfWGw0TUFRPT1fQkFWVEFBQlFVUXNBWEZzS1hnQUFVRlJVQUZnQVdnVUFVMTFYQUZFTVZ3UmRDRlJX.mp4',
   },
   {
@@ -18020,7 +18016,7 @@ export const pitchesArray = [
     url: 'MDNlTXhfWGw0TUFRPT1fRHdjRlVWY0ZVZ1VBRGdNRFh3QUFBVlJXQUFBR1ZWSUFCUUVGQkZKUlVsSlNDVllG.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'MzVyeTZfV0ZRVkV3dEdEUT09X0QxTUhBRk1NQndFQVhWc0NYd0FBQ1E1ZkFGZ05Xd0FBQlZBQkNGRlFWd0pSVkZBRg==.mp4',
   },
   {
@@ -18096,7 +18092,7 @@ export const pitchesArray = [
     url: 'cmVBZ2VfWGw0TUFRPT1fRDFKVlhBQUdCVmNBVzFJRlh3QUFCUTVUQUZnTUFBY0FBQVlIQkFCUVV3TlVDQUJW.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'WmUxOERfWGw0TUFRPT1fVWdVQVVGVlZBbGNBV3dRREJ3QUFWVklDQUFCV0IxRUFWZ0VNVmxCWEFWZFFVUU5R.mp4',
   },
   {
@@ -18120,11 +18116,11 @@ export const pitchesArray = [
     url: 'MzVyeTZfV0ZRVkV3dEdEUT09X0RnQUFBbDFWVVFVQVhGRlJVd0FBQWdVQ0FBTU1VRmNBQUFNQ0JBSU1WRlpkVkFWVg==.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'WmUxOERfWGw0TUFRPT1fQUFFRUJ3SlNCd29BQ3dRRlZRQUFCZzVWQUZnQ0JnSUFDbGNGQkFvRUJnUlZDVlpR.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'WmUxOERfWGw0TUFRPT1fQmdKVlVRRU5WbEFBWFFGWFZ3QUFWVmNFQUFBQ1Zsa0FCVkJVVkZFRkJBdFNWbEFB.mp4',
   },
   {
@@ -18240,7 +18236,7 @@ export const pitchesArray = [
     url: 'eVpBWE5fWGw0TUFRPT1fVUZKUVVsMVFCMU1BRFZZSEJRQUFCQUFIQUFNQlVGTUFBQUZXVWxBTlV3TlNWUWNF.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'RFhHMVpfV0ZRVkV3dEdEUT09X0IxTURVRjBCQTFZQUNBTUVVd0FBVWdaVEFBQldWMVlBVUFRSFVRb0NCbEVCQTFSUQ==.mp4',
   },
   {
@@ -18272,7 +18268,7 @@ export const pitchesArray = [
     url: 'RFhHMVpfV0ZRVkV3dEdEUT09X1ZWQUVCMVJYVkFvQUNsZFFVd0FBQUFjQ0FBQlhWbE1BQWxZRFZGRUVWQVpYQUFVQw==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cmVMMm9fWGw0TUFRPT1fVTFKVlVGVlZCQW9BVzFSUkJRQUFWdzllQUFBRlYxUUFCd05UVWdVSEJnWlhBZ0FG.mp4',
   },
   {
@@ -18280,7 +18276,7 @@ export const pitchesArray = [
     url: 'cmVBZ2VfWGw0TUFRPT1fQWxjQVYxSlhVd29BRDFNQVVBQUFBbEpSQUZoUVdsWUFWbEpUQXdJRVV3VmNBQWRS.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'TGxuTWtfWGw0TUFRPT1fVkFrSEFBVlNWVkVBWEZkUUJRQUFVZ1JTQUZoVEFsQUFCbElHQndZSEFsWUdVMUJm.mp4',
   },
   {
@@ -18296,11 +18292,11 @@ export const pitchesArray = [
     url: 'cmVBZ2VfWGw0TUFRPT1fQXdKU1VRRUhVZ1VBQVZjSEFnQUFWQVVDQUZsUVVRSUFCRkVBQkZWV0NGY0JBd1ZV.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'WVFuZzlfWGw0TUFRPT1fQUFGUVUxTUNVQWNBQVZBRUF3QUFVQUZWQUFNSEFWZ0FVVndEQWxWUVZGZFdWRmRS.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'MzVyeTZfV0ZRVkV3dEdEUT09X0IxVllWUVVDVkFjQVdsSUVCUUFBQWxVQUFBTUhWUU1BVmdSUkFGWlVCMVVBQkFaZg==.mp4',
   },
   {
@@ -18328,7 +18324,7 @@ export const pitchesArray = [
     url: 'QnZHMFZfWGw0TUFRPT1fQmdRRFVBVlZCQVFBWEFaV1ZRQUFBbFZYQUZnTkFWa0FVd0VIQmdKWFZRWUdDVlJT.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'Z0diWVBfWGw0TUFRPT1fVkZCWkJRWU1WQU1BREZwVFZBQUFWRlJYQUFOVFZGRUFDMVlNQ0FkVUFsZFhVd1JV.mp4',
   },
   {
@@ -18396,7 +18392,7 @@ export const pitchesArray = [
     url: 'WVFuZzlfWGw0TUFRPT1fVlFZQ1VWY0JYbFFBWGxFQlVnQUFCUU1BQUZoUUJRSUFBUWNFQndBTUJsRlNBbFpW.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'S3duN2pfWGw0TUFRPT1fRHdCUUJRQUhVZ1lBQUFGVFVBQUFBd1VEQUZrQkFsTUFCMUpRQndwUUJGY0dBQVlB.mp4',
   },
   {
@@ -18408,7 +18404,7 @@ export const pitchesArray = [
     url: 'NjREWTRfWGw0TUFRPT1fVWxVQ1Z3QlJWRk1BRFFaWEJRQUFDQTlSQUFCV0FBQUFCVkVOVXdaVEJnSlJDVk1F.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MDNlTXhfWGw0TUFRPT1fVTFKV1VGWU5WMWNBV1ZkWEJRQUFCRk1GQUFNRlZGZ0FCbFpUVWdRQ0FGRlNVUVJY.mp4',
   },
   {
@@ -18488,7 +18484,7 @@ export const pitchesArray = [
     url: 'S3duOWxfWGw0TUFRPT1fQmdCV1UxQldBQVFBQUFOUVVRQUFCVlVIQUZoUVZRY0FCQUJVQXdjTlVnQlRCbFFD.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'MzU4OVJfV0ZRVkV3dEdEUT09X0FRSlVVd1VBWHdzQVd3QlRWZ0FBQkZSU0FBTUVXd1FBQ2dFQlZsWlRDQWRUVXdCVg==.mp4',
   },
   {
@@ -18520,7 +18516,7 @@ export const pitchesArray = [
     url: 'S3duN2pfWGw0TUFRPT1fQVFoVlZBWldCQU1BQ0ZJS0J3QUFDUWNGQUZrQkFnSUFVRllCVlZFTkNWRlNCQVFE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'S3duOWxfWGw0TUFRPT1fVlZSWlYxRlZBZ0VBRGxJS1ZRQUFVZ1VBQUFOVVZsZ0FCbFVNQjFKUlZBRlhVbEZm.mp4',
   },
   {
@@ -18536,7 +18532,7 @@ export const pitchesArray = [
     url: 'S3duOWxfWGw0TUFRPT1fQVFoV1hRRlNCQU1BQVFZR1h3QUFCQThGQUFBQlZsQUFCQWRSQndwUUJBb0FBQUZR.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'MzVyeTZfV0ZRVkV3dEdEUT09X0RnaFNVUUlFWGxFQVdnUUZVQUFBQkFZRkFBQUhCMWtBQVFkVFZRdFVCRlZjVWdSZg==.mp4',
   },
   {
@@ -18560,7 +18556,7 @@ export const pitchesArray = [
     url: 'eVpBWE5fWGw0TUFRPT1fQVFsWFVRWldVd2NBQ0ZGV0FnQUFCRkJmQUFBR0FBTUFWRllFVWxBRlZRRUhBQXBS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MDNlTXhfWGw0TUFRPT1fQVZNSFZGQlFWd29BREZBS1ZRQUFBVmNFQUZoV1VGUUFVVkpUVTFBRlVGWlZWQUVD.mp4',
   },
   {
@@ -18700,7 +18696,7 @@ export const pitchesArray = [
     url: 'WVFuZzlfWGw0TUFRPT1fQndGVVVWY01WbE1BQUZZRUFnQUFCZzlRQUFOVUFWWUFWd01DVkFNR1V3VlJCd05Y.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'S3duN2pfWGw0TUFRPT1fVWdkV1ZBY0NCQVVBWEFRQ0J3QUFWQU5mQUFOUlcxVUFWMUFHQUFVRlVnTlVCMVFE.mp4',
   },
   {
@@ -18720,7 +18716,7 @@ export const pitchesArray = [
     url: 'OVo4YkFfV0ZRVkV3dEdEUT09X0FWVlZCUVVDVlZjQUFGWUJCQUFBVlFNSEFBTUJCd1VBQTFFSEIxQUNVZ3RjQXdaZg==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'S3duOWxfWGw0TUFRPT1fQWdGWFhRZFFYbFFBV2dFQlh3QUFWMU5mQUFNQVVnVUFCRkVHQjFZTlVBUmRVd05U.mp4',
   },
   {
@@ -18780,7 +18776,7 @@ export const pitchesArray = [
     url: 'eVpBTVJfWGw0TUFRPT1fVWdSVVZsWlZVVllBRFZzRFZnQUFWRlVBQUZoUkJWRUFVRk1OVWxFREJsZGNCZ1ZX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cmVMMm9fWGw0TUFRPT1fQVFkVlVnWlNCd0VBQ1FSUVh3QUFBMWNFQUFNRFZsa0FDMVFOQ1ZaV1ZBVURCZ1lF.mp4',
   },
   {
@@ -18820,7 +18816,7 @@ export const pitchesArray = [
     url: 'WmUxOERfWGw0TUFRPT1fQVFKUlhGTUFCQUlBRFZJSEFnQUFBVkpSQUZsUkFGUUFVRlVNVmxZR0IxRmRWQVZl.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'TGxuTWtfWGw0TUFRPT1fRHdFRkFGWUJVZ0FBRGxFRFVBQUFDQU1BQUZrQ0FWRUFCd0VCVmdvR1VnSmNWQWNF.mp4',
   },
   {
@@ -18836,7 +18832,7 @@ export const pitchesArray = [
     url: 'eVpBWE5fWGw0TUFRPT1fQWxVQ0JWQlZWZ0FBQUZSVEFnQUFBVk1DQUFCVEJsSUFVd0ZYVlFkV0J3VURVVk1I.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'MzVyeTZfV0ZRVkV3dEdEUT09X0FWTlZCMUVCVUFzQVdnWlhWd0FBQlE1VkFBTU1WQVVBVUZWWFZBZFFBbEVEQjFOWA==.mp4',
   },
   {
@@ -18852,7 +18848,7 @@ export const pitchesArray = [
     url: 'MzU4OVJfV0ZRVkV3dEdEUT09X1VsSUFCUUFDVkFjQURWUUxVQUFBVUE5ZkFBTlFBQWNBVVFFQUFnY0FBUWRUQ1FOWA==.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'MzU4OVJfV0ZRVkV3dEdEUT09X1UxUldWVllOQWdJQUFWc0tCd0FBQ0ZNRkFGZ05BVmtBQTFCV0ExRlVCZ1JVQ0FVRQ==.mp4',
   },
   {
@@ -18872,11 +18868,11 @@ export const pitchesArray = [
     url: 'WVFuZzlfWGw0TUFRPT1fQkZRQUIxVlJYMVFBQUZvSFZ3QUFWMUFFQUFNQVZWRUFBbGNBQndOV0NRZFJWUUVI.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'WmUxOERfWGw0TUFRPT1fQndJSEJsMVhWQWNBRFZwV1hnQUFBZ01DQUZnRkIxSUFVRkZVQ1FBQlZBdGRDQUpU.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'TVpyQjVfWGw0TUFRPT1fQTFSUVhRQUNBZ3NBQ1ZSWFZRQUFCZ1FGQUFBR1cxTUFBMU5UQmxJTUJBTmNWUXBU.mp4',
   },
   {
@@ -18892,7 +18888,7 @@ export const pitchesArray = [
     url: 'cmVBZ2VfWGw0TUFRPT1fRGxBQ0J3WlFCVllBVzFJSFhnQUFVZ0lDQUZoVFVGTUFBQU1NQUFBTlVnWldDUXNE.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'Z0diWVBfWGw0TUFRPT1fQndFQVVnQUZWd1VBV1ZGWFZ3QUFDRkpVQUZrSEFGSUFBVmNEQjFJRlYxWlVBRlJl.mp4',
   },
   {
@@ -18916,7 +18912,7 @@ export const pitchesArray = [
     url: 'TGxuTWtfWGw0TUFRPT1fVkZKVFVWVUJCMVlBV1ZWVUJ3QUFCMUJlQUFBRVVsY0FVRk1CVlFjTkNRSUFWRk5S.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'Z0diWVBfWGw0TUFRPT1fQkZKVlVnQlZWVk1BQ3dSUlV3QUFCQUJYQUZoVUIxZ0FCbE1CQUFwV0JGZFdWQWRl.mp4',
   },
   {
@@ -19040,7 +19036,7 @@ export const pitchesArray = [
     url: 'Z0diOWFfWGw0TUFRPT1fVndrQ1hBWlFWd3NBV3dCWEFBQUFWMUFIQUFBQ1VsWUFVQUZUQTFGWEJWY0hCbFpV.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TndadzJfWGw0TUFRPT1fQWxSWUJsZFNBbFFBWFZBQ1VBQUFCMUlIQUZrQ1ZWTUFBMU5YQWdSWFZBWUdWbGRY.mp4',
   },
   {
@@ -19076,7 +19072,7 @@ export const pitchesArray = [
     url: 'elpBUjBfWGw0TUFRPT1fQXdoWVZnQUVBd29BQ2dNRVZBQUFVd05YQUZoWFZGQUFWQWNDVXdRTkExQmNWUVZV.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TndadzJfWGw0TUFRPT1fVWdsVVZWMEhVQVFBVzFFQ0FBQUFBVk1DQUZoWEFWUUFCMUVEVmdJSEJGVlJWbEJl.mp4',
   },
   {
@@ -19196,7 +19192,7 @@ export const pitchesArray = [
     url: 'NjREUjJfWGw0TUFRPT1fQmdKWUFBWlFBQU1BQ2xjQVZRQUFBZzRDQUZrR1ZnTUFBRmRSQXdRTkJBb0hWbFFD.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'NFg4T3FfWGw0TUFRPT1fQVFGUVhBSUJWd29BQ1FjR1VBQUFDRk5XQUFCVVVGQUFBbEZRQ0FNSFUxQUFDRkZY.mp4',
   },
   {
@@ -19240,7 +19236,7 @@ export const pitchesArray = [
     url: 'WmVLeGVfWGw0TUFRPT1fVjFRREJsZFNVUUlBRGxBRVZBQUFCd1VBQUZoVFVGQUFWZ2NCQWxaUVZGVlJBZ0lB.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'Z0diOWFfWGw0TUFRPT1fVkZWU1YxSlFWVkVBQ2dRQ1hnQUFBd0lDQUFOVFdsQUFCVndGQ0FwUUJWSlFVMUZU.mp4',
   },
   {
@@ -19280,7 +19276,7 @@ export const pitchesArray = [
     url: 'NFg3QTZfWGw0TUFRPT1fVkFkVEJWWUdWVk1BRFZaUUFBQUFCQUJVQUZsUkFWVUFVUWNHVlFCWEJnWmNCVkZT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVpHMmdfV0ZRVkV3dEdEUT09X0JsVURWQWNGQkFNQVhRQUdCd0FBVndjSEFBQUFBVmtBVjFKWFVsVUJBUXRYQjFNRQ==.mp4',
   },
   {
@@ -19304,7 +19300,7 @@ export const pitchesArray = [
     url: 'NU43UEJfWGw0TUFRPT1fQkZkWEJsWU1VMWNBQ0ZSWEJRQUFCUU5UQUZrTVV3SUFCUUVHVmdVR0FWQUVVbE5Y.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'dzdBWFFfWGw0TUFRPT1fVUZJSEIxd0ZCRkFBQ0ZvSFZBQUFDUVpUQUFCUUFsa0FWMVVDQndwV1VsSUhBVk5S.mp4',
   },
   {
@@ -19332,7 +19328,7 @@ export const pitchesArray = [
     url: 'NjREUjJfWGw0TUFRPT1fQVFJSFVsUUhVMWNBQUZBQ0FBQUFBd1pmQUFCUVVsVUFWQVpRVXd0UVZBRUJVd3RY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBUjBfWGw0TUFRPT1fVndkU0J3RlZBd0FBRGdGVEFBQUFBQVJTQUFOV0FRY0FCVjBFQUFzSEJBSlhWQVFF.mp4',
   },
   {
@@ -19540,7 +19536,7 @@ export const pitchesArray = [
     url: 'NFg4T3FfWGw0TUFRPT1fVlFkWlZRWURVQVVBV3dZS0FnQUFWRlJRQUFNQ1VWTUFCQU5SVVZGV0JWQUdVUUFI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TndadzJfWGw0TUFRPT1fRGdCWlUxWU1YbGNBRGxkWEJBQUFBUUlDQUZoVVVWWUFVRjBDVmxBR0JGQlhBQUJW.mp4',
   },
   {
@@ -19572,7 +19568,7 @@ export const pitchesArray = [
     url: 'MzVyVnlfWGw0TUFRPT1fQVZBRlVGRU1BMVFBQ1ZGV1VRQUFWUVFFQUFBSEFGTUFCQVlCVkFCVFZRRlRVbGNF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NjREa2RfWGw0TUFRPT1fVlZVSEJnVUNWQUlBWGdBQlZnQUFDUVJlQUZnQ0FsTUFBbFlCVmxCVUFnY0dBZ1VI.mp4',
   },
   {
@@ -19688,7 +19684,7 @@ export const pitchesArray = [
     url: 'WmVLeGVfWGw0TUFRPT1fVXdkWFZnQUdBd3NBREZZRFVBQUFWQUplQUFOUVVWVUFWZ1pRQUFZQVVnSlZVZ0JX.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'Z0dBNjNfWGw0TUFRPT1fQkFKU1hBY0FYZ1FBRGdCVVVBQUFWdzVTQUFNQ1ZnY0FBbEJYQjFJRkJnQmRWQVVG.mp4',
   },
   {
@@ -19860,7 +19856,7 @@ export const pitchesArray = [
     url: 'Uldua29fWGw0TUFRPT1fQWxCWVZnSUNVUUlBQVZzQlVRQUFCbEJVQUFNSEFGUUFDbEZUQUZkVUNRSmRVd1VG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'T1F3OTlfWGw0TUFRPT1fRDFOU1Yxd0NWQW9BV2xNR1ZRQUFVQWRWQUZsVUJWUUFDMVZUVXdvRUFsY0dVUUZT.mp4',
   },
   {
@@ -19904,7 +19900,7 @@ export const pitchesArray = [
     url: 'Z0diOWFfWGw0TUFRPT1fQlFoWlZWMEdVQVFBRFFjTEFnQUFVZzllQUZnQlZGUUFCUUVDQkFZTUFRc0JBd0FF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NjREa2RfWGw0TUFRPT1fVWdJREJsd0hVUVlBQVFNRUF3QUFCbE5YQUZnR1VGRUFVRllOQlFjRkFsY0hWQXRl.mp4',
   },
   {
@@ -20012,7 +20008,7 @@ export const pitchesArray = [
     url: 'NU43UEJfWGw0TUFRPT1fVUZBRUJRSlZVVkFBRHdGVEJBQUFDQUpUQUFNQlUxSUFWRkFOQUFJTUFsWUdDVlpV.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBUjBfWGw0TUFRPT1fVkFVRlZWWlhVQVVBVzFwUlVRQUFCRklDQUZrRVZ3SUFBMUlGQTFJTVZ3TUVBd0ZV.mp4',
   },
   {
@@ -20164,7 +20160,7 @@ export const pitchesArray = [
     url: 'MzVyVnlfWGw0TUFRPT1fRGdNREJnSlNWUWNBQUZBQlZRQUFWUVZWQUFOVEFnVUFVMXhRQkFJTkJsRlZBUUpl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBUjBfWGw0TUFRPT1fVWdnREFWeFdCVk1BQ0ZwV0JBQUFDRkJSQUFBQlZ3SUFBRlFHQUFzRVVBSURBUVVF.mp4',
   },
   {
@@ -20416,7 +20412,7 @@ export const pitchesArray = [
     url: 'R1phTm5fWGw0TUFRPT1fRGdjQVVsWldVMVFBWFFFQ0JBQUFDUVFBQUZnQlZGSUFCVmNEVmdOVEJRRmRWRk1B.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVpHV1FfWGw0TUFRPT1fRDFSVlVGSUFCUVFBV2xRTFZ3QUFBMUJUQUFNQVdsTUFWQVlFQ1FzTkJRdFZCZ0ZW.mp4',
   },
   {
@@ -20560,7 +20556,7 @@ export const pitchesArray = [
     url: 'T1F3cUdfWGw0TUFRPT1fVndkUUJ3ZFZCQXNBRDFZRlVRQUFCRmRTQUZoVVVGZ0FVVk1GQWxWV1UxWlZBMVlB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'b25vUERfWGw0TUFRPT1fVUFaVFhRWUJVd01BQzFKUVV3QUFVRlZWQUFNTUFBTUFDd0VNQkFjRkJnc0dWbEVI.mp4',
   },
   {
@@ -20656,7 +20652,7 @@ export const pitchesArray = [
     url: 'TGxudllfWGw0TUFRPT1fQlZKWVhGMVJWQW9BREZKUUF3QUFWUVpRQUFCVVVRUUFBQWNFQ1ZWUlV3cGNVUW9D.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cThrQnpfWGw0TUFRPT1fVndZRFZBSlJCQXNBQUZNS0FBQUFDUVpYQUFNRkIxQUFBRk1CVVZCV0NBTlJCd1pR.mp4',
   },
   {
@@ -20692,11 +20688,11 @@ export const pitchesArray = [
     url: 'NFg3eFFfWGw0TUFRPT1fVUFsVFZGMEZBd1lBWGdZTFVnQUFCUUpWQUFBRldsWUFBZ2RVVmxJTkJRQmRWUUZX.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'NU43YU5fWGw0TUFRPT1fQVFGWlZsQUVVZ2NBRHdOUlVnQUFWdzVXQUZsVUFnUUFBd01OQ1FjTUJsRUJVVkFF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cThrQnpfWGw0TUFRPT1fQlZVQ1VseFFVQUVBRHdNTFh3QUFCRmRlQUZsWFVWZ0FDZ0ZVQVFVRlZGSlFVUVZW.mp4',
   },
   {
@@ -20860,7 +20856,7 @@ export const pitchesArray = [
     url: 'cThrQnpfWGw0TUFRPT1fVlFCU1ZBVlNCd01BWEZFTEJRQUFBd0VGQUZoVVcxWUFVRlpVVkFNRkFnZGNBRllF.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'NU43YU5fWGw0TUFRPT1fVUZBRFZsMERWbFFBQ0ZZREJBQUFBQU1IQUZnQ1ZsSUFCRndNVWxGVEIxSUFCZ1pR.mp4',
   },
   {
@@ -20908,7 +20904,7 @@ export const pitchesArray = [
     url: 'MDNlTDdfWGw0TUFRPT1fQWxVQ1ZBSlFBbE1BQ3dBQUF3QUFBbE1GQUZrTlZBSUFVRllBQTFjQVZRSlFVMVpl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'b25vUERfWGw0TUFRPT1fVkZVSFZGWUZCQUFBREZkUkJRQUFWVkFGQUZrRUJWUUFCZ0JYVVFJRFV3SlRDQUlI.mp4',
   },
   {
@@ -20956,7 +20952,7 @@ export const pitchesArray = [
     url: 'TVpXWU5fWGw0TUFRPT1fQWxKV1ZGUlNWQVlBQUZZQlhnQUFBUUJWQUZoVVZWZ0FVRjBNVWdjRlZ3SmNCQUFI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZFo5V1BfWGw0TUFRPT1fVjFRREFsQUJYMUFBRFZFRFhnQUFBUUlGQUFNQ0JnSUFVRkpXVkFwV0FBUldWUXBm.mp4',
   },
   {
@@ -21024,7 +21020,7 @@ export const pitchesArray = [
     url: 'UVduazVfWGw0TUFRPT1fVUZBRFhBRlFBRkFBWFZNRFhnQUFVMUJVQUZrQUIxY0FWd2NBVWd0UVYxWUVBQVFG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cThrQnpfWGw0TUFRPT1fRGdCUlhGTU1WZ01BQ1ZZTEF3QUFVZzVUQUZnTVZnSUFBZ0FGVXdNSFVGVlVDUUlG.mp4',
   },
   {
@@ -21480,11 +21476,11 @@ export const pitchesArray = [
     url: 'OGdHMnlfWGw0TUFRPT1fVWdCUUIxd0hBRmNBQzFGWFhnQUFDQThEQUZrTVZBQUFBMWRSQkZJR1ZRSlhWUVVG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdvZXZfWGw0TUFRPT1fQUFKWlZseFJBQW9BQUZOWFhnQUFDUVpmQUZnSEFWZ0FWQWNIQ0FSVVZRcFZVUXRl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OGdHMnlfWGw0TUFRPT1fQjFCUVhGRldCUUVBWFZSV1VnQUFWRkFFQUZnRFUxRUFBd0FEQ0ZZR0J3QUhBd1pV.mp4',
   },
   {
@@ -21512,7 +21508,7 @@ export const pitchesArray = [
     url: 'QnZHMFlfWGw0TUFRPT1fVndOVFYxd01CRmNBQzFKWFV3QUFCZ0VEQUFNSEFWUUFBVk1OVmdSVUNRVlVVMUJS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdvZXZfWGw0TUFRPT1fVXdjQUIxWldVUUVBV1FBRFVnQUFWMWRSQUZoWFd3SUFWZ01GQWxGUUJnSlJBQVZW.mp4',
   },
   {
@@ -21528,7 +21524,7 @@ export const pitchesArray = [
     url: 'UGpsODNfWGw0TUFRPT1fVkFJRVVGY0ZCd29BRHdSUUFBQUFBRk5UQUZoVVdnUUFBMUVGQjFKVFUxRUVCRk1F.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpyM1lfWGw0TUFRPT1fRHdSU1VWUUJVQUVBWFZFRVh3QUFCZ2RlQUFCVVZWUUFCQVlGQ0ZaUkNRTlhCUW9B.mp4',
   },
   {
@@ -21564,7 +21560,7 @@ export const pitchesArray = [
     url: 'UVduNDFfWGw0TUFRPT1fVndVQVVGTU5VUUFBQVZRS1Z3QUFDUUJUQUZsWEJsWUFCVklNQndBR0JBcFNVVllD.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'bkdvZXZfWGw0TUFRPT1fVkFCU0FRSUJVZ0lBQ2dBREJBQUFBQUFEQUZrQVZsSUFBVnhXQTFkVVVBTldBbFJR.mp4',
   },
   {
@@ -21612,7 +21608,7 @@ export const pitchesArray = [
     url: 'UGpsODNfWGw0TUFRPT1fVkZjQVVRSUNCVkFBRHdFRVhnQUFCdzVXQUFBQ0FBY0FCRklBQlZZR1V3RlhDQVZW.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'OGdHV2VfWGw0TUFRPT1fVXdKWEFRZFNVQUVBV2x0VFZRQUFBUWRYQUFNR0JsZ0FCUVlFQmxFQlVnTUVDUWNE.mp4',
   },
   {
@@ -21620,7 +21616,7 @@ export const pitchesArray = [
     url: 'dzdBNlFfV0ZRVkV3dEdEUT09X0F3VUNBQUFCVlFVQUNGQURVUUFBVkFkVUFBQlVWMU1BQUYxVEF3VUFVbFZSVWdBQQ==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OGdHMnlfWGw0TUFRPT1fVkZBRlVWQUJBRllBQ0FRR1h3QUFCZ1VBQUZrQ1UxY0FCRkZYQVFjRFVBTUVDQVJV.mp4',
   },
   {
@@ -21632,7 +21628,7 @@ export const pitchesArray = [
     url: 'eFpBbGFfWGw0TUFRPT1fVkFCWFVWRUJVUVFBREZjQ1ZBQUFWQWNDQUZnRFZsZ0FBZ05UVTFjRFZ3c0RVZ01I.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'UGpsODNfWGw0TUFRPT1fVWdSUkFWZFhBZ0VBWEZvRVVRQUFVbFZUQUFOWEIxSUFWZ2NDQkFBQkJWSlRCQWRX.mp4',
   },
   {
@@ -21640,7 +21636,7 @@ export const pitchesArray = [
     url: 'Z0diYTRfWGw0TUFRPT1fVUFBRUFWSlFVd3NBQVZSVVZ3QUFVZ2RTQUFBRFV3VUFVRjBBQkFBRVZWY0RWQVpl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxuMHFfWGw0TUFRPT1fQndNQVVRY0JCQUlBRGxSVFZRQUFBUTVRQUZsVVZsTUFCUUVBQVZVQkF3WlFDUU5U.mp4',
   },
   {
@@ -21648,7 +21644,7 @@ export const pitchesArray = [
     url: 'OVpHTWpfWGw0TUFRPT1fQWdoVVhRSUNWQU1BWEFFRFZBQUFBd1ZVQUZsUVZnUUFVUVlFQXdvQUFsQlRBd29F.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'T1F3R1JfWGw0TUFRPT1fVkFKU1V3WlhVQVlBREZCUkJRQUFCVlJlQUZnTkJ3TUFBVklIQndjTlZBY0JVUUpW.mp4',
   },
   {
@@ -21656,7 +21652,7 @@ export const pitchesArray = [
     url: 'TVpydlFfWGw0TUFRPT1fRGdrRVVGUU5VQVVBRFZBQ0FnQUFBQVlDQUZsV0IxVUFWQUVIVmdvQUFBVlRWQXBW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdvZXZfWGw0TUFRPT1fRGxkVVZBVU1YbFlBQ0Z0VVZnQUFVQVpXQUFNR1ZBTUFBbFFBVVZBREJnWUVCd29F.mp4',
   },
   {
@@ -21672,7 +21668,7 @@ export const pitchesArray = [
     url: 'NjREQmRfWGw0TUFRPT1fRHdGVlVRSldCUVlBQ0ZBRFZRQUFVbFZRQUZoV1VGUUFCbFJUVmxBTVV3VlNWRlJV.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'eFpBckRfWGw0TUFRPT1fVkFOWEJWSlZVd1VBQ2xJR1hnQUFBRlZUQUFCVEJWWUFVUWNGVVFNRlV3SlhBVkFB.mp4',
   },
   {
@@ -21736,7 +21732,7 @@ export const pitchesArray = [
     url: 'cThrN3FfWGw0TUFRPT1fVndOUVZRRUZCQWNBWEZFS1ZRQUFCbGNGQUZrQlcxTUFWd0ZVQXdzQ0FnVUFWbE5T.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpybDVfWGw0TUFRPT1fVkFCVkFsSlNCQUVBVzFJTFZnQUFBRlFFQUFNRlYxY0FCRjFUQUZBQkJsRUFCVlpY.mp4',
   },
   {
@@ -21772,7 +21768,7 @@ export const pitchesArray = [
     url: 'NjREQmRfWGw0TUFRPT1fQWdrRFZsSUVVd0FBV1ZFSEJRQUFCbElFQUFBRUJsZ0FDd01EQWxaVUJRTlVCUW9F.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'eFpBckRfWGw0TUFRPT1fQWxCVEFRVUZVRk1BV2xjQkJ3QUFCQUlEQUZsV1ZnQUFCUVFOVkZFQkNWZFZDUU1I.mp4',
   },
   {
@@ -21780,7 +21776,7 @@ export const pitchesArray = [
     url: 'dzdBNlFfV0ZRVkV3dEdEUT09X0JWQlRYVlVGWHdzQVhGVUxBQUFBQ0FOWEFGbFdWMWNBQjFBR0FRRURVQVJXVTFCZQ==.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'eFpBckRfWGw0TUFRPT1fRDFCVkJ3VUJCMUVBWEZNREF3QUFCVlJYQUFBQ1cxWUFCd2NNQndWV0JRSUdDUU1F.mp4',
   },
   {
@@ -21804,19 +21800,19 @@ export const pitchesArray = [
     url: 'TVpyM1lfWGw0TUFRPT1fQkFGWVVsWU1VUUlBWFZjQ0FBQUFCbFJSQUZsV0FsWUFWRkZVQlF0VUJRTUhWQUpR.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'bkdvZXZfWGw0TUFRPT1fQlFkUlZsMEhCUWNBQ0ZzR1ZRQUFBQUpYQUZsWFZBTUFWRjFVVlFjTkJnRlRVZ1Jm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'dzdBNlFfV0ZRVkV3dEdEUT09X1V3WURVVk5YQUFvQVdWb0xCUUFBQ1FSV0FGa0FCVmdBVkZSV0JRb0dVbElHQmxCWA==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpybDVfWGw0TUFRPT1fVXdJQ1hBVUNWMVlBRGdZRVVBQUFCd0lDQUFNQ1d3Y0FWbFJVVkFGWFZRZFVCd3BY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OGdHMnlfWGw0TUFRPT1fVndSU1ZGY0JYd29BRDFSVUJ3QUFVbFJYQUZnRUFGY0FCVjFRVXdWUUFBWUVBZ2Rm.mp4',
   },
   {
@@ -21840,7 +21836,7 @@ export const pitchesArray = [
     url: 'S3duZGFfWGw0TUFRPT1fQlFGVkFGUldCd01BWEFBRkJRQUFBRk5YQUFCVFV3VUFCbEpYQVZVTUJBRURVZ1VF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'S3duZGFfWGw0TUFRPT1fVlFKUVVnSU1Yd01BRDF0VFhnQUFWMVZWQUZoUUFnUUFBMWNDVkFVRlZBb0VVVlJR.mp4',
   },
   {
@@ -21936,7 +21932,7 @@ export const pitchesArray = [
     url: 'UGpsODNfWGw0TUFRPT1fVXdGU1V3Y0JBQUlBRHdFQlhnQUFDQVpYQUZnRFV3UUFCVndBQWdNRUFRVldBUXNB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpybDVfWGw0TUFRPT1fQTFWVUFGd0FYMVFBRFZNSFZBQUFCd1ZYQUZoVVZWY0FCZ01DVlFCV0JBc0RBUUZW.mp4',
   },
   {
@@ -21944,7 +21940,7 @@ export const pitchesArray = [
     url: 'TVpydlFfWGw0TUFRPT1fVXdjQVZsVURBMVlBRDFFS1VRQUFCMUJWQUFNREFGSUFBVkVOQkZVRkFGWUdCd05Y.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'TVpyM1lfWGw0TUFRPT1fQkFFRVZnSlFBMVFBV3dRTEFnQUFBRlZUQUZnQkFsRUFWbFFDVlFKVUNWWldVUUZS.mp4',
   },
   {
@@ -21960,7 +21956,7 @@ export const pitchesArray = [
     url: 'T1F3R1JfWGw0TUFRPT1fQlFoWFhBWU1WUU1BREZKUkJ3QUFWUWRTQUFOV1cxRUFVVklEVkZaVUFRZFVVbEJS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpybDVfWGw0TUFRPT1fVWxCUVhWZFZWUXNBWFZVQ0F3QUFDRklGQUFOUkIxZ0FCVlZYQ1FSVUNGWlNDVkFG.mp4',
   },
   {
@@ -21972,7 +21968,7 @@ export const pitchesArray = [
     url: 'cThrN3FfWGw0TUFRPT1fQjFBQ1VGZFJWQUlBQ2xzRlZ3QUFCVlFDQUZsUlVGZ0FWbHdBVkFJRkFRWlhVd2Rl.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'OVpHTWpfWGw0TUFRPT1fVkFnRlZsWUJBZ29BQ0FSWEFBQUFWQVJTQUZnREFWVUFWbFlFQlFvQ1VGVlRVZ0VD.mp4',
   },
   {
@@ -21996,7 +21992,7 @@ export const pitchesArray = [
     url: 'NjREQmRfWGw0TUFRPT1fQVZCWFZsTUhWZ01BV1FSUUFBQUFBZzlYQUZnTkIxUUFVd0FEVVF0VEJ3TlVCUUlG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OGdHMnlfWGw0TUFRPT1fVndaUVVRRlJWQWNBWFFRREJBQUFDQTVXQUFBR1VGWUFCVlFNQmdFQkJnWmRBMVlB.mp4',
   },
   {
@@ -22024,7 +22020,7 @@ export const pitchesArray = [
     url: 'eFpBbGFfWGw0TUFRPT1fQWxKV1ZsRlZCRk1BWFZRSFZnQUFDUUZXQUZsV1V3VUFDZ2NDQlZZSFVGZFhVMUFI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZFo5QjZfWGw0TUFRPT1fQXdGWVVnQlFWQVVBQ3djTFZnQUFCUTlYQUFOVVVWY0FVMUpXQWxBTlVBRUVDUVZW.mp4',
   },
   {
@@ -22052,11 +22048,11 @@ export const pitchesArray = [
     url: 'OGdHV2VfWGw0TUFRPT1fQkFVRFhRWUJCRkVBVzFWWFVnQUFBRkJXQUZnR0Jsa0FDbElCQjFaWEExZFRBQVpR.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'cThrN3FfWGw0TUFRPT1fQndoVVhGTU5YbFFBRGdjTFh3QUFVMU1GQUZsWFVsRUFCMVZXQlFRTlVBVUVWVk5Y.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpydlFfWGw0TUFRPT1fQVZCWVZBWlJVZ2NBQ1ZaV1h3QUFBZ0lGQUFCWEJsWUFWbFFIVlFjQ1VsZFVCZ2NG.mp4',
   },
   {
@@ -22104,7 +22100,7 @@ export const pitchesArray = [
     url: 'OGdHV2VfWGw0TUFRPT1fVTFWWlVGTUVVUUVBV1ZJQUFBQUFCMVZlQUZnREFRTUFDbGRVVlFvRVZ3QUdCZ1JY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBRFdfWGw0TUFRPT1fRHdrRFVsWldBRmNBWEFFQ1VBQUFWVlZlQUFBRVVWSUFWMUZRVVFFRUJ3RURWUXBW.mp4',
   },
   {
@@ -22112,7 +22108,7 @@ export const pitchesArray = [
     url: 'eFpBckRfWGw0TUFRPT1fQTFKWVhWd0NVQWNBWGdkUkJ3QUFBUVJUQUZrR1ZWQUFCVkFGVkZCVVV3cFJWZ0ZW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdvZXZfWGw0TUFRPT1fQUZkVlhWWUJCQUlBQ0ZOUUJ3QUFWd1VFQUFOV0IxSUFCZ0VDQlFSUVZBWUhVZ3NI.mp4',
   },
   {
@@ -22120,7 +22116,7 @@ export const pitchesArray = [
     url: 'TVpybDVfWGw0TUFRPT1fQTFOUlhRQlFCQU1BV2dkVVZBQUFDRlZTQUFNQVZWZ0FWMWRSQmxVRVZRWldVbE5U.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'OVpHTWpfWGw0TUFRPT1fVWdFQ1Z3Y0ZWMUFBQ1ZjR0FnQUFBbEJVQUZrTUJRVUFWMWRUQlFjRUFBb0FVd0JV.mp4',
   },
   {
@@ -22144,11 +22140,11 @@ export const pitchesArray = [
     url: 'TVpyM1lfWGw0TUFRPT1fQmxWWUFRQldBQWNBQ0ZWVUJRQUFDQVFEQUZnTVUxRUFBUWNHQmxVR1ZBVlRVVmNE.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'ZFo5QjZfWGw0TUFRPT1fRDFVQVhGTUFWd1FBREFCWEJ3QUFWRmRVQUZsWEFBTUFCRkpXQmxKUVYxSURVUW9G.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'OVpHTWpfWGw0TUFRPT1fVXdNRkJWUldCRmNBQ0FOWFVnQUFWMVFIQUFNRVUxSUFVd05YQjFWWFYxRUJDVlFE.mp4',
   },
   {
@@ -22240,7 +22236,7 @@ export const pitchesArray = [
     url: 'TGxuMHFfWGw0TUFRPT1fVlZCVEFnWUZWUXNBVzFFSFZnQUFCdzhBQUZrRVZGUUFVMVVFQVFSWENWSlNCQXBY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OGdHMnlfWGw0TUFRPT1fQVFFSFZRQU5BQUlBQ0ZBQkF3QUFDVmNIQUFBTkJWY0FDMTBNQWxkUkFWVlhVbFpm.mp4',
   },
   {
@@ -22268,7 +22264,7 @@ export const pitchesArray = [
     url: 'TVpybDVfWGw0TUFRPT1fVTFNSFhGTUdVZ0VBV1FOVVZBQUFCd1pUQUFOWFcxSUFDZ0VIQWdNTUFBWlZDVkVD.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'T1F3R1JfWGw0TUFRPT1fQXdkUUFnVU5VZ29BQ1ZSWEJBQUFWRklBQUFNSFZGVUFWd2NDVWdSUVUxSlZCbFpm.mp4',
   },
   {
@@ -22276,7 +22272,7 @@ export const pitchesArray = [
     url: 'OVpHTWpfWGw0TUFRPT1fRGdrQ1VsSUNWVmNBWFZkVFV3QUFCd05VQUFCWFUxa0FBMXhSVWxWVFZWY0FVZ1VF.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'bkdvZXZfWGw0TUFRPT1fQVFaWkJWMVNWUUFBRFZWV0JBQUFCRkpSQUFNTkFWUUFWd1lBVlFBRFUxRlhWZ3NG.mp4',
   },
   {
@@ -22292,7 +22288,7 @@ export const pitchesArray = [
     url: 'OGdHV2VfWGw0TUFRPT1fVTFOWVZGUUJWd01BVzFvSEJRQUFBQUZXQUFCV1VGa0FCRkpVQUFVQVZRTURWZ1pU.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdvZXZfWGw0TUFRPT1fVWdSUlhBRlFYMU1BQ0FZRFVBQUFCZ1lBQUZrR1ZBY0FCVlJSQkZWUlVBQlRWbGRT.mp4',
   },
   {
@@ -22304,7 +22300,7 @@ export const pitchesArray = [
     url: 'T1F3R1JfWGw0TUFRPT1fVlFkV0FRQUVCRlFBRFZVR1Z3QUFCd1pRQUZoUUJsWUFVd1lCVlZGV1V3VlZVd0ZY.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'OVpHTWpfWGw0TUFRPT1fVlFSUUFRVUZWRkVBWFZOV1VnQUFVdzVmQUZnQVZBQUFBVndIQXdNQ0F3TlFCZ3RX.mp4',
   },
   {
@@ -22320,7 +22316,7 @@ export const pitchesArray = [
     url: 'b25vMWxfWGw0TUFRPT1fVWxRQUJWeFJVUVVBQ3dFRlVBQUFBUWNEQUFNQlZsY0FDMU5SQlFZSEFGVlNDQUJY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpydlFfWGw0TUFRPT1fQXdRREFsUlFCd0VBV3dNSFh3QUFVd0VBQUZsWEJWQUFBMVpRVlFaVFVBdFdBd1JU.mp4',
   },
   {
@@ -22392,7 +22388,7 @@ export const pitchesArray = [
     url: 'T1F3R1JfWGw0TUFRPT1fQUFkV0IxWURCd3NBRHdjRUF3QUFDVk5mQUZsWEJWRUFWd2RRVVFRTlVBVlFDUVlI.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'T1F3R1JfWGw0TUFRPT1fVlZWVFVGRUNVUWNBQ0FRQ1Z3QUFDQVFDQUZrQUFBUUFDbElHQmxKUVV3SlNVbFJm.mp4',
   },
   {
@@ -22404,7 +22400,7 @@ export const pitchesArray = [
     url: 'bkdvZXZfWGw0TUFRPT1fQkFVRFVWVUVYZ0VBQzFaVFVBQUFVbE5SQUZnSFZGSUFBMUJXQmdKVUF3ZFdDQUZX.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'eFpBckRfWGw0TUFRPT1fQmdkU1ZGY01VZ1lBQ3dGVFVnQUFVbE1FQUFBQVd3SUFCbDBHQWxGVENBTUJWbFFE.mp4',
   },
   {
@@ -22420,7 +22416,7 @@ export const pitchesArray = [
     url: 'QnZHMFlfWGw0TUFRPT1fQlFNQ1ZnRU1VMUFBQ1FSVUFnQUFWQVVGQUZrQlZWWUFWMTBOVXdVREF3cFNBMVpV.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'eFpBckRfWGw0TUFRPT1fRDFBQUJsSUFYd0VBWFFNTEJRQUFBUVJUQUZrTkFGRUFDZ1FBVkFZTkJ3WlVDRmRV.mp4',
   },
   {
@@ -22468,7 +22464,7 @@ export const pitchesArray = [
     url: 'bkdvZXZfWGw0TUFRPT1fQVFGWEJnY01Yd29BWFZzQ1Z3QUFVZ05RQUFNQlVWZ0FBMVlOQlZFR0J3RlhVUU1D.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'TVpyM1lfWGw0TUFRPT1fQTFjRkJsQUVWRllBQ2xRRVZnQUFVQU1DQUZnQVVGY0FDMWNDQkZjR0NGWlNBd1ZW.mp4',
   },
   {
@@ -22512,7 +22508,7 @@ export const pitchesArray = [
     url: 'OGdHMnlfWGw0TUFRPT1fQUFFRkFnVU5Wd01BQ0ZJTEF3QUFBUU1GQUFNQ1Z3UUFVVmNIQmdNSFVsRUVBQUZY.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'eFpBckRfWGw0TUFRPT1fQTFjSFVGRUZVQU1BWGxVQ1Z3QUFWMUpVQUZnTVVBVUFBbFFBQkZZRlVsQlZCUU5U.mp4',
   },
   {
@@ -22520,7 +22516,7 @@ export const pitchesArray = [
     url: 'S3duZGFfWGw0TUFRPT1fVndJQVZRQUFYMVlBV2dNRlZBQUFWUTRIQUZrQUIxa0FBbFlNQ0FNSEFGRUhWVkZX.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'cThrN3FfWGw0TUFRPT1fQmdWV0FWQU1Wd0VBRDFSVFh3QUFVd2NEQUZsVEFGUUFBMXhXVmdBR1ZBVlVCUUZR.mp4',
   },
   {
@@ -22580,7 +22576,7 @@ export const pitchesArray = [
     url: 'bkdvZXZfWGw0TUFRPT1fQTFKUkJnWURVd29BQ0FCVVVBQUFBbEJlQUFCVVVWWUFCZ1FNQVZVTUIxWmNBUU1D.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'OGdHV2VfWGw0TUFRPT1fVWxVRlZGTlZVRllBRFZZQlZRQUFCZ0pRQUFBQVZ3QUFVRllHQmdkVFYxRUhCVkZT.mp4',
   },
   {
@@ -22600,7 +22596,7 @@ export const pitchesArray = [
     url: 'T1F3R1JfWGw0TUFRPT1fRGdGV1VsUU5Wd1lBQ0ZBREFnQUFCd1pVQUFNTUFRUUFVd05UVlFJQkFGZFhVbEZY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Z0diYTRfWGw0TUFRPT1fVndRSFZGY01WUVFBQUZjTEFBQUFVbGRRQUFOUVdsY0FWd01HQ0FBQkJBWlhDRkJW.mp4',
   },
   {
@@ -22624,7 +22620,7 @@ export const pitchesArray = [
     url: 'QnZHMFlfWGw0TUFRPT1fVjFJQ1ZsRlhWbEFBQzFCV1ZRQUFCZ1ZlQUZsV1dnQUFBUVJYQ1FjRkFBVlJDUU5V.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'eFpBckRfWGw0TUFRPT1fRHdBQ0IxMEVVZ01BWFZ0UkJ3QUFWd1VIQUZrSFVWSUFBbEVCQndJSFV3TUdWVkZY.mp4',
   },
   {
@@ -22636,7 +22632,7 @@ export const pitchesArray = [
     url: 'T1F3R1JfWGw0TUFRPT1fVUFFRkJnRU5BRlFBQzFjQ1ZRQUFBd0ZmQUZsVVdnVUFCZ0JXQkZBQ0FGQlhBUVZW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdvZXZfWGw0TUFRPT1fQndSVlhBSlhVUU1BWFZ0VVVnQUFBUThBQUFBRlVsQUFBVkFEQ1FjRUFRWUFDVlJW.mp4',
   },
   {
@@ -22644,7 +22640,7 @@ export const pitchesArray = [
     url: 'elpBRFdfWGw0TUFRPT1fQlZKVVUxY0hBd29BRDFRQ0JRQUFDVk5XQUFCV1UxZ0FDd0FCQjFWVEFBRURBd0JS.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'OVpHTWpfWGw0TUFRPT1fVkFNQ0FGVUVVd0FBQ1ZvQUFnQUFCUU5lQUFNREFWRUFVUU1HQWdNRFYxWlFBVlJU.mp4',
   },
   {
@@ -22652,7 +22648,7 @@ export const pitchesArray = [
     url: 'cThrN3FfWGw0TUFRPT1fQjFCUlYxQUZVQUFBQVZSVUJBQUFBd0pRQUZoVFZWa0FCVlVHVWdBREFBTlVBRmRm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdvZXZfWGw0TUFRPT1fQWdnRkIxQUNBRk1BRFFaVFVnQUFWMVJRQUFBR1cxa0FDMVVHQjFVTVZRZFJCQUVI.mp4',
   },
   {
@@ -22684,7 +22680,7 @@ export const pitchesArray = [
     url: 'UGpsODNfWGw0TUFRPT1fQmdGWFhGeFFWQUlBRHdZQVVnQUFVQVJTQUFCUVVBSUFVRlFOVVZVRkFRQmNVbE5W.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'TVpydlFfWGw0TUFRPT1fQXdWWEJRSUhCd29BWEFZR1ZnQUFVbFZVQUFNTUFGRUFDMVFBQ1ZKUUJRVmRVd1lI.mp4',
   },
   {
@@ -22696,7 +22692,7 @@ export const pitchesArray = [
     url: 'dzdBNlFfV0ZRVkV3dEdEUT09X0FBUlJVbDFWVVFzQURBUURBd0FBVUFCV0FBTlRWbFlBQVFOUUNRY01WQWRVQVFvQQ==.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'T1F3R1JfWGw0TUFRPT1fRGdrQUFBSlNVQXNBV3djSEF3QUFCZ1FEQUFBQVVGWUFCVkJVQTFWVUFnUlFWbFFB.mp4',
   },
   {
@@ -22708,7 +22704,7 @@ export const pitchesArray = [
     url: 'OGdHV2VfWGw0TUFRPT1fQXdaV1VRSU1Vd3NBV1FFRFhnQUFWUUVGQUZsUldsQUFBRkFOVkZkUlZ3WmRBbE5U.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpyM1lfWGw0TUFRPT1fVUZBSFUxMEFCVkFBQUZNRlVnQUFWRkFFQUZrR1VGVUFVQUFNQkFVR1Vnb0dDVmND.mp4',
   },
   {
@@ -22720,11 +22716,11 @@ export const pitchesArray = [
     url: 'S3duZGFfWGw0TUFRPT1fVUZCWVhWVUZCUVlBQzFkUlhnQUFVZ2NIQUFNR0IxVUFWRklNVmdZTkFBQlJDQU5l.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'UGpsODNfWGw0TUFRPT1fVkFKWFZsUlJBMUVBQ0FZRFh3QUFCZ0VDQUFBSFZWRUFBRk1CQTFJQkJGWlJWZ0FF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Z0diYTRfWGw0TUFRPT1fVlFGUkJnVlhVUUVBQzFkVVh3QUFCRkpXQUFBR0J3UUFBQUVDVmdvR1ZRc0FVVmRV.mp4',
   },
   {
@@ -22776,7 +22772,7 @@ export const pitchesArray = [
     url: 'ZFo5QjZfWGw0TUFRPT1fQmxBRlhBSlFBRllBV2xkUVZnQUFDRlZTQUFOUlZRQUFVRlVEVkFaVFUxVlhCd1ZV.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'eFpBckRfWGw0TUFRPT1fQkFBQ1hGTlZCRmNBV1ZJRlhnQUFCUUpVQUFNRkIxQUFCRllEQUZjTkJBTUhCUXRT.mp4',
   },
   {
@@ -22792,7 +22788,7 @@ export const pitchesArray = [
     url: 'OVpHTWpfWGw0TUFRPT1fVndOVUFGQU1VVllBQ0ZBRUFBQUFCUVpUQUFBQUJWY0FBVkVHQVFVQlV3UlVVMUZm.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'T1F3R1JfWGw0TUFRPT1fQXdrSFZBY01WZ1VBV1ZWVVhnQUFCMVZTQUFOWFVRVUFCRkJYVmdkUVVGQmRBbFlI.mp4',
   },
   {
@@ -22800,7 +22796,7 @@ export const pitchesArray = [
     url: 'OVpHTWpfWGw0TUFRPT1fQkFCUUFsRU1WRmNBV1ZZR1ZRQUFVQTlWQUFCWEJ3QUFBRnhXVlFFRkJnWUVVZ3NB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpydlFfWGw0TUFRPT1fVkZWWFUxMVhCUUVBQ3dZR1h3QUFCRlJXQUZsWEJWa0FVQU1DQWdwUUJGRUFVUU5l.mp4',
   },
   {
@@ -22828,7 +22824,7 @@ export const pitchesArray = [
     url: 'OGdHMnlfWGw0TUFRPT1fQWxNQ1hGZFhYZ01BRDFvQ1hnQUFVRlJYQUFOVEJsTUFWMUFGVVFvQVUxVUVVd0FG.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'OVpHTWpfWGw0TUFRPT1fQmdOVFYxRlJWZ0FBRHdSVUFBQUFVQTlYQUZsV1dsZ0FCRmNIVVFNR0Jnc0VCMUZW.mp4',
   },
   {
@@ -22840,7 +22836,7 @@ export const pitchesArray = [
     url: 'QnZHMFlfWGw0TUFRPT1fVkZWUlUxSU1BMU1BWEFGUVZnQUFWQU5VQUZnQ1VGa0FWMVVHQWxjTUFnVURBRk5X.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'eFpBckRfWGw0TUFRPT1fQkFNRUJRVUNWQW9BRDFBQ0FBQUFWQUpUQUFCUVVWSUFWZ1JRQVFWWFZRUlFVUU5Y.mp4',
   },
   {
@@ -22860,15 +22856,15 @@ export const pitchesArray = [
     url: 'S3duZGFfWGw0TUFRPT1fQkFsWFVGQU1WbFlBWGdNQ1VBQUFVRmNDQUZnTUIxZ0FDMUpRQVZJR0FWVUJDRmRR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVpHTWpfWGw0TUFRPT1fRGdaVUJWWU1CVlFBRDFKUlVBQUFBbGNDQUZrQVVnTUFCRk5VQndRRlZBVldCUVZY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpybDVfWGw0TUFRPT1fQUFoU1hBVUNCd1FBQUZwUlh3QUFWUU5lQUFNQ1ZGVUFDbHhRQjFjTkFnUUFDUVJm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBRFdfWGw0TUFRPT1fQmdZRkFsVURBMU1BQ2dNQVhnQUFCd0JTQUZoUVcxY0FDMTBBVWdBQkFnVlZDUU5S.mp4',
   },
   {
@@ -22912,7 +22908,7 @@ export const pitchesArray = [
     url: 'UVduNDFfWGw0TUFRPT1fVkZNQ1VsMEhBd0FBQ2dkVUF3QUFBdzlmQUZnR0JsTUFCd05YQXdwWENBZFJVUXNE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'UGpsODNfWGw0TUFRPT1fRDFSVFZ3Y05CRk1BQ1FGUUJBQUFCQVFIQUZrQ0JWQUFCQUFBQjFJR0J3b0dBd1VG.mp4',
   },
   {
@@ -22960,7 +22956,7 @@ export const pitchesArray = [
     url: 'T1F3R1JfWGw0TUFRPT1fVUZWWlZsUUZCd1lBWGxzQUJBQUFBZ0FIQUZsVUIxRUFBRklEQmxBQ1VnSmNDQXNI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZFo5QjZfWGw0TUFRPT1fVlFkU0FnWU5BbFFBQVZGUVZnQUFDVlZUQUZsUkJsRUFVQUJUVlFGV0F3UlJWZ0FB.mp4',
   },
   {
@@ -22968,7 +22964,7 @@ export const pitchesArray = [
     url: 'OGdHV2VfWGw0TUFRPT1fQkZOU1YxMEhCUVlBQ0FZQlh3QUFDQUVDQUFBSFVBY0FBbFJYVmxjRkNRdGNVZ0FI.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'ZFo5QjZfWGw0TUFRPT1fRDFkWFVsUUFYbE1BWFFjRFh3QUFDQVJUQUFBSEFGa0FVVklIVVFCVVZGRmRCMUZV.mp4',
   },
   {
@@ -22996,7 +22992,7 @@ export const pitchesArray = [
     url: 'elpBRFdfWGw0TUFRPT1fRGdaV0FRQUNWQVFBRFZGWFh3QUFVMU5TQUZsUVZsSUFVQU5RVVFNQUJRVldCQWRT.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'eFpBckRfWGw0TUFRPT1fVTFSVUJsMEFVd1VBQzFZTFZ3QUFBRlJRQUFNQlZsa0FVd01DQ0FjRUJGWUFCRllD.mp4',
   },
   {
@@ -23028,7 +23024,7 @@ export const pitchesArray = [
     url: 'b25vMWxfWGw0TUFRPT1fQWxWWlZGWUJWbGNBWGxCWFh3QUFBQTllQUZsVFVWTUFBMTBDQ0ZFQ0JWWldCVlpX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpydlFfWGw0TUFRPT1fVjFOWFUxTUhVZ1FBWFZwWFZBQUFBQVlGQUZoUlcxVUFDbEFDVlFzRkFGVmNBZ3RW.mp4',
   },
   {
@@ -23060,7 +23056,7 @@ export const pitchesArray = [
     url: 'TVpydlFfWGw0TUFRPT1fQVZOUVZRRlZCUVVBQ0ZSVVV3QUFBd1JRQUFNSEFRY0FWZ01IVWdKUUJGVUFCUVZW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'S3duZGFfWGw0TUFRPT1fVndWWEFsMVJBQXNBQ1FSWEFnQUFVbE5XQUZoUlVBUUFVMVVBVkFOVENRcGRWUXBY.mp4',
   },
   {
@@ -23152,11 +23148,11 @@ export const pitchesArray = [
     url: 'S3duZGFfWGw0TUFRPT1fQTFNRkFGQlNCQWNBWGxBR0FBQUFCQU1IQUFNTUIxQUFWMXhVQmdKUkJRdFFCQUJS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBRFdfWGw0TUFRPT1fQTFNRVZWWU1Cd01BQ0ZNQVVBQUFVMVZmQUFOWEJRSUFVVjBOQkZkV1VnWmNCMUFF.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'TVpyM1lfWGw0TUFRPT1fRGdsVFhBVlFVd0FBQ1FRTFV3QUFWQUZlQUFOUVZsSUFCQUJRQmd0UkNRY0dBZ01F.mp4',
   },
   {
@@ -23188,7 +23184,7 @@ export const pitchesArray = [
     url: 'Z0diYTRfWGw0TUFRPT1fVXdWWFhGRlFWRk1BRFFBQ0F3QUFVQWRRQUZoUVZsa0FBVk1CQ0ZKV1ZBWURWZ01B.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'ZFo5QjZfWGw0TUFRPT1fRGdVSFhGd0NBbFlBQ3djR1hnQUFWUVJmQUZrRFYxQUFDZ05UQkZkUUJ3Y0hDQXRX.mp4',
   },
   {
@@ -23240,7 +23236,7 @@ export const pitchesArray = [
     url: 'Z0diYTRfWGw0TUFRPT1fVkFWWkIxSU1YZ01BV2xzRVVnQUFBMWNGQUZnR0JWQUFCZ05XVVZVTkJWWUhCUW9F.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'bkdvZXZfWGw0TUFRPT1fQUZkUlVGMVJWd1lBWGxKV0FBQUFVZzRBQUZrQ1cxZ0FBUU1DQUFCVUJGSlhVUVFD.mp4',
   },
   {
@@ -23280,7 +23276,7 @@ export const pitchesArray = [
     url: 'OGdHV2VfWGw0TUFRPT1fVWxKWEFnRU5WQVlBWFZjQlh3QUFCMUlEQUZoWFUxVUFBVllBVkFZQVVBZFJBd3NB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OGdHMnlfWGw0TUFRPT1fQmxCU1V3QU5VVkVBVzFaUkFBQUFBUUJTQUZoUlZBVUFCRjFSQkZVRVVnVmNCUVJm.mp4',
   },
   {
@@ -23292,15 +23288,15 @@ export const pitchesArray = [
     url: 'cThrN3FfWGw0TUFRPT1fVTFCWVVsZFhWMUFBRFZFRFVBQUFVd0ZXQUFOWFZGY0FWd0ZYQlFCVEFWRUhVZ0ZV.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'dzdBNlFfV0ZRVkV3dEdEUT09X0JnQUFWRlFIQlFjQUFRRldWUUFBQWxKU0FBQUVCZ0lBVmxZQUNGWlRWd0ZVQ0FOVA==.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'eFpBckRfWGw0TUFRPT1fVjFOVFVWUUJBRkFBQ1ZJRFZnQUFBd0ZXQUFNRkFGRUFWMUFDVXdSVUJWQUhVd29G.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'S3duZGFfWGw0TUFRPT1fVkFFSEFnVlFCVmNBWFZjSEFnQUFWRlVIQUFCWFdnSUFCQWRUVWxFQ1VGSlNBbGRR.mp4',
   },
   {
@@ -23312,7 +23308,7 @@ export const pitchesArray = [
     url: 'TVpybDVfWGw0TUFRPT1fQWdRRFVWVUFYMUVBV2xBQVZnQUFWQUpWQUFBQlVBTUFWd0FHQ1FZRENBVUdCZ1pU.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpydlFfWGw0TUFRPT1fQXdkUVhGd0FBd1lBVzFVTFZ3QUFDVk5TQUZnRlVnSUFCRk5YQkFwVUJWZFNBMVFI.mp4',
   },
   {
@@ -23356,7 +23352,7 @@ export const pitchesArray = [
     url: 'bkdvZXZfWGw0TUFRPT1fRHdaUlZsUUZCQVFBQ0FFRkJ3QUFBZ1lBQUFBRlZWQUFBbFFOQkFFSENRWURWQVZm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpybDVfWGw0TUFRPT1fVjFKWEFsSUJWbFlBQ0ZJTFZ3QUFBUU5UQUZsVVZsSUFVMTFXQmdFRFVndFdBQVZV.mp4',
   },
   {
@@ -23372,7 +23368,7 @@ export const pitchesArray = [
     url: 'NjREQmRfWGw0TUFRPT1fRHdOVUFBY01WVkVBQ2xZQlZRQUFVbFJWQUFBQkFWUUFDMVpVQVZKVUJRRmRVVkZT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpybDVfWGw0TUFRPT1fVndaU1hBWUJWbEFBWEZBR1hnQUFDUUJlQUZnQ1ZnY0FCbFZVQlZWV0JBRlFBQUVD.mp4',
   },
   {
@@ -23396,7 +23392,7 @@ export const pitchesArray = [
     url: 'QnZHMFlfWGw0TUFRPT1fQkFaWVZRVURBd3NBREZOUlV3QUFWQUFIQUZnRVVGY0FBbE1IQ0FCWEJRVlFBZ3RY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpybDVfWGw0TUFRPT1fQUFrSEJRQU5Wd1lBWFZkVEJRQUFWQTVSQUZsUkFWZ0FCbEZXQmxBTkNRdFNBbEVB.mp4',
   },
   {
@@ -23432,7 +23428,7 @@ export const pitchesArray = [
     url: 'OGdHMnlfWGw0TUFRPT1fQUZkWFZBZFZCRmNBRGxBR1V3QUFCMVJXQUZrR1VWTUFCMXdFQkFZQkF3Y0JVZ0VF.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'ZFo5QjZfWGw0TUFRPT1fRDFCWkFWY0ZWbE1BVzFJQUFBQUFCZ0JUQUZsVVVnUUFCbFZRVTFkUUFnTUdBd3BT.mp4',
   },
   {
@@ -23440,7 +23436,7 @@ export const pitchesArray = [
     url: 'elpBRFdfWGw0TUFRPT1fVlFKUVVWWlhWbEVBWGxJQUFnQUFVbFFEQUFNTlZBQUFCQU5YQWdaV0JBWUVDQVpm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpybDVfWGw0TUFRPT1fQXdaWFhWY0RBZ2NBWEFOVFhnQUFCd0JYQUFBRVZGUUFWZ0VIVVFvRVYxRUJVVk5U.mp4',
   },
   {
@@ -23508,7 +23504,7 @@ export const pitchesArray = [
     url: 'cThrN3FfWGw0TUFRPT1fVXdaWFZsRU5WRmNBWGxGUlVnQUFCZ0ZSQUZrTlVGRUFVVklEVVZFQUFWSlhBRkJX.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'TVpyM1lfWGw0TUFRPT1fVXdOUlhWWlFVVkFBVzF0VUF3QUFDUTVWQUZsVVZsSUFCZ0ZRVmdKVVVBSlNBQUpU.mp4',
   },
   {
@@ -23568,7 +23564,7 @@ export const pitchesArray = [
     url: 'eFpBbGFfWGw0TUFRPT1fQUFWV0J3QUJWbGNBRGdkUUJBQUFBZ0pXQUFBTVVBVUFVRkpRQ1ZVRlVnQUJVd05X.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'eFpBckRfWGw0TUFRPT1fQlFKV0Fsd0ZWMUVBV1FNS1hnQUFVQUpUQUFBRUFRVUFBMXhUQVZZTVV3TldDQXBT.mp4',
   },
   {
@@ -23588,7 +23584,7 @@ export const pitchesArray = [
     url: 'ZFo5QjZfWGw0TUFRPT1fQXdsVVhWZFdBd1lBQ0ZKVUF3QUFDUWRlQUFNTlZWa0FCUVJVQ1ZjR0JRZFZBRk5W.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OGdHMnlfWGw0TUFRPT1fQmxWUlZnVlNWZ1FBRDFaUVVnQUFBZ05RQUZrSFZWZ0FDd0ZVVTFWVEJ3UUVVd01G.mp4',
   },
   {
@@ -23692,7 +23688,7 @@ export const pitchesArray = [
     url: 'QnZHMFlfWGw0TUFRPT1fQndSUlZWY0JYMUFBREFFRkFnQUFCUVpVQUZsV1Z3VUFCVlZUQUFRQ1ZRTUVDQUJW.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'eFpBckRfWGw0TUFRPT1fQmxRQ0JWWlNYZ1VBQ1FRQVVBQUFVQVVEQUZnRVdsQUFCUU1NQlZKUUFnUmRBQVpT.mp4',
   },
   {
@@ -23700,7 +23696,7 @@ export const pitchesArray = [
     url: 'elpBRFdfWGw0TUFRPT1fVUZKUlVsSUJWd0VBWGxNRVh3QUFBd1VIQUZrQldsQUFDZ1FDVVFKVFZBZFZVbE1F.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'S3duZGFfWGw0TUFRPT1fQXdrRVZGUUdYbE1BREZJQVhnQUFBUTVmQUZrSFZnY0FBd2RXQkFBQkNBSlRBbFJW.mp4',
   },
   {
@@ -23788,7 +23784,7 @@ export const pitchesArray = [
     url: 'NjREQmRfWGw0TUFRPT1fRGdsVkJRY0FWZ1lBQUFBQkF3QUFBZ1JWQUFNSFV3TUFVVllNQUFVQlV3VlJBd0ZT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpyM1lfWGw0TUFRPT1fRHdjRVVsUlNWZ1lBQUZzSFZRQUFVMU5UQUFBTUFnUUFBRk1GVkFvRENRZFFVd0FG.mp4',
   },
   {
@@ -23820,11 +23816,11 @@ export const pitchesArray = [
     url: 'S3duZGFfWGw0TUFRPT1fQjFRRlVnSUJVUUlBWEZjS1VBQUFCd0VGQUZnRVVGZ0FBZ0VFVkFzTkNBSmNCZ0ZY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpybDVfWGw0TUFRPT1fVUFoU1ZGUUFCRlFBQVZJS0JRQUFDQTlVQUFOVFYxQUFDbFZVQWdzRUJRUlJBbEJW.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'eFpBckRfWGw0TUFRPT1fQVFsV1Uxd0RWVmNBWFZvRlVRQUFBVk1IQUZsUUFRUUFWRlFGVlFZSEJRTmNDQVpT.mp4',
   },
   {
@@ -23852,7 +23848,7 @@ export const pitchesArray = [
     url: 'S3duZGFfWGw0TUFRPT1fVUZRREFWeFNBd29BQVZjR0FnQUFDRmRlQUFCV1Z3VUFBbElIVWdvRVV3TmNDUWRT.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'bkdvZXZfWGw0TUFRPT1fVWdoWVZsRlFCMVlBWFFZRUJ3QUFCMVFIQUZnQVZRTUFCVlJUVlZJQVZGZFNDUUZU.mp4',
   },
   {
@@ -23884,7 +23880,7 @@ export const pitchesArray = [
     url: 'dzdBNlFfV0ZRVkV3dEdEUT09X1ZRRldVMVVFQXdjQVd3UUVCQUFBVjFNRkFGa0JVZ1FBVndZSFZWVlVVd0VEQ1FZQw==.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'OVpHTWpfWGw0TUFRPT1fQUFsWUJnRlhYMVFBQ0FNRUFBQUFCMVJmQUZsUVZWRUFBUVpRQTFjRVZ3c0JCUUlG.mp4',
   },
   {
@@ -23900,7 +23896,7 @@ export const pitchesArray = [
     url: 'elpBRFdfWGw0TUFRPT1fVlZSWEJWVUFVMVFBWEZZTEFBQUFBRkpVQUFCVEFRUUFWMU1IQmdRQ1ZRRlJBUVpT.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'TVpyM1lfWGw0TUFRPT1fVXdVSFVWRlJVQVlBV2xzRFh3QUFDVlVIQUFNR1ZBVUFBRndHVXdVQlZBQlVVd0ZS.mp4',
   },
   {
@@ -23912,7 +23908,7 @@ export const pitchesArray = [
     url: 'OGdHMnlfWGw0TUFRPT1fQUZRQVhRSlhVZ01BQ3dOVVZRQUFBbE5WQUFNRVcxUUFCbGNBQmdjREJWQlRCRkZm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBRFdfWGw0TUFRPT1fVkZjSFYxRU1YZ29BQVFjQ1VRQUFCQVpRQUZrRFZGWUFWMUVBVWxJQkFRQlVWUWRW.mp4',
   },
   {
@@ -23932,7 +23928,7 @@ export const pitchesArray = [
     url: 'TVpybDVfWGw0TUFRPT1fVWdnSFZGVUZVQVVBWFZaUlV3QUFBd1ZUQUZnQVcxVUFDMWNOVVZkWFZRUmRWUVJW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdvZXZfWGw0TUFRPT1fVWxSUVZRQlZBbGNBV2xvTFZRQUFDVlJSQUZnQ1VBTUFWQVFHQWxBQkFBTUVCMVFE.mp4',
   },
   {
@@ -23976,7 +23972,7 @@ export const pitchesArray = [
     url: 'OGdHMnlfWGw0TUFRPT1fVUZCVFVnVUNBMU1BRGxvRUJRQUFDQTlTQUFNSFVnQUFVUVFOVmxkVEFnc0JBd01D.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'TVpyM1lfWGw0TUFRPT1fVndOVVZsWUJVMUVBQ3daVEFnQUFBd1ZVQUFBTkFGZ0FBMTBHQkFGWFUxVlhWRlJm.mp4',
   },
   {
@@ -24048,7 +24044,7 @@ export const pitchesArray = [
     url: 'b25vMWxfWGw0TUFRPT1fQWdWU1hBWlJWZ0FBQ2xzQ0JRQUFVZ1pTQUZsVEFWQUFBUUFIQmdWUlVGRURWUVJX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFpBbGFfWGw0TUFRPT1fVWxkUVhGSU5CVkVBQzFkV1VnQUFWVlZSQUFOVUFRQUFDZ1lEQmxBSFVnUUVVVmRV.mp4',
   },
   {
@@ -24056,7 +24052,7 @@ export const pitchesArray = [
     url: 'OGdHMnlfWGw0TUFRPT1fVlFsVlZseFhBZ3NBQ2dFRUF3QUFWUVZRQUFCVVdsQUFBbE1NVmxFQ1VsRlVDQW9E.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'eFpBckRfWGw0TUFRPT1fVUFGUkJ3VUZVd29BWFFZTEFnQUFCUWRmQUFCV1UxSUFWRlVOQXdGWFVBUURDUVpY.mp4',
   },
   {
@@ -24064,7 +24060,7 @@ export const pitchesArray = [
     url: 'QnZHMFlfWGw0TUFRPT1fQVFsU1VWd0dVRkFBRFZkVEJBQUFBbGNGQUZnTkFBSUFBVllIQUFFRlZ3cFJDRk5U.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'eFpBckRfWGw0TUFRPT1fQlZkVEIxWUNWUUVBWFFRQ0JBQUFWVmNFQUFBQ0FsTUFVd1FEQmxWVEExSlhWUUJT.mp4',
   },
   {
@@ -24076,7 +24072,7 @@ export const pitchesArray = [
     url: 'T1F3R1JfWGw0TUFRPT1fQVZRRUFnQU1WZ0VBQ2xaUkJBQUFVd05SQUZnTkFsY0FBbDBEVlZZTkJRRmNBQW9D.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdvZXZfWGw0TUFRPT1fVjFSWFZ3RUFYbE1BQ1FGUlhnQUFWMU1DQUFCWFVRVUFVVmNHQVFRQ0FBcGNWUW9G.mp4',
   },
   {
@@ -24132,7 +24128,7 @@ export const pitchesArray = [
     url: 'NjREQmRfWGw0TUFRPT1fVjFKV0FWTldWUUVBV1FRRlZRQUFWRmNBQUZoUUFGQUFBUWNNVlZJRUJBTUVCbGNF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpybDVfWGw0TUFRPT1fQVFoUVZWZFNYbEFBRFFRQ0FnQUFWVlJVQUFNRVdsQUFCUUFNQVFVQlVnSlFVUUVG.mp4',
   },
   {
@@ -24140,7 +24136,7 @@ export const pitchesArray = [
     url: 'QnZHMFlfWGw0TUFRPT1fVkFNQ1ZBRlJVd01BQVZkUlhnQUFWd2RlQUZrRlcxZ0FDZ2NBQmd0UlZ3SlFVd0Jm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpydlFfWGw0TUFRPT1fVndWWlhRSUdBQUVBQ0ZNSFVRQUFDQU5YQUZnR0IxY0FWRk1CQWdVQUNBQUJDQVlD.mp4',
   },
   {
@@ -24180,7 +24176,7 @@ export const pitchesArray = [
     url: 'TVpybDVfWGw0TUFRPT1fQXdWVVhRVUVYbGNBWGxvRFZ3QUFVQTlXQUZrRVVBTUFCVk1CQWdNTkNWWmNWQVlB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZFo5QjZfWGw0TUFRPT1fQVFSUlV3QUJWQUFBRHdFSFZ3QUFVMVFEQUZnQVYxTUFCbFFBQndBTUFsSUVDVllB.mp4',
   },
   {
@@ -24232,11 +24228,11 @@ export const pitchesArray = [
     url: 'TGxuMHFfWGw0TUFRPT1fVjFRQVZWeFNBRllBRFZJSFh3QUFVRlZWQUFBRFUxWUFVRkJVQWdCWEJRSmNBRk5W.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBRFdfWGw0TUFRPT1fVndoVlZsUUFBbE1BV2xRR0FBQUFWQWRTQUZsUlZWWUFDbEJVVkFRQUNWWlNBd29F.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'dzdBNlFfV0ZRVkV3dEdEUT09X0F3WldVUVlFQlFjQUFGc0FBd0FBVTFCUUFGaFRVVlVBQmxRTUFRRUFBRlZVQ0ZZQw==.mp4',
   },
   {
@@ -24284,7 +24280,7 @@ export const pitchesArray = [
     url: 'TVpydlFfWGw0TUFRPT1fVkFWV0FWTU5Yd01BWEZSVUJBQUFVQTlTQUFNQkJWTUFCd2NEQ0ZGWENWVlFWUXBW.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'TVpyM1lfWGw0TUFRPT1fVlFSVlZBSUZYbEVBV1ZBQlVBQUFVRk5lQUFNTVVWa0FCVkVHQlZaVEJnZGNWVkJV.mp4',
   },
   {
@@ -24340,7 +24336,7 @@ export const pitchesArray = [
     url: 'eFpBckRfWGw0TUFRPT1fQUFSU0J3RldBd0lBQVFOVFVnQUFWd1VIQUZsUVYxQUFBMVlDQ1FFTlVBSUhCVk5T.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'eFpBckRfWGw0TUFRPT1fVkFVQVZnSlhVRmNBQ3dBRkFnQUFVbElDQUZrRkJnY0FDZ0VGVkFzRkJWZFRCd0ZY.mp4',
   },
   {
@@ -24376,7 +24372,7 @@ export const pitchesArray = [
     url: 'Z0diYTRfWGw0TUFRPT1fQVFSVVVBVU5BQUlBRGxVREFnQUFCbEFIQUZoUVVWRUFVd0FEVkFaVENRUlFWUXRV.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'OVpHTWpfWGw0TUFRPT1fVjFRRFhGMEhCQXNBV2xvTFVnQUFDQTVVQUFBRlUxZ0FCUVFDVkZJQ0NRUUdVMVFG.mp4',
   },
   {
@@ -24388,7 +24384,7 @@ export const pitchesArray = [
     url: 'TVpybDVfWGw0TUFRPT1fVndsWlhRSURBd29BWFZZR0JBQUFVQUpSQUFOV1Uxa0FDd0VCQ0FwWEIxSmNVZ0FE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBRFdfWGw0TUFRPT1fQkFGU0JsZFhYMUFBVzFjRUFBQUFWVkpRQUFNRUFWSUFDbE5RVVFSUlVGSldVMU5U.mp4',
   },
   {
@@ -24432,7 +24428,7 @@ export const pitchesArray = [
     url: 'OVpHTWpfWGw0TUFRPT1fQUZWU1ZsQlFBQXNBQ1ZKUlZRQUFDUVJmQUFNQVVBQUFCUU5UQkZkVFVsWldVZ1pX.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'TVpydlFfWGw0TUFRPT1fRGdsVlZBSUFVMVlBQUFOWFZRQUFWRk1BQUFBQ0JnUUFWRkVBQTFKVVZBVUJCd05W.mp4',
   },
   {
@@ -24440,7 +24436,7 @@ export const pitchesArray = [
     url: 'b25vMWxfWGw0TUFRPT1fVlFJQ0J3Y05CVkFBRGxNR0JBQUFBUUZVQUFBR0JRUUFCMVVOQXdBTkJ3TlFBQXRS.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'eFpBckRfWGw0TUFRPT1fQkFRQ1hBSUhWZ1VBRGdjRUJ3QUFVQTVYQUFNQkFGUUFVVjFYVkZVTUFBdFRBQVFE.mp4',
   },
   {
@@ -24464,7 +24460,7 @@ export const pitchesArray = [
     url: 'cThrN3FfWGw0TUFRPT1fQmdsV1V3WURWQXNBRDFaUlVnQUFCbFVFQUZsVEFsZ0FBZ0ZYVlFBTlYxY0hCVmNE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdvZXZfWGw0TUFRPT1fVTFVQ0JnSUJBZ0VBV2xaUkFnQUFDVmNDQUZsVFVBUUFWRklBVlFvTUJ3dGRBVkZR.mp4',
   },
   {
@@ -24480,7 +24476,7 @@ export const pitchesArray = [
     url: 'QnZHMFlfWGw0TUFRPT1fRGxWWkFBQUFBZ1FBQ0ZZR1ZnQUFBUTVYQUZrQ1ZBTUFBbEVEVmxJR0JBVlRBRk5Y.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'bkdvZXZfWGw0TUFRPT1fQmxKV1UxMEJVQXNBQ3dRRFZBQUFCbFZmQUFCVUFWRUFWRlVNQWxZTVV3SUdBQUlD.mp4',
   },
   {
@@ -24552,7 +24548,7 @@ export const pitchesArray = [
     url: 'dzdBYTNfWGw0TUFRPT1fVndBRUJ3ZFJYZ01BWFZWV1hnQUFCd0lEQUFBQ1V3QUFVQUFOVmdBSFVBb0JVd1Zm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdvZXZfWGw0TUFRPT1fVlZWUkJ3SUNVd2NBREZNTFZRQUFBQVZWQUFNQlZBTUFCZ0FNVmxZRVZ3UUVDUXBW.mp4',
   },
   {
@@ -24560,7 +24556,7 @@ export const pitchesArray = [
     url: 'bkdvZXZfWGw0TUFRPT1fQWdnRVYxd0JCVlFBV1ZvRlZRQUFWUVlBQUFNSEFGUUFBd01FQVZZQ0JBZGRCMU5m.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Z0diYTRfWGw0TUFRPT1fQXdoWEIxTU1Cd1VBREZOV1VBQUFWRmRlQUZnRUFsUUFBMWRSVmxaVUJnQlhBQVpm.mp4',
   },
   {
@@ -24572,7 +24568,7 @@ export const pitchesArray = [
     url: 'OGdHMnlfWGw0TUFRPT1fQXdaU1hGME1WZ1FBRFFFSFZ3QUFCd05SQUZsVFZWRUFBVndBVXdBQVVBVlRVUVZl.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'TVpyM1lfWGw0TUFRPT1fVXdSV0FBSUVCUUFBVzFNRUFBQUFBbFZVQUZrRlVGRUFCUU1FVVFJTkFBWlVCUVZW.mp4',
   },
   {
@@ -24612,7 +24608,7 @@ export const pitchesArray = [
     url: 'NjREQmRfWGw0TUFRPT1fQndaUUFBY05BQXNBV1ZVQVV3QUFVd0ZWQUFNTlZsQUFCVkFBVlFJQUNBVlJBUVpU.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'eFpBckRfWGw0TUFRPT1fQmdGVlVnRUJVd3NBV2dZR1ZnQUFBZ0JSQUZnTVVnSUFVMVlIQmxGUUFnY0hVZ3Rl.mp4',
   },
   {
@@ -24632,7 +24628,7 @@ export const pitchesArray = [
     url: 'OGdHMnlfWGw0TUFRPT1fVWdCVVhWWlFBZ3NBQ1ZzQ1hnQUFCd1VFQUZrTldsWUFCMTBBVTFjQkF3VlFVd29E.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpybDVfWGw0TUFRPT1fQlFNQVVWMVZVd01BREFCWEFnQUFBUTlXQUFCUkJsSUFCbDBOQUFCVFZ3SmNVZ0JV.mp4',
   },
   {
@@ -24664,7 +24660,7 @@ export const pitchesArray = [
     url: 'ZFo5QjZfWGw0TUFRPT1fQUFkV1VnWUJBMWNBWEFaVEJ3QUFWUUpRQUFNQ1ZWRUFBQVpRQXdRR0NRUlJDRlFF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpydlFfWGw0TUFRPT1fVjFKUlUxY0ZCMVFBQ1ZZRFh3QUFVQVpRQUZsWFZsUUFDMTBCQkF0V1VnZFJWRk1F.mp4',
   },
   {
@@ -24676,7 +24672,7 @@ export const pitchesArray = [
     url: 'bkdvZXZfWGw0TUFRPT1fQWxkWlZ3SlJYbEVBVzFFR1hnQUFVMVZSQUZnRlZRTUFCUVpYVVZaV0FsRUJCQVlG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OGdHMnlfWGw0TUFRPT1fQVFoWUJWMVFBZ01BQUFBQlV3QUFVMU5YQUZnREFGUUFCVlpVVXdCV0IxVUVCd3BS.mp4',
   },
   {
@@ -24696,7 +24692,7 @@ export const pitchesArray = [
     url: 'OGdHMnlfWGw0TUFRPT1fQVFjRlZGeFNVRlFBVzFCUUJBQUFDQVZlQUFNTkFWY0FVVkJXQ0FBR0F3cGRBMUFB.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'eFpBckRfWGw0TUFRPT1fQlFrRkFBQUJWUVVBQVFGV0JBQUFBQTlmQUZnSFYxRUFWbGRVQjFaVFVsZFdDUVJm.mp4',
   },
   {
@@ -24708,7 +24704,7 @@ export const pitchesArray = [
     url: 'dzdBNlFfV0ZRVkV3dEdEUT09X1ZGVUVVbEFIVVZNQURsc0FBQUFBQ0E5VUFGa0ZCbGtBQzFOVUFBVlVBQVpVQVZOVQ==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpydlFfWGw0TUFRPT1fRGdkU0FGMEJVUXNBQ0FGVFVRQUFVdzRDQUZoVUFBY0FWbEpYQkZkUkFBTmRDVlJW.mp4',
   },
   {
@@ -24812,7 +24808,7 @@ export const pitchesArray = [
     url: 'R1phNG5fWGw0TUFRPT1fQXdOUkFGWUJBQVVBQVZaVFV3QUFBZ2RlQUFBQVZWY0FDZ0JXQ0ZZREJRc0dVbEFE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdMV3ZfWGw0TUFRPT1fQlFGVFZRWUdVRllBWFFZRlVBQUFBVmRlQUZoUUFGSUFVQUJYVTFjQVZRWlVWUUFD.mp4',
   },
   {
@@ -24908,7 +24904,7 @@ export const pitchesArray = [
     url: 'MDNleXJfWGw0TUFRPT1fRGdkU1hGUURWMVFBRDF0UlZBQUFCbGRUQUZrRlZ3VUFCbHhYQlFCVEJnQlRWUXBV.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'RFhHR3FfWGw0TUFRPT1fQWdWWkFGUldVVlFBQUFZRVVBQUFBVkFEQUZrRUJsZ0FBUUVFQkFaVEJBRlZCQUFB.mp4',
   },
   {
@@ -24920,7 +24916,7 @@ export const pitchesArray = [
     url: 'YUs0QXlfWGw0TUFRPT1fRHdoV1hGWUNBZ0VBREZOVVZnQUFDQU5lQUZrREIxVUFWbDBFQjFjRFZWSlFBbGRT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdMV3ZfWGw0TUFRPT1fVXdGWEJWTldVMUVBWGdjSFhnQUFDQUpVQUFBR1ZGWUFCbFJSQ0FOUUJsVUVBQU1G.mp4',
   },
   {
@@ -25016,7 +25012,7 @@ export const pitchesArray = [
     url: 'Z0diNldfWGw0TUFRPT1fQmdsWEJsTUZBbGNBRFFFR0FBQUFBd1VFQUZnRlVnVUFWZ05SQVZkVVVGVlVCUUJW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Z0diNldfWGw0TUFRPT1fVkFRQ0JnQlZVUUlBV2dCUUJBQUFWQUpTQUZsUlYxWUFWQVFFQVFjQkFWQUFVd01I.mp4',
   },
   {
@@ -25340,7 +25336,7 @@ export const pitchesArray = [
     url: 'WmVLWURfWGw0TUFRPT1fQWxkWVVRQUVWZ3NBREZzQ1Z3QUFWUUVFQUZnREJsY0FVVlVHQ1FZQUF3VlVVd1pl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NFg4Mk9fWGw0TUFRPT1fRHdsWEIxWldWZ1lBV1ZFR1V3QUFCd1JRQUFNQkJnUUFCRkVBQlFVQkFsZGNDVkZV.mp4',
   },
   {
@@ -25604,7 +25600,7 @@ export const pitchesArray = [
     url: 'a1pMNjBfWGw0TUFRPT1fRHdSWUFsWUhWZ0lBRDFCV0FnQUFCVk5WQUFNRUFBQUFCMU1DQlFwWEFBY0hCUW9G.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NFg4Mk9fWGw0TUFRPT1fRGxNSEFGMENVd1VBQ2dNQlh3QUFDRkFDQUFCV0FWZ0FVMUlEQ0FFR0ExQUFDVk5R.mp4',
   },
   {
@@ -26056,7 +26052,7 @@ export const pitchesArray = [
     url: 'eVprQkRfWGw0TUFRPT1fVkZSWkJseFJVUUVBQ3dNTEJ3QUFCRkJVQUFNRlVRUUFDd0FCQ1ZJTVZWVlJWUVpS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVyRzRfWGw0TUFRPT1fVXdRRkFsWU1BZ1FBQ3dRS1ZnQUFBdzlRQUZnQlZWVUFDd1FBQ1FFQ1UxWlVCQVpX.mp4',
   },
   {
@@ -26460,7 +26456,7 @@ export const pitchesArray = [
     url: 'WmUxcThfWGw0TUFRPT1fRGxOWlVWd0dCd0lBV1FGUlZ3QUFCRlZXQUZoUkJWTUFDbHdGQ1FJTVVnVlRDRlpY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bG5rTUdfWGw0TUFRPT1fVXdNSEJ3Y0VVd2NBRGxBRUF3QUFCRk5UQUZsVUJ3Y0FBVmNNQkFNTlUxWUFVVkVD.mp4',
   },
   {
@@ -26492,7 +26488,7 @@ export const pitchesArray = [
     url: 'OVpHdmJfWGw0TUFRPT1fVndCWVZBQUFVd0VBWEFFQUFBQUFBUTlYQUFNSEJnUUFBRlVGVmdJTkNRUUhVUUVI.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'MDM4NU5fWGw0TUFRPT1fQXdaUUFBQlNCQVlBQVFBR0JBQUFVZ2RRQUZoWEFBY0FBRllGQmxBQ1VsSlhBQU1G.mp4',
   },
   {
@@ -26556,7 +26552,7 @@ export const pitchesArray = [
     url: 'eVpBa0xfWGw0TUFRPT1fQWdsVVhRVUZCMWNBQUFFRkFBQUFWVlZTQUFBTldnTUFVMUlFVlZCWEExRUdCRmRY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bG5rTUdfWGw0TUFRPT1fQlZCWEFGUURCRkVBQ1FaV0JBQUFWd2RmQUFOV0JsWUFCUUFIQndVTkJWRmNCbE1D.mp4',
   },
   {
@@ -26608,11 +26604,11 @@ export const pitchesArray = [
     url: 'MDM4VjFfWGw0TUFRPT1fVWdGVFVWUlhBbFFBV2xOUUJ3QUFVd2RRQUZnTVUxSUFBd0ZYVmdZRlYxRmNDUWRS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bG5rTUdfWGw0TUFRPT1fQlZOVFUxSUVBZ1VBQ0ZGV1Z3QUFCQTlUQUZrQUIxY0FDMUZYQlFjQUJBQUhBUUFB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MDM4NU5fWGw0TUFRPT1fVWxkUVV3QUNVZ1lBV2daVUFnQUFWMWRlQUZrRkJWVUFCQUZXVWdCVUNRb0RVMVJW.mp4',
   },
   {
@@ -26724,7 +26720,7 @@ export const pitchesArray = [
     url: 'MDM4VjFfWGw0TUFRPT1fVWdZRVVBSlhYZ0FBQ3dRR1ZRQUFCQTVSQUZsV0JsVUFVd0VDVkZCUkJRRmRBRk5R.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bG5BbG9fWGw0TUFRPT1fQlFsU1hBRU5WUUFBQ2dGWFV3QUFBdzlRQUFBRFdsa0FBZ1JSVkFSVUJRQldWZ0lB.mp4',
   },
   {
@@ -26800,7 +26796,7 @@ export const pitchesArray = [
     url: 'WmUxcThfWGw0TUFRPT1fQlFNQVYxd0NBQVFBV2dZS1V3QUFVd0FEQUFNTUJ3UUFDbFpRQkZBTkFRVlZDUUFD.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxuMnFfWGw0TUFRPT1fQlFsVEFBVlJYZ1FBWEZkV1hnQUFDQTREQUFNTUIxQUFBVjBEQVFBTVUxVUhVUWRT.mp4',
   },
   {
@@ -26828,7 +26824,7 @@ export const pitchesArray = [
     url: 'WmUxcThfWGw0TUFRPT1fQmdnREFWRlNWUUFBWEZBS0JBQUFCUThIQUFBRFcxWUFCMXdBQkZVSFZBVlRVVlJT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxuMnFfWGw0TUFRPT1fVUFJQ0FGRUdCRlFBWGdFTEJRQUFVbFJlQUFNRFZsSUFVRlZYQlZVRVZWRlZVMWNE.mp4',
   },
   {
@@ -26868,7 +26864,7 @@ export const pitchesArray = [
     url: 'dk1HT2FfWGw0TUFRPT1fQlFGVFVBRUFWZ0lBQ2xSVEFnQUFWVmNFQUZnQVd3VUFBQU5UVVZWUVVsWUFBRmNB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxuMnFfWGw0TUFRPT1fQmxBRlUxd0ZCMUFBQ1Z0V1ZBQUFVZ1JUQUZoUVVWQUFBMXdHQmxGVENRb0VBQXNF.mp4',
   },
   {
@@ -26916,7 +26912,7 @@ export const pitchesArray = [
     url: 'dzdrM3FfWGw0TUFRPT1fVUFGWlUxVU5VbGNBWEZBR1hnQUFBZ0ZlQUFOWFdsVUFCRklNQ0ZKV0ExRlFCQW9E.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bG5rTUdfWGw0TUFRPT1fVkZjREJRWldWUU1BRFZOUVh3QUFVd1VGQUFCWFVBUUFVVmRUVkFKVUFsQmNBQWNF.mp4',
   },
   {
@@ -26944,7 +26940,7 @@ export const pitchesArray = [
     url: 'eVpBa0xfWGw0TUFRPT1fVlFkU1hWTldWUVlBRGxZTEJBQUFWd2NEQUFCVVYxWUFCMUpXQ0ZZRkFBTlVBd2NB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxuMnFfWGw0TUFRPT1fQVZJSEJWQU5YbE1BVzFaUlh3QUFCZ0lDQUFOV0JsQUFBMVVOQVZJR0NBRlZCVlFD.mp4',
   },
   {
@@ -26964,7 +26960,7 @@ export const pitchesArray = [
     url: 'TVpyNWJfWGw0TUFRPT1fVjFSWlVBQlhCQUVBV2dBR1VRQUFDQTRFQUFBTkFGZ0FDbDBGQWdFSFZ3SURCQXRU.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eVprQkRfWGw0TUFRPT1fVTFRRkFGTUdVVk1BQ2dBQUFnQUFBd0VDQUZoUUJnY0FCRklBVXdBRlV3VlFDVkZS.mp4',
   },
   {
@@ -27100,7 +27096,7 @@ export const pitchesArray = [
     url: 'MDM4VjFfWGw0TUFRPT1fRDFNRVVsY0dYbFFBRGdjTFZnQUFVZ2NDQUZoVEIxTUFCRlFHVXdFQ0FRWUFCd05Y.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MVlqSzJfWGw0TUFRPT1fQlFaUVVsY0hBd01BWEZVSFZRQUFVZ1JVQUZsWFVnUUFVVlZRQ1ZGWEJRdFRWVk5T.mp4',
   },
   {
@@ -27316,7 +27312,7 @@ export const pitchesArray = [
     url: 'eVpBa0xfWGw0TUFRPT1fQlZKVUJRRlNWQUVBRDFNRVhnQUFDVlFGQUFBTVZ3VUFVRlJVVTFGUVVnTUFCUVpU.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eVprQkRfWGw0TUFRPT1fQkFaVVZ3QUdCd1VBQ0ZWVFVRQUFWVk1BQUFCUlVGWUFVVlJXVlFjTlVBdFdCd3BS.mp4',
   },
   {
@@ -27464,11 +27460,11 @@ export const pitchesArray = [
     url: 'bkdvQlZfWGw0TUFRPT1fQUFWWVVRY0ZCQWNBQ2dRRlZ3QUFBZ1pYQUZnQkJWZ0FVVlJSVVFBRFVnQURVVk5m.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'UlduS2VfWGw0TUFRPT1fVlFNREJWd0FCUUFBREFFSFZ3QUFVbFZYQUZnTUFnQUFCQU5SQjFkV0FnUUhDRmNI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'UGpsUWxfWGw0TUFRPT1fVTFWWFhBSlJWd01BQUZvS0JRQUFVQVVEQUFBQVcxRUFCd05RQVFJQkIxRmRWUW9B.mp4',
   },
   {
@@ -27548,7 +27544,7 @@ export const pitchesArray = [
     url: 'NjREM3ZfWGw0TUFRPT1fVkZOVVVRZFFYZ1FBV3dRTEF3QUFCUU5XQUZnSEJWY0FVQVlGVVZCUlV3RUFWQU1B.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'UGpsUWxfWGw0TUFRPT1fRGdZRVZsMERBd0VBRHdFS1VnQUFVd1lFQUZsWEJnY0FWQU5UQ1FvTVUxVlVVbFJY.mp4',
   },
   {
@@ -27556,7 +27552,7 @@ export const pitchesArray = [
     url: 'Z0didmVfWGw0TUFRPT1fVjFSWVhRVUJVZ29BRFZzSFZRQUFBRk1EQUZrSFVGVUFDbElEQXdOWFZ3c0RCd0FG.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'cmVBZTVfWGw0TUFRPT1fVWdGWlYxRUhVMUVBREZCVFZ3QUFCVlZXQUFNQkJWWUFVd0VBQUF0WEFGRlJVVmRR.mp4',
   },
   {
@@ -27576,7 +27572,7 @@ export const pitchesArray = [
     url: 'cmVBelBfWGw0TUFRPT1fQlFOWEIxVUdWUVVBWEZwVUF3QUFVMU1BQUFNRUFWa0FWbHhVVVFNR1V3RUVCZ2RW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'anEwYVhfWGw0TUFRPT1fRDFBQVhWY0dVUVlBRFFFRVh3QUFDVkJmQUFNQVZsQUFVMXhYQkFBTUExSlhBMVpW.mp4',
   },
   {
@@ -27680,7 +27676,7 @@ export const pitchesArray = [
     url: 'NFg3a1BfWGw0TUFRPT1fQVFOWkIxZFNWd1lBWGdaV1VRQUFBRkplQUFNTkFGUUFWbFlGVWdjRUJ3b0JVbEZR.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'UlduS2VfWGw0TUFRPT1fQjFjRVVGMEhYd3NBVzFzQkJBQUFVZ0JSQUFBQVZnTUFWQVlGQlZVRUJ3b0VDQXBW.mp4',
   },
   {
@@ -27744,7 +27740,7 @@ export const pitchesArray = [
     url: 'UlduS2VfWGw0TUFRPT1fQmdKVlZBQlJCQVlBREFjQVZ3QUFVZ1JWQUZoVUIxRUFDbGRXVWdGV0JnUmNWZ0ZV.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'bkdvQlZfWGw0TUFRPT1fRGdKWEFWMEJWQVlBVzFBQkJRQUFCVmRWQUZsVUJnTUFBbEVDQlZZRlVnWlJDVkVI.mp4',
   },
   {
@@ -27752,7 +27748,7 @@ export const pitchesArray = [
     url: 'MVlqYjRfWGw0TUFRPT1fQXdCUlVsRldVMUFBREFBQ0JRQUFBQUlDQUFBTkFGQUFVMTBCVlZWWFVBdFNDQUJT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cmVBelBfWGw0TUFRPT1fQWdRSFZRSUFBQVFBRFZZQUJ3QUFCdzhFQUZoVVZGUUFCbE1NQVFJTUJ3RlJVd0FB.mp4',
   },
   {
@@ -27800,7 +27796,7 @@ export const pitchesArray = [
     url: 'NFg3a1BfWGw0TUFRPT1fVjFCVVVnQURYd0VBV1ZGV0JRQUFWRkJTQUZoVFZBQUFBQVlFVVFRTUJ3VUFVVmRX.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'NU44b05fWGw0TUFRPT1fRGxRSEFsY0dWVmNBQ2xNQkJRQUFVQVlIQUZrR0JsUUFBUVJXQ1FJR1ZBTldBd3Rl.mp4',
   },
   {
@@ -27928,7 +27924,7 @@ export const pitchesArray = [
     url: 'R1phM0xfWGw0TUFRPT1fQTFCU0FRRUdYMUFBWGxBR0JBQUFCUU1GQUFCVFdsWUFBMWNBQUFZTUJnQUFCZ1FB.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'UGpsUWxfWGw0TUFRPT1fQWdJQUJ3QUVBZ0VBQVFBREFnQUFWd01BQUZnRkJsVUFBMUZSQUFNTlV3VmNBZ0ZV.mp4',
   },
   {
@@ -27990,10 +27986,6 @@ export const pitchesArray = [
   {
     pitch: 'SL',
     url: 'NjRETzVfWGw0TUFRPT1fVkFkUkIxUUdWZ3NBWEFjTEJBQUFVd0ZmQUZnTUFnSUFCRkFIVmxZRUJnWUFCUWNG.mp4',
-  },
-  {
-    pitch: 'CU',
-    url: 'VmdYZVJfWGw0TUFRPT1fRGdWUlVGQUdVUUlBQUFRS1hnQUFWRklEQUZrTUFsWUFDbE1NQUZBQkJnUlFBbGNE.mp4',
   },
   {
     pitch: 'SL',
@@ -28116,7 +28108,7 @@ export const pitchesArray = [
     url: 'NFg3a1BfWGw0TUFRPT1fRHdSV0FWRU1VMUVBV3dBQVVnQUFCZ05YQUZrRVVsQUFBbEVEQ1ZWV1VBUlVCVk1B.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cmVBelBfWGw0TUFRPT1fQVZCWEFRSldVZ1VBRGxVRVV3QUFVd1ZSQUZrRlVRQUFCQWNCVWdZSEFncFVWZ2RX.mp4',
   },
   {
@@ -28128,7 +28120,7 @@ export const pitchesArray = [
     url: 'NFg3a1BfWGw0TUFRPT1fQXdZREFRRlNWRkVBQ0FZR0F3QUFVd0JYQUFBRVV3Y0FCQUVCQmxGUUNRUUdCRmRR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'UGpsUWxfWGw0TUFRPT1fVlFKVVhWWUNVQWNBWGdaWEF3QUFCRlJUQUZoUUFRTUFBMVlGVWdzRFVBWUJCZ0JV.mp4',
   },
   {
@@ -28160,7 +28152,7 @@ export const pitchesArray = [
     url: 'anEwYVhfWGw0TUFRPT1fQmxkVVZRVldVQXNBQUFFQVVBQUFWRkplQUZnR1Uxa0FCMTBEVVFvSEJnSUVVd2NI.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'bkdvQlZfWGw0TUFRPT1fRGdVRVZsSlJVbE1BQ0FFRkFnQUFDRk5SQUZnSFVsZ0FBQWRUVlFNQkNBRmRWUUFD.mp4',
   },
   {
@@ -28224,7 +28216,7 @@ export const pitchesArray = [
     url: 'VmdYZVJfWGw0TUFRPT1fQVFSUkFGVUdBRlFBQ1FZSFZBQUFCQVJlQUZnREFGWUFCbGRXQWdKUlZWVlZBRmRV.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'QnZHNmxfWGw0TUFRPT1fQmdNREIxZFZVQXNBWFZBQkJ3QUFDRmRUQUFOWEJ3QUFCbElOVmxBTkNBcFdVd3ND.mp4',
   },
   {
@@ -28252,7 +28244,7 @@ export const pitchesArray = [
     url: 'dk1HYTZfWGw0TUFRPT1fVUFGUVVWUlZYZ0lBQ0FFTEJ3QUFDQTlSQUZsVFd3TUFWQVlBVVFkVUNWSUJVd1ZV.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'R1pLT0FfV0ZRVkV3dEdEUT09X0JsUUNYQUJTWGdJQVhWSUFVUUFBQ1E1VkFBQUNCbEVBQTFjQUJRWUVWd05UVXdJSA==.mp4',
   },
   {
@@ -28276,7 +28268,7 @@ export const pitchesArray = [
     url: 'NFg3a1BfWGw0TUFRPT1fVndaVlYxQUVBZ1lBQVZkUUJBQUFVbFFBQUZrQkJWRUFCRkFNVkFFTlVsVmRVMUZT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cmVBelBfWGw0TUFRPT1fVUZKWVVsQUFVZ01BQ1ZBQkF3QUFWd1pVQUFNQ1d3TUFVMVJVQkZVSEF3UmRCQUlD.mp4',
   },
   {
@@ -28304,7 +28296,7 @@ export const pitchesArray = [
     url: 'MVlqYjRfWGw0TUFRPT1fQWxBQ1hGMEdWZ2NBRFFaVVZnQUFCQUlIQUZoVVZWVUFWMVpYVlZBTVVGWmRBbFlE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'dk1HYTZfWGw0TUFRPT1fQWxBQUJWTU1WbEVBV3dFSFh3QUFCUUplQUFBQ1ZsVUFCMXdOQUFvRENBUUFVZ3NE.mp4',
   },
   {
@@ -28320,7 +28312,7 @@ export const pitchesArray = [
     url: 'anEwYVhfWGw0TUFRPT1fQUFaVFZWY0dVd1VBQ0ZRQUJRQUFBUUZTQUZnSFYxRUFVQWNEQWdaUkNGVlVCRkVB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'VmdYZVJfWGw0TUFRPT1fQWdZQVhRWUdCd1FBV1ZvRUFnQUFCVlJVQUFBRUJsZ0FCVk5XQndCUkExSlVVbE5V.mp4',
   },
   {
@@ -28332,7 +28324,7 @@ export const pitchesArray = [
     url: 'UGpsUWxfWGw0TUFRPT1fQTFVSEFWTldCRkFBVzFSVVZnQUFVZ2RUQUZrRFZsUUFVMVlDQVZBREFRVUFWZ3NG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'UlduS2VfWGw0TUFRPT1fVkZKWUJ3RUZYd0FBV2dNQ0FBQUFBUWRWQUZnRFUxUUFBMVJYVlFWV0JnY0FCUUlE.mp4',
   },
   {
@@ -28372,7 +28364,7 @@ export const pitchesArray = [
     url: 'UGpsUWxfWGw0TUFRPT1fVTFKVlZRWlZCUUFBQ0ZGV1V3QUFVd0ZXQUZrRFZGZ0FWMU1NQkFwV0FnTlRVUUFF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'UlduS2VfWGw0TUFRPT1fVWdCWEJ3WUZCMUFBWEZCUUFnQUFVQUJWQUFOVFdsY0FWRlJYVWdWUUNWWUhVUXNF.mp4',
   },
   {
@@ -28428,7 +28420,7 @@ export const pitchesArray = [
     url: 'Z0didmVfWGw0TUFRPT1fRGdnRlYxRUdBZ01BV3dFS1h3QUFCQTVmQUZnRFVsZ0FCZ0VEVkZJR0FsWUhDQWRV.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'cmVBZTVfWGw0TUFRPT1fQkFsWlZsRUJWQVlBRFZWVEFnQUFVd0FDQUFOV1cxTUFBRlJYVVFSWFZBdFZBUXBU.mp4',
   },
   {
@@ -28452,7 +28444,7 @@ export const pitchesArray = [
     url: 'NjRETzVfWGw0TUFRPT1fVlZWV1ZsTUFWVkFBQUZBRkJBQUFBQUplQUZnQ1VGVUFBUU1DQlFCVUJnRlhCMUZl.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'bkdvQlZfWGw0TUFRPT1fVXdnREJnQUhVQVlBV1ZvSEJRQUFCZ0pXQUFCVVZGVUFCVmRXQVFwVEFBdFhCQVJT.mp4',
   },
   {
@@ -28500,7 +28492,7 @@ export const pitchesArray = [
     url: 'MVlqYjRfWGw0TUFRPT1fQlFjQ1VnSldVd1lBWFFFRUJ3QUFBd0JWQUZoUVdsVUFVQU5SQlFjRkFRWlRCUWRU.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cmVBelBfWGw0TUFRPT1fVndCUUJsRURWMU1BVzFNQ1ZBQUFCVklIQUZoUUFsQUFCRkVCQ1FVQUFRUldCMVJT.mp4',
   },
   {
@@ -28548,7 +28540,7 @@ export const pitchesArray = [
     url: 'NFg3a1BfWGw0TUFRPT1fQUFkUVhBY0NWUVFBV2xwUlV3QUFWMU1EQUFOUVVsQUFWd0JVQ0FVSFZBdFFCd1FF.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'bkdvQlZfWGw0TUFRPT1fVXdnRlhRQlhVZ29BWEZzREF3QUFWd1ZSQUFOVUJRUUFVMUJXVmxZTUJnWUJDVllD.mp4',
   },
   {
@@ -28572,7 +28564,7 @@ export const pitchesArray = [
     url: 'WGduSzNfWGw0TUFRPT1fVndoU0JRSU5VUUlBV2xNR1hnQUFVZ01EQUZsVFd3Y0FVRk5YQUZWWFYxQUVVVkVD.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'anEwYVhfWGw0TUFRPT1fVUFKVFhBRlNWUUVBVzFwV1hnQUFVQWRUQUFCWEJWa0FDbGNNQUZWVUJ3VUFBbFJU.mp4',
   },
   {
@@ -28680,7 +28672,7 @@ export const pitchesArray = [
     url: 'MzU4T05fWGw0TUFRPT1fVkFsWEFBSURBZ2NBQ0ZZSEJ3QUFWUUVIQUZnSFZsZ0FCVjFYQVFjR0FWRUhWUU1I.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFpBOERfWGw0TUFRPT1fVWdOV1hRSUZCQUVBVzFaUkJBQUFVMUJSQUFCWFdsRUFDbDBIVXdzREFnQmRBbGRW.mp4',
   },
   {
@@ -28704,11 +28696,11 @@ export const pitchesArray = [
     url: 'RFhOWERfWGw0TUFRPT1fQlZSWUIxTlZWbEFBRFFGWFZ3QUFDRlZTQUZnTVVnSUFDZ0JXQXdaVVZBc0hCVkFE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVyMWpfWGw0TUFRPT1fQjFVRVhGd0ZCQVFBRHdjQVZnQUFCUVJRQUZoVFdnQUFCVlFBQmdNRVVsZFJBRk5X.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVyMWpfWGw0TUFRPT1fVndjQUFWUldWUVlBQUFBRlZnQUFBZ1lEQUZoVUFGRUFCVk5XQ0ZBRkExRlNWVlpY.mp4',
   },
   {
@@ -28772,7 +28764,7 @@ export const pitchesArray = [
     url: 'NFg3TmpfWGw0TUFRPT1fQkFaUlhWQlNYd3NBQ1ZzS0J3QUFBUVZWQUFBTkJnY0FVMWRSQmd0WFZWWUhWUWNF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'V3luYVJfWGw0TUFRPT1fVndOWVZsZFdVMUFBQzFjQkFnQUFBbE5RQUZoVUFBY0FVQVJVQ1ZFTUJsVlJWQU5T.mp4',
   },
   {
@@ -29416,7 +29408,7 @@ export const pitchesArray = [
     url: 'MkJ3MjVfWGw0TUFRPT1fVUFsU1VGWUZBMVFBWFZZQVZnQUFCUTRBQUZrR0FRTUFBbFFCQ0ZZSEJWVURBQU5W.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cThrcmtfWGw0TUFRPT1fQkFoV1VGY0FWVk1BWGxzS0JRQUFBbElEQUZnQVYxWUFDd0FGQlFJRkNBWlZBd3NI.mp4',
   },
   {
@@ -29440,7 +29432,7 @@ export const pitchesArray = [
     url: 'OGdHZWJfWGw0TUFRPT1fQlFsVEJWWUZBRkFBWFZSUUFnQUFVZ2NFQUZnRVZGRUFDbFZSQUFjREJBSmNDQUpl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVyMWpfWGw0TUFRPT1fVndaU1Z3RUhYbE1BV3dZRFVnQUFCZ2RlQUFNTVVGY0FBZ0FBQkZCUkFRTlFVd0VB.mp4',
   },
   {
@@ -29556,11 +29548,11 @@ export const pitchesArray = [
     url: 'MVlscVJfWGw0TUFRPT1fQkFFQ0FGTlFWMWNBV2xSUkF3QUFWQU1DQUFBTVZWRUFVMU1CVkFvRkFnb0dDVlFG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFpBOERfWGw0TUFRPT1fQlFVSEFsWU5CMVlBV1Z0UUJ3QUFCQUlDQUZoV1VWSUFBd1pVVmdzTUJRTlVBVlpl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'a1pWeERfWGw0TUFRPT1fVUZSV1VsSU5WUXNBVzFRSEFBQUFCZ0pWQUZnTVVsa0FWbE1DVXdJQkF3ZFhCbFJR.mp4',
   },
   {
@@ -29608,11 +29600,11 @@ export const pitchesArray = [
     url: 'OGdHZWJfWGw0TUFRPT1fQXdoWVZBQU5WUXNBQVFGWFhnQUFWRkJWQUFCVFZGUUFVVlpRQkZBQkFBSUhDQUJY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'a1pWeERfWGw0TUFRPT1fQkFoVEJRQlZVRmNBQVFCWEFnQUFCVk5TQUFNTUIxWUFWQVFOVWdWV0FRUUVCbGND.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WVFuR0RfWGw0TUFRPT1fRHdkVVVBRU5WbFFBWEZKUlVRQUFVd1VDQUZnTkJsWUFWZ0FIVWxkWFZWRUVBMU5S.mp4',
   },
   {
@@ -29716,7 +29708,7 @@ export const pitchesArray = [
     url: 'MzU4T05fWGw0TUFRPT1fQUFWVVZsQlJBQU1BV1FkVVVnQUFDRlZXQUZoWFcxZ0FCMUlFVlFSWFZRUUFBUVlG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cThrcmtfWGw0TUFRPT1fVndGVEJWRUhVQVVBRFZRTFVnQUFBdzVlQUFNRlZsWUFCbEFOQmdFRFVsWUhBd0JR.mp4',
   },
   {
@@ -29792,7 +29784,7 @@ export const pitchesArray = [
     url: 'RFhOWERfWGw0TUFRPT1fVXdNRlVGVUJBZ1VBQ0FBQ1V3QUFCQVZXQUZrRUFWUUFDbEFEQndwVUNGZFFCZ0VE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFpBOERfWGw0TUFRPT1fVkFrRlZ3RUNBbEVBRFFBQ0FnQUFWVklGQUFBRlYxa0FWd2NCQkZVQkJRZFJVZ29D.mp4',
   },
   {
@@ -29836,7 +29828,7 @@ export const pitchesArray = [
     url: 'MVlqTFJfWGw0TUFRPT1fQlZCV1VWY0JBMWNBQzFVTEF3QUFVMVZWQUFBRlZnSUFBd0VCQVFKWFZ3TlRBMWRU.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cThrcmtfWGw0TUFRPT1fVlFOV0Ixd0NWUW9BQVFNTEJ3QUFVbE5RQUFCUlcxTUFBVlZXVVFWWEJnRUVVMVJW.mp4',
   },
   {
@@ -29864,7 +29856,7 @@ export const pitchesArray = [
     url: 'cThrcmtfWGw0TUFRPT1fRGdsVlZ3VlZVd2NBQ3dBR1VBQUFVdzhBQUZoUlUxTUFVRkpYQWdGWEFsRmNBMVpX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'V3luYVJfWGw0TUFRPT1fVndCVFZGQUdCQUlBQVZ0WEFnQUFBUUJUQUZsVUJsRUFVVk5YQ1FjQVV3UlJDUUVB.mp4',
   },
   {
@@ -29932,11 +29924,11 @@ export const pitchesArray = [
     url: 'NFg3TW9fWGw0TUFRPT1fQWxVREJseFJWRkVBVzFvSEFnQUFBZ2RSQUZnQ1cxZ0FCd0VHVVFvTVVsVlVVbGNG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxuOWtfWGw0TUFRPT1fRHdOWEFGMEhWZ29BV3dZQUJBQUFDUUpRQUZnTldsRUFVUUJSQ0FWUUJBQlZCMU5U.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Tnc3TDdfWGw0TUFRPT1fVndaWVhBZFJVZ0VBQ1FOWEJ3QUFWVlVFQUZnRlZnUUFVQVJYQ0FjTUNBcGNVZ0ZR.mp4',
   },
   {
@@ -29944,11 +29936,11 @@ export const pitchesArray = [
     url: 'cmVBQmRfWGw0TUFRPT1fQmdnRlhBRlJWUVlBWGxZQ1VRQUFVZ0ZWQUFBSFZGZ0FCZ1JUVVFSUVYxRmNCQUVB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'dzdBNDhfWGw0TUFRPT1fVkFWWEJRZFNVUU1BQVFjSFZRQUFDVlFBQUFNQUJnUUFWZ2NGVXdzQkJ3WlZCVllB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVpHNHdfWGw0TUFRPT1fQlZVQ0IxRURYZ01BREZaVUJ3QUFVZ1lEQUFNSFcxVUFDd2NIVWdBTUJGVURDVkJl.mp4',
   },
   {
@@ -29964,7 +29956,7 @@ export const pitchesArray = [
     url: 'V3luOTlfV0ZRVkV3dEdEUT09X1ZRbFpYRndIQUZFQVhRQUVYZ0FBQnc5ZUFBQUZCd1VBVmxBRkFRZFRBQUFHQkFJRg==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVyeGpfWGw0TUFRPT1fRHdaVlZsQlhCVkFBV1ZBR1ZRQUFWQUJYQUZsV1d3QUFDMU5UVVFaVEJRWlFWVkJm.mp4',
   },
   {
@@ -29976,7 +29968,7 @@ export const pitchesArray = [
     url: 'WVFuTzJfWGw0TUFRPT1fQlFSUUFsVUhWQVVBRGdkVVh3QUFBQThGQUFNQUFWWUFVMUpXVXdaVFZWQUdCUVJW.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'OVpHcVdfWGw0TUFRPT1fVjFOWFVsY01WUW9BQUZKV0FnQUFWMUFGQUFBQ1ZGSUFWbFVDVmdzSENBUlVBZ3BW.mp4',
   },
   {
@@ -29984,7 +29976,7 @@ export const pitchesArray = [
     url: 'b25vZDNfWGw0TUFRPT1fVkFKVFVGTUhCRllBRDFWV0J3QUFCVmNBQUZnSFZGZ0FDd0VIQUFWVFZGSlhBbGRW.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'YUs0MkdfWGw0TUFRPT1fRHdNRlZsRUJWZ3NBQ0ZWVFZnQUFCUUVDQUZsV0FGRUFDd1JVVkZBR0F3QmNCUVZW.mp4',
   },
   {
@@ -30040,7 +30032,7 @@ export const pitchesArray = [
     url: 'eFprTE1fWGw0TUFRPT1fVlFOWkFnQU1Cd1VBVzFVSEFnQUFVQUVBQUFOWFVGTUFBVkVNQlZKVEJ3VlNBbFlD.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Z0diUkRfWGw0TUFRPT1fQXdKUlZWUUNVMVlBWFZFSFZBQUFCQUJXQUFOUlVnUUFDbEpVQXdvQ1V3SUVCVmNE.mp4',
   },
   {
@@ -30048,7 +30040,7 @@ export const pitchesArray = [
     url: 'MzVyeGpfWGw0TUFRPT1fQlFrSEIxUUNYd1VBWEFFRlV3QUFDQVpYQUFNR1VsUUFWRndHQlZJTkFRZFhBd05W.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'S3duZGpfWGw0TUFRPT1fQVZVQ0JRRUhBMUVBQUZvTEFBQUFBbGRWQUZrR0JsY0FWZ01DQmdGWEJBSUVBbGNI.mp4',
   },
   {
@@ -30084,7 +30076,7 @@ export const pitchesArray = [
     url: 'TGxuOWtfWGw0TUFRPT1fRGxCVkFBVUdYd1VBVzFjR1Z3QUFWUUJmQUFOVEFWY0FVMVJRQlFGVVZ3WmRDUXRW.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'MzVyeGpfWGw0TUFRPT1fQWdKUVVnVUhVMU1BQzFRSFZnQUFCQWNEQUZnR1ZRY0FCZ0JYQndZQ1VnWUVCQUFE.mp4',
   },
   {
@@ -30092,7 +30084,7 @@ export const pitchesArray = [
     url: 'MzVydzFfWGw0TUFRPT1fVWdVRVVGY0JCVkVBQ0FaUVhnQUFVZ0ZUQUFNR1cxQUFWMVFEVkFRQUFnTUFBd01D.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBNG9fWGw0TUFRPT1fQTFCVUIxVUNWQUVBQ1FjS0FBQUFBMVZUQUFCV1ZRQUFWRmRVVVFaV0J3dGRCMVpU.mp4',
   },
   {
@@ -30124,7 +30116,7 @@ export const pitchesArray = [
     url: 'b25vZDNfWGw0TUFRPT1fRGxNQVVBQlNBZ01BV3dOUlV3QUFCUTVlQUFNSFVnVUFBbFFEQ1FvR1YxQUVDQU5T.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'S3duZGpfWGw0TUFRPT1fQndjRkFRWlNCQVVBQzFRRUJBQUFWRkJWQUFNRFVsa0FVMU5UQjFFRENWSlhVUWRR.mp4',
   },
   {
@@ -30132,7 +30124,7 @@ export const pitchesArray = [
     url: 'Tnc3TDdfWGw0TUFRPT1fQXdVRUJWRUNVd01BWGxvS1ZRQUFWUVJlQUFBQlcxTUFWbEFCVVFKVVZGZFFVZ2RX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxuOWtfWGw0TUFRPT1fRDFWWEJWUUJYbGNBRHdBREJ3QUFCQUlBQUFCVUIxY0FVRnhRQmxBRkFBWlRVbEJU.mp4',
   },
   {
@@ -30144,7 +30136,7 @@ export const pitchesArray = [
     url: 'V3luOTlfV0ZRVkV3dEdEUT09X1VnUlZVUWRRVlFFQVcxVUNWQUFBVXdWUUFBTUZCZ01BQmdjQ0JnQUdWQVlHQndWUg==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Z0diUkRfWGw0TUFRPT1fRGdGV0FGRUVVRmNBWGxzQUJ3QUFCMVVGQUZrQ1dnSUFCbFlIQlFVQlZ3cFNCd0FF.mp4',
   },
   {
@@ -30180,7 +30172,7 @@ export const pitchesArray = [
     url: 'elpBNG9fWGw0TUFRPT1fQmdFSEFsUU5BbFFBVzFFTFZBQUFWMVFEQUFBRlV3SUFCMUZRQUZFQUExVUdDVkJT.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'Z0diUkRfWGw0TUFRPT1fVndoVVVnWU5VbEVBWFZwUVZRQUFBVk1EQUZrQlYxSUFBbE5UQkZFRkJBSlZBZ0FI.mp4',
   },
   {
@@ -30248,7 +30240,7 @@ export const pitchesArray = [
     url: 'OVpHcVdfWGw0TUFRPT1fQVZOVFhGTUNVbFlBWGxvR1h3QUFVZ0pXQUFOWFdsRUFCQVlCQlFjTkJnWlNWZ2Rl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WGdubERfV0ZRVkV3dEdEUT09X0FRSlFYVllNVlZFQUQxRUJCQUFBQ1FaUkFGa05BUVVBQ3dGV0FnRlJDRkVHQ0FvRQ==.mp4',
   },
   {
@@ -30284,7 +30276,7 @@ export const pitchesArray = [
     url: 'eFprTE1fWGw0TUFRPT1fQTFRQ1hRRUdBQWNBWFZOUlZBQUFCQUlEQUFBQ1dsWUFBMVZXVlZaUUExVldBQWRm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBNG9fWGw0TUFRPT1fQTFBRFhBSUFBZ0VBQ0ZaVFh3QUFBMUpmQUFBSEIxY0FDd1JVVWdOWEJBTlFDVmNI.mp4',
   },
   {
@@ -30296,7 +30288,7 @@ export const pitchesArray = [
     url: 'WGdubERfV0ZRVkV3dEdEUT09X0J3SUFCVlVDQlFzQURnWlhVZ0FBQ0FjRUFBTUJBVkFBQTEwQVZGRUFDUVJTQVF0Ug==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBNG9fWGw0TUFRPT1fVndkUVVWVURWVk1BWGxzQ0JBQUFWd1JXQUZrQkIxZ0FWRk1IVWxZQlYxSlRWZ3Bm.mp4',
   },
   {
@@ -30320,7 +30312,7 @@ export const pitchesArray = [
     url: 'S3duZGpfWGw0TUFRPT1fVXdsUUFRWUhWbFlBQVZwV0FnQUFCbElFQUFBQVZWY0FCZ2RXQWdJQ0FBWlZCQWNB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVpHNHdfWGw0TUFRPT1fVUZRRkFRQUdVVmNBQzFvRVV3QUFDUUZXQUZoV0FGVUFWQUFFQVFwVUNRTlNWRk5V.mp4',
   },
   {
@@ -30328,7 +30320,7 @@ export const pitchesArray = [
     url: 'dzdBNDhfWGw0TUFRPT1fQTFjRUJWQU5Vd01BQVZ0V1VBQUFCZ2RRQUFOVVVWQUFBVndHVVFCVUJRcFRVMWNB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'YUs0MkdfWGw0TUFRPT1fVkFNRUJWWlhWd3NBQUFCV1V3QUFVZ05lQUZsUUJWRUFVd0FNQWxjRlZ3ZFhWUVpW.mp4',
   },
   {
@@ -30364,7 +30356,7 @@ export const pitchesArray = [
     url: 'b25vZDNfWGw0TUFRPT1fVTFjQ1VGMVdBMVFBVzFGUVZBQUFWRlFFQUZnQkJWUUFVVjBBVVFvQlVnZFdWUVpR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Tnc3TDdfWGw0TUFRPT1fQlZVQ0J3WUNVd01BQ2dNR1V3QUFDRk5XQUZnTUFGY0FVMXhYVlFZREJWRmNWZ01F.mp4',
   },
   {
@@ -30380,7 +30372,7 @@ export const pitchesArray = [
     url: 'elpBNG9fWGw0TUFRPT1fQUFRQUFBY0dBd29BQ1ZVSFZRQUFCQUZSQUFNRldnSUFCd0FBVWdVRENRZGRWbEZY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVyeGpfWGw0TUFRPT1fQWdsUlVWTUVVd0VBQ0FBQlVRQUFDUTRIQUFOUlVWTUFWZ01NVkZVRUJWWUVVVkFI.mp4',
   },
   {
@@ -30432,7 +30424,7 @@ export const pitchesArray = [
     url: 'MzVydzFfWGw0TUFRPT1fQTFOWVhRWUJCd1VBVzFZRUJBQUFCRkpYQUFOVFVWUUFBMUlBVVZFTkFnTUJBZ3RR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'dzdBNDhfWGw0TUFRPT1fVUFVSEIxY0hCUUlBQUFZSFZ3QUFWQWNBQUFNR0FGa0FWMTBDQXdRR0JndFZVZ05Y.mp4',
   },
   {
@@ -30464,7 +30456,7 @@ export const pitchesArray = [
     url: 'OVpHNHdfWGw0TUFRPT1fVndNQVV3Y0VVRkFBRDFJTFVnQUFCbEpSQUFOV1dsTUFDZ0FDQmdZQkJnb0JCZ05T.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'MzVyeGpfWGw0TUFRPT1fQUFkUkJsRUNWUWNBWGdGWEJRQUFCVmRYQUFBTlVRSUFBQUJYQVFOUUFBdGRDQUpY.mp4',
   },
   {
@@ -30524,7 +30516,7 @@ export const pitchesArray = [
     url: 'MkI3T1FfWGw0TUFRPT1fRHdsUlZGRlNBRllBQ3dBQ1hnQUFWQTlmQUZsUVZsTUFDd0FDVTFjR0FBSUVDUVJV.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'WGdubERfV0ZRVkV3dEdEUT09X0RnQUVCMVFIVUFFQURGVUVBQUFBQkZSVEFBQUFXMUlBQVZOWFVRUlhCRlpYQmxZRQ==.mp4',
   },
   {
@@ -30568,7 +30560,7 @@ export const pitchesArray = [
     url: 'cmVBQmRfWGw0TUFRPT1fQlFjSEJsY0NBQW9BQzFjQ1hnQUFVMUJSQUZnQ1dsVUFBd1pXQVFSVENRUUVCRlpX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFprTE1fWGw0TUFRPT1fQlFRQ1hGWUNVd1FBREZzQ1VnQUFCQUlFQUFNQ1VWZ0FCRmNEQUZJREJWRmRDRmND.mp4',
   },
   {
@@ -30580,7 +30572,7 @@ export const pitchesArray = [
     url: 'MkI3T1FfWGw0TUFRPT1fQmdrRVhGSUFVZ3NBQzFVTEFnQUFBdzVmQUZnQ1VWTUFDbDFYQUZFSEJRQUdDUW9B.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NFg3TW9fWGw0TUFRPT1fVkZKWVZsRUdVVkFBRFZWWFhnQUFCUVJRQUZoVUJWa0FVMUZXQWxBQlZBRlJWZ0JX.mp4',
   },
   {
@@ -30612,7 +30604,7 @@ export const pitchesArray = [
     url: 'elpBNG9fWGw0TUFRPT1fVXdsVUFnY0dWUVlBRGdjQlZnQUFBQVpXQUFNRVVRY0FBd0FNQ0FKUVVBZFVVZ3NB.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'OVpHcVdfWGw0TUFRPT1fQUFoV0FnSUZBZ0VBV1FjRlZRQUFBd05VQUFBQkFGSUFCd0FOQlZJTlVsVmRWRk1F.mp4',
   },
   {
@@ -30620,7 +30612,7 @@ export const pitchesArray = [
     url: 'cmVBTzVfWGw0TUFRPT1fVlFnRlV3SldCQVFBQ2xvQUF3QUFWMWNDQUZrR0JRQUFDbHdGQWdjRkNRRlhCd05l.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'MzVydzFfWGw0TUFRPT1fQkZWUkFnQUdVbFFBWFZaWFZRQUFWUUZWQUZrRFdnVUFWQU1FQmxKUkJ3VldVMVpY.mp4',
   },
   {
@@ -30664,7 +30656,7 @@ export const pitchesArray = [
     url: 'TGxuOWtfWGw0TUFRPT1fRHdkWlZBRUhCUU1BV3dkVVh3QUFBQWNGQUZnQUFnY0FCMUFCQUZBTUFBVlVWUUJR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'S3duZGpfWGw0TUFRPT1fVjFWWFZBWlFVMWNBQzFFRlZnQUFCUUlBQUZoVFdnSUFCZ05SQWxFREJRY0dDUXRY.mp4',
   },
   {
@@ -30688,7 +30680,7 @@ export const pitchesArray = [
     url: 'YUs0WVpfV0ZRVkV3dEdEUT09X0FGUUZYRk5RVVFjQUFGWUJVZ0FBQmxCWEFGa0ZWQVVBQ2dNTlZRSUVCZ01HQ0FGVw==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBNG9fWGw0TUFRPT1fQUZKVVZsQUFVMVFBQVZCUlVBQUFWQUplQUFCVEJsRUFWbHhUQmxVQ0FBY0VVbE1G.mp4',
   },
   {
@@ -30704,7 +30696,7 @@ export const pitchesArray = [
     url: 'MkI3QWpfWGw0TUFRPT1fVWdOU1ZBRlhCd2NBRHdaVEJBQUFDRmNBQUFBTUIxWUFCVlVFQ0ZJRkF3VmNWUUVE.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'OVpHcVdfWGw0TUFRPT1fQkFKUlV3SlZBRk1BWFFaVVZBQUFVZ1VGQUFNQUIxSUFDZ1pSVlFNQ1Z3ZGRWVlJl.mp4',
   },
   {
@@ -30728,15 +30720,15 @@ export const pitchesArray = [
     url: 'MVlseWdfWGw0TUFRPT1fVUZBSEJWVlFCVmNBQzFvRFVBQUFBd05SQUFOWFZsSUFBbEVBQWdFR0ExSlNBd1lF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WVFuTzJfWGw0TUFRPT1fRDFKUkFsRlNWZ2NBREZRSFhnQUFCVlFGQUFBTVVBQUFWRlpRQUFFSFZBVUJDVmND.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'QnY1MnJfWGw0TUFRPT1fRHdSVlVRWldWRlFBWGxvQVZRQUFWQU5lQUFNRFYxZ0FVd0ZYQ1FJQ1YxWUVBRk1G.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVydzFfWGw0TUFRPT1fQWxjSEJWMVNWUXNBQUZzSEJBQUFWUTRFQUFNRlVsY0FVMVpXQmdRQUNBRlNBRkJR.mp4',
   },
   {
@@ -30784,7 +30776,7 @@ export const pitchesArray = [
     url: 'b25vZDNfWGw0TUFRPT1fQndoVlZBRUhBbE1BWGdkV1ZnQUFDQTlVQUFNQ1ZGVUFCQUJVQUZaVUJ3WmNDQUZT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'b25vZDNfWGw0TUFRPT1fQmdOWkFWd01VRllBQ2xVTFh3QUFBQWNEQUZnTVZWSUFBMXdBVWdzQ0F3RmNBQWRY.mp4',
   },
   {
@@ -30864,7 +30856,7 @@ export const pitchesArray = [
     url: 'V3luOTlfV0ZRVkV3dEdEUT09X1V3QlhBVndHQTFBQUMxQUtBQUFBQkFCVUFGZ0NVMWNBQUFBTkIxWUZWRkJXQ0ZFRQ==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'S3duZGpfWGw0TUFRPT1fRDFNQVYxY0ZVQVFBQ1FRRkFnQUFDRlZmQUFCWEJnQUFCVkFBQndZRVVGZFRWbFpU.mp4',
   },
   {
@@ -30892,7 +30884,7 @@ export const pitchesArray = [
     url: 'WVFuTzJfWGw0TUFRPT1fVjFBRUFGSUZCQVlBWEFOV1hnQUFWUVJVQUFBQlZsQUFCMUpYQVZVTkJGZGNDRkZY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MkI3QWpfWGw0TUFRPT1fQVFjRFVsSlhBbEFBQUZGVUFBQUFVZ0JWQUFCVFUxVUFWbFlGQmdkVUFnY0RBVmNF.mp4',
   },
   {
@@ -30948,7 +30940,7 @@ export const pitchesArray = [
     url: 'dzdBNDhfWGw0TUFRPT1fVXdBQVZRRUhWVmNBWGxBSFhnQUFWMWRWQUFCVVYxSUFBRk1OQ1FBRlYxZFRWUUZl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Tnc3TDdfWGw0TUFRPT1fQUFsUUFBSUdVQUFBREZFTEJ3QUFVQVpVQUFNQ1VWY0FDd2NDVWdzRkExWUdDVlpT.mp4',
   },
   {
@@ -30964,7 +30956,7 @@ export const pitchesArray = [
     url: 'YUs0WVpfV0ZRVkV3dEdEUT09X1ZBTlJVZ1lFVWdzQUMxY0tVd0FBVjFJRkFBTlhVRkVBQkZKVEJRWlVCZ29EQ1FCUw==.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'Z0diUkRfWGw0TUFRPT1fQVFCUUJRSUdVbGNBV2xJR1VRQUFVRmRRQUFNQ1dnQUFVUVlEQmdNR0FBTlFBZ1pY.mp4',
   },
   {
@@ -30996,7 +30988,7 @@ export const pitchesArray = [
     url: 'MzVydzFfWGw0TUFRPT1fQlFsUlVRQUVWbE1BVzFFQ0J3QUFCVk5lQUZoV0FBTUFVMUVHQ1FZQlZBb0FDQU5l.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'YUs0WVpfV0ZRVkV3dEdEUT09X1Z3TUNVbDBEQUFBQVd3QlRBQUFBQWdjRkFBQlVCMUFBVVFSWEIxWU1CUUFEQkFkVA==.mp4',
   },
   {
@@ -31004,7 +30996,7 @@ export const pitchesArray = [
     url: 'elpBNG9fWGw0TUFRPT1fVWxjRkIxUUFCMU1BV2x0V1V3QUFBQVFFQUFOUkJsRUFVVjBNVkFCVFV3WURCZ3BS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVyeGpfWGw0TUFRPT1fQlFZQ1UxWUFVQW9BV2xFQVZ3QUFWMU1IQUFNRVV3Y0FBRk5XQndRRUJBWlJWRk5l.mp4',
   },
   {
@@ -31048,7 +31040,7 @@ export const pitchesArray = [
     url: 'eFprTE1fWGw0TUFRPT1fVXdkUVZnVlZWUW9BWEZBRkFnQUFVRkJVQUZnQVVsRUFWMUpXQTFJRVVGRlRBZ1FD.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cmVBTzVfWGw0TUFRPT1fQmdCVVhGd0FBbGNBRHdOVEFnQUFBVlVFQUFNTUFWTUFCRkpUVXdwVUJsQlVCZ3BY.mp4',
   },
   {
@@ -31072,7 +31064,7 @@ export const pitchesArray = [
     url: 'cmVBTzVfWGw0TUFRPT1fVWdjRVYxTlJVZ29BV2dRTFh3QUFDUWNGQUFOWEJnSUFVMUJUQ1FKVVZRVUFWRkVD.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFprTE1fWGw0TUFRPT1fQVFkV1hRQU1VQXNBV3dOVUFBQUFBUVVEQUZrQUJsSUFVMUFGQVZKWFVBQmNBVkFE.mp4',
   },
   {
@@ -31100,7 +31092,7 @@ export const pitchesArray = [
     url: 'QnY1MnJfWGw0TUFRPT1fQlZkVFZRRU5CQUFBWEFZR1V3QUFWQUZVQUZsUlYxSUFVVkpVQ0FVTkFnUUFCQUlB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'YUs0MkdfWGw0TUFRPT1fVXdZRVV3Y0hBZ29BWGdjR1ZnQUFVRk5YQUZoUUJsQUFCZ1lCVmdZR0FBdFFBQUpl.mp4',
   },
   {
@@ -31120,7 +31112,7 @@ export const pitchesArray = [
     url: 'OVpHcVdfWGw0TUFRPT1fQXdoVkFsMERCUVlBWFFjS0JRQUFCUUpWQUFBRVVGQUFBVk1EVWxGWEFWSmNVMUVE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVydzFfWGw0TUFRPT1fQUFoU1ZWY01CVk1BQ1ZBRFVnQUFWQWNGQUZoWFV3Y0FCZ1JYQWxCUVVnWlVVUVJS.mp4',
   },
   {
@@ -31176,7 +31168,7 @@ export const pitchesArray = [
     url: 'ZFo5QjZfWGw0TUFRPT1fQkZSVUFWVlJVMVFBWGxRRkJ3QUFVd1JVQUFNRFZsRUFBMUFGVVFRRUJGQUVWUU1D.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'anEwRHZfWGw0TUFRPT1fQXdZRUFBSlNVVlFBQ2xJQVVBQUFVQVVIQUFOV0JsTUFCRlVNQkFRTkNGQURCbE1G.mp4',
   },
   {
@@ -31192,7 +31184,7 @@ export const pitchesArray = [
     url: 'WGduWGtfWGw0TUFRPT1fQndJQVUxSUJWd0lBQ2xSVEFnQUFWUUZSQUZoVFdnTUFBUU1FQVFZR0JnWUhWVlJm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'QVlHM0JfWGw0TUFRPT1fQTFKUVYxVlhYZ2NBQzFjR1hnQUFCdzlYQUFOUkJsSUFCZ1pRVTFZQ1VBdGNWbEJR.mp4',
   },
   {
@@ -31208,7 +31200,7 @@ export const pitchesArray = [
     url: 'anFaQXZfWGw0TUFRPT1fQmxkUUFsd0NWRkFBWFFjRUJ3QUFDVkpTQUFNTVZWZ0FBQUFNQ0ZVTUJ3b0JCbEZY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NjREd0dfWGw0TUFRPT1fQWdRRVhWZFJCVkVBREZRS1hnQUFBMUlDQUFNQ1cxRUFWbDBHQmdNRVVBcFdCZ0Zm.mp4',
   },
   {
@@ -31220,7 +31212,7 @@ export const pitchesArray = [
     url: 'V3luNVJfWGw0TUFRPT1fQXdWVEJRRUdBd01BQ0FBRFVBQUFBZ0pmQUFBTUJsUUFWbEFIQ0FRQlUxVURVUW9I.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'R1pham5fWGw0TUFRPT1fQVFJQ1ZBSUNWZ0VBREFSUVZnQUFDQUZYQUFOUlUxQUFWRmNIQmdVSEFGY0hVVllG.mp4',
   },
   {
@@ -31236,7 +31228,7 @@ export const pitchesArray = [
     url: 'TVpyTk5fWGw0TUFRPT1fVndJQ0FnZFNWZ1VBQVFGVFZnQUFCZ1VEQUFNRkFGQUFBRmRUVlFzSEJGWlVBd1lI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'VmduYTVfWGw0TUFRPT1fQkZjREFWQlFWZ01BQVFSVUJ3QUFCd0ZVQUZnRVUxVUFWRlVEQjFJSENWVUVCUWNG.mp4',
   },
   {
@@ -31244,7 +31236,7 @@ export const pitchesArray = [
     url: 'S3dibHZfWGw0TUFRPT1fQndVQUJsY0VWd29BWEFNR1ZRQUFBbFFIQUZnRFZWWUFWZ1FFQlFWUlZWRlJBZ05S.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'NFg3eFFfWGw0TUFRPT1fQlZNRkJWTU5CUVVBQUFFREFBQUFCMUJlQUZsUVYxSUFBd2NOQlFSVUFRVUFDUUZT.mp4',
   },
   {
@@ -31280,7 +31272,7 @@ export const pitchesArray = [
     url: 'N1o4YjJfWGw0TUFRPT1fRGxOWkJnQUVVQW9BRGdSV0FBQUFBVlFDQUFBQVVBVUFBVlZYQ0ZWVEJGVlNCUW9E.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'QVlHM0JfWGw0TUFRPT1fQkFBSFVGd01WRlFBQUFkUlZnQUFCVlJRQUFOVVcxY0FBRkJXQlZZQVZGQUdVMUZY.mp4',
   },
   {
@@ -31308,7 +31300,7 @@ export const pitchesArray = [
     url: 'V3luQVlfWGw0TUFRPT1fRGdnRUFWd0JWVk1BRFZRTFh3QUFVd1lFQUZoV1VGa0FVMUpRVVZWUUExVlVBQU1D.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'dk1HNzNfWGw0TUFRPT1fVndjRFhWd05CRllBWGxzRVZ3QUFCRlJTQUFNRFVBY0FWbDBDVXdVQlZWSlRVUVVI.mp4',
   },
   {
@@ -31336,7 +31328,7 @@ export const pitchesArray = [
     url: 'TVpyV2RfWGw0TUFRPT1fQVZjQ0JRSldCMVlBQVZkUVVBQUFCRlJWQUFCUkFWY0FVMXdGQjFkUkFRTlNDRk5W.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'QVlHM0JfWGw0TUFRPT1fQndSWUJWd0JBQUFBWEZaWFV3QUFBQU1BQUZnQVV3UUFCMVVNVVFvTkIxVUVDVlpV.mp4',
   },
   {
@@ -31356,11 +31348,11 @@ export const pitchesArray = [
     url: 'YUs0WkJfWGw0TUFRPT1fVndCWkFGZFNWZ01BQ0FBRVZnQUFWUUlIQUZrQVZ3QUFBbEVEQjFCV0J3UlFBd29G.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NFg4T3FfWGw0TUFRPT1fVjFKVFZnQUJCUUlBRFZNQVV3QUFCZ1JXQUZsVFZWY0FBd1lBQjFaWFZBZFRVVkFE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'anEwRHZfWGw0TUFRPT1fQlFOUkFGeFJBbE1BWGxNS1VRQUFBZ0pRQUFNQ0FnSUFBbHdNVVFwUUNWWmNDUVpm.mp4',
   },
   {
@@ -31400,11 +31392,11 @@ export const pitchesArray = [
     url: 'UGpxdmRfWGw0TUFRPT1fVUFrQUJsd01Bd2NBWEZKUkJRQUFVZ0pUQUZoV0FGRUFVQWNGQ1FZRVUxVlFBZ2RR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MVlqSzJfWGw0TUFRPT1fRDFSVVZGSU5WMVlBV1ZGV0J3QUFCbFZXQUFCUlZ3Y0FBbDFVVVFFTkF3b0JDVkVI.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'Z0diWVBfWGw0TUFRPT1fQXdsUlhGWUNCd1VBV2xSVVZBQUFVd0pVQUFCV0IxVUFBVlFBQVF0WEExSmNCVkVE.mp4',
   },
   {
@@ -31420,7 +31412,7 @@ export const pitchesArray = [
     url: 'N1o4YjJfWGw0TUFRPT1fQUFaV1VGRURBQUlBQzFOUUFnQUFWd1ZRQUFCVFZsZ0FDMXdCQkZjR1ZGRUdWZ01F.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBMDZfWGw0TUFRPT1fVkFWUVZnZFFBbFlBQ0FjRFZBQUFCd05TQUZnQ1ZsZ0FCbDBGQXdGUkJRUlRVZ0lI.mp4',
   },
   {
@@ -31532,11 +31524,11 @@ export const pitchesArray = [
     url: 'TVpyeldfWGw0TUFRPT1fRHdkV1YxUU1BQUFBQ1FRS0F3QUFDQUZVQUZnSFZsTUFBbE5XQjFJRUNGQlhWQVFD.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WVFuZzlfWGw0TUFRPT1fQUFOU0JsVUdWVmNBREZJREJ3QUFWUTlVQUFBRkJsVUFCZ0ZVQVFBR0NRTUVVd0Zl.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'UGpxdmRfWGw0TUFRPT1fQmxjRVZGUUFWQUlBRFFCUVZBQUFVZzVlQUFBQVZsUUFVQVFFQkFwWEJRSmNCVlpl.mp4',
   },
   {
@@ -31580,7 +31572,7 @@ export const pitchesArray = [
     url: 'UGpscVBfWGw0TUFRPT1fRGdjRkFBSlhWVkVBV1Z0WFhnQUFVMUpXQUFOVFUxZ0FBRlZSQUZWVUIxQmRBVlpW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'RFhHeW5fWGw0TUFRPT1fVkFsVUJWd0VYd0lBQzFBRFZnQUFBUVlDQUZoUlZGWUFCbFVOQmdaVFVsVlRVZ1JS.mp4',
   },
   {
@@ -31600,7 +31592,7 @@ export const pitchesArray = [
     url: 'b25vTGdfWGw0TUFRPT1fQTFkWlhGVURBd0FBREZWVVZBQUFBRlFBQUFBRVZGa0FCMUlIQ1FCVVZWQURCd0pm.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'b25vTGdfWGw0TUFRPT1fVWdZQ0IxUlhVbFFBV3dBQUJBQUFWRlVEQUFBQ0FsUUFCRlFHVXdOUlV3WldCUVpV.mp4',
   },
   {
@@ -31680,7 +31672,7 @@ export const pitchesArray = [
     url: 'OVpHS1FfWGw0TUFRPT1fQWdWWlhBQUZBRkVBQVZ0VFVRQUFDVk5YQUFCVUFsSUFBVkVCQWdWUUJnVmRVVlpW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'QVlHM0JfWGw0TUFRPT1fQVFnREFsRU1Vd1FBV2xVSFZnQUFWd0pmQUFNTVVBQUFCd2NIQkZGUUJRZFNVd0pT.mp4',
   },
   {
@@ -31692,7 +31684,7 @@ export const pitchesArray = [
     url: 'MVlqRDlfWGw0TUFRPT1fQTFWVlhGQUVCQVFBQ3dNQkFnQUFBQUZlQUZrQlZsY0FWRndOQmdOWEFRVlVDUVJl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OGdqeWVfWGw0TUFRPT1fVkZWVVVsTU5BMVlBQVZRR1ZBQUFCZ1VIQUZnQ1Z3Y0FDMUJSVlZKVEJnZGRBZ1FI.mp4',
   },
   {
@@ -31712,7 +31704,7 @@ export const pitchesArray = [
     url: 'UGpscVBfWGw0TUFRPT1fQndGWUFBWUJWZ0FBV2xFSFV3QUFVMU5mQUZnSEJWa0FCVllIQlFOVEFBWUJWVkZm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVpHNHdfWGw0TUFRPT1fVWxOV0FBVUNBQWNBV2djRlZ3QUFVQTVUQUFCVFZGRUFBMUpSQjFGUlZWRlFCQW9D.mp4',
   },
   {
@@ -31752,7 +31744,7 @@ export const pitchesArray = [
     url: 'eFpBOWFfWGw0TUFRPT1fQkFVSFhWQUVVZ0VBRGdOVVVRQUFBdzRIQUZsV1VBUUFVMVJUVkZaVVVGSUFCQVpm.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'UGpxdmRfWGw0TUFRPT1fQkFJQVYxWldVd0VBRGxCV1ZnQUFCUTVSQUZsUlZnQUFCbFpVVWxCVUNWSlRWQU5S.mp4',
   },
   {
@@ -31788,7 +31780,7 @@ export const pitchesArray = [
     url: 'MVlqSzJfWGw0TUFRPT1fVkFWVVhWd0VVUUFBQVZBRVZ3QUFWMU5lQUZrTkJRY0FBVndFQ0ZWVEJWRUdVd3RW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'b25vTGdfWGw0TUFRPT1fQUZKUUFWQUFWVk1BQUZRS1VBQUFCQUlGQUZrTlcxY0FWZ1pYQndVTUJnSURBUXBY.mp4',
   },
   {
@@ -31816,7 +31808,7 @@ export const pitchesArray = [
     url: 'Tnc3MDJfWGw0TUFRPT1fQlZjQ0JWTUVCQVFBQzFSUlhnQUFCbElBQUZoUkJRTUFBZ0ZXQ0FGUUNGWUdWRkJV.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'S3duZGFfWGw0TUFRPT1fVWdWU0JnZFdVd0FBRFZNRVZ3QUFBQVVIQUFOUlZGSUFVRk5RQndVSFVBWUJBd1JV.mp4',
   },
   {
@@ -31884,7 +31876,7 @@ export const pitchesArray = [
     url: 'elpBMDZfWGw0TUFRPT1fQVZjSEFGUUJWUUFBVzFRR0FBQUFDVlJTQUFOUUJWQUFDbFlOQ1FNRENBWldBQWNE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'RFhHNXhfWGw0TUFRPT1fVlZJQ1ZGWURCUUVBQ2dSWFh3QUFBbEFEQUFNTlVGa0FWZ1lBQTFFRFVnTUhVZ0JU.mp4',
   },
   {
@@ -31948,7 +31940,7 @@ export const pitchesArray = [
     url: 'UlduTm9fWGw0TUFRPT1fRHdBRFhBRUhVd1lBRGxCVFZnQUFDQWNFQUZoWEJ3SUFCZ0FBVTFZSEF3cFNBMWRm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WmUxYjlfWGw0TUFRPT1fQlZCWlhRQU5YbFlBQ0ZwV0F3QUFDQUJRQUZrSEFsa0FCbFZYVWxGUUFBVlRDRkJS.mp4',
   },
   {
@@ -31972,7 +31964,7 @@ export const pitchesArray = [
     url: 'TVpyeldfWGw0TUFRPT1fVkFnRVVseFNBZ1lBQ1ZOVUJ3QUFCd1pUQUFNREFsQUFDd0ZYQlFvQkF3SlFBZ2Rm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Z0diWVBfWGw0TUFRPT1fQlFsUlhGUUFBQUVBRGdFQUF3QUFBbEpTQUZrRFdnY0FVRkVBQndGWEIxRlFCUWND.mp4',
   },
   {
@@ -32044,7 +32036,7 @@ export const pitchesArray = [
     url: 'TVpydlFfWGw0TUFRPT1fQlZWVVhGSlNBd0FBQVFCVFZnQUFWUUpSQUZoVUJRTUFWRlFDQ0ZKV0FGWUJBbGRX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVpHQlFfWGw0TUFRPT1fVkZCWkIxd0RVbFFBWGxzQlZnQUFBMU1GQUFBQ0FBY0FCbFZRVkFSVEIxWUJCVlpW.mp4',
   },
   {
@@ -32148,7 +32140,7 @@ export const pitchesArray = [
     url: 'elpBMDZfWGw0TUFRPT1fQUZOWUJ3RU1YZ0VBQ2xZRlVRQUFCVlZTQUFNQ1VRUUFBbDBNVVFkVEJnSlRBd0Zm.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'YUs0WkJfWGw0TUFRPT1fQlFWWlUxd0ZCRkVBQ2xRRFVRQUFVZ1JmQUZrTlZGSUFBVmNHQjFBQVVBQUFCd05X.mp4',
   },
   {
@@ -32188,11 +32180,11 @@ export const pitchesArray = [
     url: 'UlduTm9fWGw0TUFRPT1fQmdBQUJRRlZBMWNBREZzTFh3QUFWVlJVQUZoVUFWWUFWZ0VOQkFNRUF3cFZWbFFI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'QVlHM0JfWGw0TUFRPT1fQndWUlZBWU1VbE1BQ1ZBQlVnQUFCdzlWQUFNQ1VWRUFWbElNQlZWUUJRdFFCMVJY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MVlqMXJfWGw0TUFRPT1fVlZOU1YxUU5VQVVBRGxZQ0F3QUFWQTlRQUZrRlZBVUFCMTFUVXdCUkJRZFVBZ1pY.mp4',
   },
   {
@@ -32216,7 +32208,7 @@ export const pitchesArray = [
     url: 'V3luQVlfWGw0TUFRPT1fQTFVQ0JRRUJVUVVBQ0ZNRlV3QUFWQUJVQUZrTUJsUUFCMVVFVkZjSEFRWUFBZ1ZT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'VmduYTVfWGw0TUFRPT1fQTFSWUFRZFJBZ1FBREFZS1h3QUFWVmRXQUFNSFUxTUFDMU5XQlZBSEJWZFRBVlJl.mp4',
   },
   {
@@ -32228,7 +32220,7 @@ export const pitchesArray = [
     url: 'VmduYTVfWGw0TUFRPT1fRGxVSEIxVU1CVmNBWGdFTEFnQUFCbEFEQUFCVVVWY0FVRkZRVVFaV1ZGVlJCUXNE.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'R1pham5fWGw0TUFRPT1fVWxOUlYxTlJCVkVBQ0ZBQlVBQUFBRkFBQUZrSEJWY0FWQVpVQUFJREJRUlhBVmRT.mp4',
   },
   {
@@ -32236,7 +32228,7 @@ export const pitchesArray = [
     url: 'RFhHeW5fWGw0TUFRPT1fVUZVQ1ZBQlZBbEFBQVFGV1Z3QUFCVk5mQUZrQVcxTUFVMVFFVWxJQlZRVUVCUUpm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVyMWpfWGw0TUFRPT1fQVFGWFVRWUVBbGNBRFZ0V0FBQUFBd0lIQUFCVFUxWUFWRlpYVWdzTkFBVlFWUU1B.mp4',
   },
   {
@@ -32296,7 +32288,7 @@ export const pitchesArray = [
     url: 'elpBMDZfWGw0TUFRPT1fVXdBRlZseFJVZ29BWFZFQlVBQUFWMUJTQUFNRkJRSUFWZ1JVVlFwUUJsRlNBVmRU.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'OGdHb1BfWGw0TUFRPT1fVXdKU1V3SlNVd0VBRDFaV0FBQUFDVlZXQUZrSFZ3UUFBZ0ZRVmdJQUFnWlNWZ1JR.mp4',
   },
   {
@@ -32316,7 +32308,7 @@ export const pitchesArray = [
     url: 'b25vZDNfWGw0TUFRPT1fQndFSFhWeFdVd0FBRDFNQVZRQUFDUVJTQUZrR0JnTUFBQUVEVmdBRVZ3VUVWVlJl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVpHNHdfWGw0TUFRPT1fQkFSWUJ3RUJWUWNBREZZTFZRQUFBZzVUQUFBTldnVUFBbFJYQ0FWVEF3VURCUWRR.mp4',
   },
   {
@@ -32336,7 +32328,7 @@ export const pitchesArray = [
     url: 'V3lOQm9fWGw0TUFRPT1fQUZWU1UxWldCQVlBRFZBTFVnQUFBQTlVQUZsVFcxRUFBRlpYQUZKUUNGY0JCd3RS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVyMWpfWGw0TUFRPT1fQlFCWlUxSldWUVFBQ0FNSFVRQUFBQUJSQUFOUVdsY0FCbDBIVlFJTkFWQlFDUU5R.mp4',
   },
   {
@@ -32596,7 +32588,7 @@ export const pitchesArray = [
     url: 'eFprTE1fWGw0TUFRPT1fQmdKWkJsTlJWQUFBRGdGWEFBQUFDUU5mQUZrRFZnVUFDbE5SVWxFTlVnWUJVMVpV.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Tnc3YkJfV0ZRVkV3dEdEUT09X1UxZFJWRndEVUZNQUQxRlRVUUFBVkFJQ0FBQlVXd0lBQmx4UkFGQUVDUVZWQndGWA==.mp4',
   },
   {
@@ -32620,7 +32612,7 @@ export const pitchesArray = [
     url: 'VmduN09fWGw0TUFRPT1fQVFNQVZRZFZYbEVBQ0ZBQ0JRQUFWQUJWQUFOWFYxZ0FDMUZVVWxWV0NRcFhBVlJY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cmVBQmRfWGw0TUFRPT1fQTFVSEFWUUdYZ0VBQ2djQlZBQUFDQU5mQUZsUUFRUUFWMU1NQUFkWFZRZGNBQVVF.mp4',
   },
   {
@@ -32644,7 +32636,7 @@ export const pitchesArray = [
     url: 'dzdrV0JfWGw0TUFRPT1fVlZkV1VGVUNCQVVBQ1FBQlVnQUFCbFZVQUZnQUJsY0FWd1FBQWxKV1V3VUJBbE5R.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'dk1HYTZfWGw0TUFRPT1fVUFWVUFBRlNVd0FBWEFFRUJRQUFBMUJYQUZnQVZsY0FCMUVOQjFFQVUxRUJWZ0ZR.mp4',
   },
   {
@@ -32672,7 +32664,7 @@ export const pitchesArray = [
     url: 'eFpBNEtfWGw0TUFRPT1fQkFoWFV3WlZVQWNBQVFGVFZ3QUFCVlJXQUFBREFnUUFVRkpXQUFRSENBSUVBMU1B.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBM29fWGw0TUFRPT1fVTFWU1ZGMEhWVkVBQ0ZaUUJ3QUFWVk1GQUFOVVdsZ0FVVmRUQlFZQ0JGWUFVbFpl.mp4',
   },
   {
@@ -32740,15 +32732,15 @@ export const pitchesArray = [
     url: 'bkdvRDlfWGw0TUFRPT1fQndVQVZGRUhYd1lBREZvRlVnQUFDQVlIQUZnRUFWWUFCQVlBVlZjRFVBUmNBUW9D.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVpHcVdfWGw0TUFRPT1fVUZCUVVsd0RCMUVBQ1FaVFV3QUFWUUFGQUZoUUFsWUFDMU1IQndRQ0NBdGNDQU5m.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NjREZTRfWGw0TUFRPT1fQXdKWlZRRUZCd1lBWFZvRFh3QUFWRlVEQUZoVEFsY0FCQU1GQWdGUkJsY0VVUXNF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'QnZHMFZfWGw0TUFRPT1fVlZWWUJWUU1Yd1lBQ2dRQ0FnQUFCQU1GQUFOVEJWQUFCRkpVQ0ZjTkIxWUVVUWRm.mp4',
   },
   {
@@ -32772,7 +32764,7 @@ export const pitchesArray = [
     url: 'NU43MEtfWGw0TUFRPT1fVjFWVlZRQU1Yd2NBQzFFTEJBQUFBQUZRQUFCUlZsTUFWbGRXQmxjTlZWQURCUWRU.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'dzdrV0JfWGw0TUFRPT1fQUZCV1ZBWUdVVlFBREZjS1h3QUFVQTVXQUFBTVV3UUFWbFVBVkZjRkF3Y0FVVmNB.mp4',
   },
   {
@@ -32812,7 +32804,7 @@ export const pitchesArray = [
     url: 'MDM4b3hfWGw0TUFRPT1fQXdOVlhRY0ZWRllBQ0ZGVFVnQUFBUVpVQUFBQkFsY0FBbEVGVmdFSFVBTUhVVllE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'YUs0QXlfWGw0TUFRPT1fQlFJRlhGSldBZ1lBREFjS1Z3QUFWQTlWQUFCV1VRTUFBbE5XVkZZSEF3QlhVVkFE.mp4',
   },
   {
@@ -32860,7 +32852,7 @@ export const pitchesArray = [
     url: 'MDNleXJfWGw0TUFRPT1fVlFRRlVBVUVWUVVBQzFaVEFBQUFWd1lEQUFOUVZsWUFWMTBFQXdZREFBTlRWVlpX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVpHcVdfWGw0TUFRPT1fQWdaWVZsY01WQVlBWFFkV0FBQUFCZ2RYQUZoUVZWTUFWbEVBVmdRTVYxRmRVVmRU.mp4',
   },
   {
@@ -32904,7 +32896,7 @@ export const pitchesArray = [
     url: 'a1pWNE1fWGw0TUFRPT1fRDFWWFZnWU1VZ0VBV1ZvR1ZBQUFDVlJmQUFBTlZWSUFWMXdIQVFvTlVBWURBbFlB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'UGpsTzdfV0ZRVkV3dEdEUT09X1VGTllWQVlBQlZjQUNWY0hVZ0FBQlFjSEFBTUJVd2NBVVZGVFVRVU1VQUlFVlFGUg==.mp4',
   },
   {
@@ -32996,7 +32988,7 @@ export const pitchesArray = [
     url: 'UVduV1FfWGw0TUFRPT1fQkFBSEJ3WUVYZ1FBV1ZNRFV3QUFCbFVFQUZnSEFnSUFVMUZUVVFBQ0J3Y0VCRlJl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WVFuZXlfWGw0TUFRPT1fQlFKVlZ3VlFYd01BQ1Z0V0F3QUFVbE1EQUFBRldnY0FVd1lBQ0FvTkNBUUJCRlpm.mp4',
   },
   {
@@ -33040,7 +33032,7 @@ export const pitchesArray = [
     url: 'T1F3YVJfV0ZRVkV3dEdEUT09X1VGVlZWVlFNVjFFQUNsSUJYZ0FBVTFRQUFBQU5WMVVBQkZRQUJnSlFCd01BQjFCUw==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TndabDZfWGw0TUFRPT1fRHdCWVVBQldVVllBQVFFQ1h3QUFWUThFQUZnRUFnTUFWd0ZSQndGVVVGWUVVbEZV.mp4',
   },
   {
@@ -33048,7 +33040,7 @@ export const pitchesArray = [
     url: 'MVlqYjRfWGw0TUFRPT1fVUZVRlVWQlFVd0VBV1ZZSEFBQUFCRlVFQUFNREFsUUFBMUZYVVZVTVV3UlRBQW9G.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpyQjVfWGw0TUFRPT1fQTFJQ1VsRlJBZ0FBQUZRR1h3QUFVQWNDQUZoUkJ3QUFVRkJUVmxGVEFRb0dDQUlB.mp4',
   },
   {
@@ -33064,7 +33056,7 @@ export const pitchesArray = [
     url: 'OGdHdnlfWGw0TUFRPT1fQjFJRVUxMERWUUlBRFFBS1h3QUFBUVVEQUZsV1ZRUUFCQUZVVXdBRUJ3c0RVVk5l.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'b25yR2dfWGw0TUFRPT1fVXdVRlhWRURWQXNBRFZOUkF3QUFWd1VFQUZrTVV3Y0FCVlFCQVZkVVZRY0dBRkJR.mp4',
   },
   {
@@ -33100,7 +33092,7 @@ export const pitchesArray = [
     url: 'N1pHeTZfWGw0TUFRPT1fVkFaUkJnVldYd0FBV2dFQlhnQUFWMVVFQUFNR1ZRUUFVQWNBQmdVQUFnRUJBbFpY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'T1F3YVJfV0ZRVkV3dEdEUT09X0FBUlhBUUFCQkFFQUNnRUdYZ0FBQTFCV0FBTUNWMUVBVmwwTUJnVUhCMUpTQkFFSA==.mp4',
   },
   {
@@ -33112,7 +33104,7 @@ export const pitchesArray = [
     url: 'MVlseWdfWGw0TUFRPT1fQVFoWUIxY0ZCVlFBQVZRSEJ3QUFDRlJUQUFBREFRUUFBbFZVQjFWUVYxSlVBQVJR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cmVBZ2VfWGw0TUFRPT1fQXdZRlYxVlNVd0lBV1ZaUlZBQUFCdzVTQUZrTVVsTUFCQVpVVWdvSEF3c0VBZ0Zm.mp4',
   },
   {
@@ -33140,7 +33132,7 @@ export const pitchesArray = [
     url: 'OVo4M2pfWGw0TUFRPT1fQkZOWUFRQlZCUUlBQzFjRUFnQUFVQVFEQUFNSFZGa0FCRndDQVFBTkJnTUdBd2NF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'anFaVldfWGw0TUFRPT1fQjFjREIxTU5CRkFBRHdRR1ZnQUFVd1JmQUFNQlZGSUFDZ0JVQndaVFV3TlFVZ3BU.mp4',
   },
   {
@@ -33176,7 +33168,7 @@ export const pitchesArray = [
     url: 'WmUxYWdfV0ZRVkV3dEdEUT09X1Z3UUZWZ0lCWHdBQVhGVlFWZ0FBQVZkU0FBQlFWVkVBVkYxUVZsRUZCMUpSQkF0Zg==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Tnc3YkJfV0ZRVkV3dEdEUT09X0R3bFFWbEVNVXdRQVd3Y0ZWZ0FBQVZkV0FBTlFWMU1BVkZCVVV3WUJBZ2RjVkFBRA==.mp4',
   },
   {
@@ -33192,7 +33184,7 @@ export const pitchesArray = [
     url: 'MkI3S29fWGw0TUFRPT1fQjFkVVhGUUJBQVlBQ1ZZRlVnQUFBd1pXQUZoV1VnTUFBQWNGVkFJQ0FGQUFDQWRX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'YUs0QXlfWGw0TUFRPT1fVndRRlYxTUhBQVVBQUFCUlVBQUFWUU1GQUFOUkJ3SUFDZ2NIQUFKUUFRVlNCZ0ZY.mp4',
   },
   {
@@ -33232,7 +33224,7 @@ export const pitchesArray = [
     url: 'N1pHeTZfWGw0TUFRPT1fQVZNRVV3SlZCMWNBVzFWUkJRQUFWQTVVQUZrSEFBSUFWZ0JYQUZJRlZBVUJBQVVI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OGdHNWJfWGw0TUFRPT1fVWxkVkJsUlJWQW9BWEFjS1VRQUFDQTRFQUZrQ1VRTUFBUWNHVlZaVUIxWUhBZ1FB.mp4',
   },
   {
@@ -33248,7 +33240,7 @@ export const pitchesArray = [
     url: 'OVpHeFZfWGw0TUFRPT1fQmdJRVZGQUdCVllBQVFNQlh3QUFVMVVGQUZnQVZBQUFCbFpRQmxFTUNGVlJVZ0JX.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'S3diMjRfWGw0TUFRPT1fVUFGVkFsVUZVUVVBQ0ZJRFh3QUFWd0ZSQUZoVUJWSUFWRkJRVTFKWFV3dGRBMUZX.mp4',
   },
   {
@@ -33340,7 +33332,7 @@ export const pitchesArray = [
     url: 'MkI3NFFfWGw0TUFRPT1fQWxWWUFnSUFWUUVBWFZzRUFBQUFWdzlWQUZrTVVGRUFWd0ZYQXdZQ1VndFNDQUFG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'R1phM0xfWGw0TUFRPT1fQVFoWVVWTU1YbFlBRFFkVVVBQUFBUVpYQUZnR0FnTUFDMVpSVkFzR0JnQUhBQXNI.mp4',
   },
   {
@@ -33384,7 +33376,7 @@ export const pitchesArray = [
     url: 'MzVyazZfWGw0TUFRPT1fVXdOWUJnVUJBd0lBQ1ZRSFVRQUFBd01FQUZrTkJsQUFCMVpYVVFaVVYxRUFVd2RS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'T1F3OTlfWGw0TUFRPT1fVWdSVEIxWU5BbGNBQzFRTFZnQUFVZ1ZVQUFCVVVnVUFCRklIQVFFRlVBUURBVmRW.mp4',
   },
   {
@@ -33408,7 +33400,7 @@ export const pitchesArray = [
     url: 'eVprTGVfWGw0TUFRPT1fVjFOUUFsUlNWd0VBQVFBSFZnQUFDUUpXQUFNTVZBTUFWMVZVVVZBQ0FWQUJWUVFF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'YUs0QXlfWGw0TUFRPT1fQmxOWFZGRUNWQUVBQUFFQVZRQUFCMU5RQUFBRVVnTUFCbDBCVlZjQUJ3TUVWQU5W.mp4',
   },
   {
@@ -33484,7 +33476,7 @@ export const pitchesArray = [
     url: 'cmVBelBfWGw0TUFRPT1fRHdJRFYxUlNVRkVBWEZaUlZ3QUFCQUJRQUZrQlVnSUFDMU1EVlFSVUJRTlNCMUJW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WVFuZXlfWGw0TUFRPT1fRGxOVVhBVlFVZ3NBV1ZaUVZ3QUFBZ0JXQUFNR1cxUUFWbFVCQVFaWEFRUldWZ0JU.mp4',
   },
   {
@@ -33568,7 +33560,7 @@ export const pitchesArray = [
     url: 'cmVBZ2VfWGw0TUFRPT1fRHdGWkJ3VUhVMUVBQ2xVQkFnQUFCMUpRQUZoVVVGQUFBQVFNQkZkVUJWWlNDQUpW.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZFo5a3dfWGw0TUFRPT1fQlZCUUIxTUZVVkVBQ2xzQlZ3QUFBQVpSQUZrRlVBTUFBRklEQlFCUkJsRUFVd1JV.mp4',
   },
   {
@@ -33580,7 +33572,7 @@ export const pitchesArray = [
     url: 'NU43MEtfWGw0TUFRPT1fQkFaWlZGWlNCMU1BWGxSVFVBQUFWMVZlQUFBR0J3SUFDbEVHVWxFRkFBSUJWQWNI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdvRDlfWGw0TUFRPT1fVlZCWlZWRldYbFlBQ0ZjR0F3QUFVRmNFQUZnRlUxZ0FBVjBIQXdjQlZBWlVBZ0VF.mp4',
   },
   {
@@ -33596,7 +33588,7 @@ export const pitchesArray = [
     url: 'OGdHNWJfWGw0TUFRPT1fVndaVFZ3RlZVMVlBQ1ZVRlZ3QUFDUU5WQUFOVVZnUUFWQWNOQ0FGUkFRTlFBbEZS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVo4M2pfWGw0TUFRPT1fQndJRVhWMVFBMU1BV3dFR1VnQUFCd1JSQUZnQ1ZGY0FDMWRUVTFZTkNRSlRCUUJV.mp4',
   },
   {
@@ -33784,7 +33776,7 @@ export const pitchesArray = [
     url: 'eFpBckRfWGw0TUFRPT1fQkFnSFUxZFJVQXNBRFFGV0JRQUFCd0JXQUZrRVcxUUFWd1FCQ1FBRUIxZFNWUWRX.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'cThHZXpfWGw0TUFRPT1fVUZWV1ZRRlNVVkFBREZ0VFhnQUFVZ0VDQUFCV1ZBSUFDMUFIVTFCUkFnQldWUUZY.mp4',
   },
   {
@@ -33816,7 +33808,7 @@ export const pitchesArray = [
     url: 'WGduZGpfWGw0TUFRPT1fRGdVRFVRVURBMVFBREZRR1VRQUFBQUZmQUFBSEJsY0FWQWNDQXdGVVZBWldVZ0lI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'UGpsODNfWGw0TUFRPT1fVjFSUVVRQUNBMVFBQUFCWFZBQUFVQUZWQUFOUVZsZ0FVVllCVVZaVEF3UUhWQVlE.mp4',
   },
   {
@@ -33964,7 +33956,7 @@ export const pitchesArray = [
     url: 'cmVMMm9fWGw0TUFRPT1fQTFWUUFsQU5Vd3NBQ1FZSEFBQUFBQUlDQUZsWEJRTUFCMWRSVmdvQUFRcFVDRkVG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'a1pWeERfWGw0TUFRPT1fQVZNQVVsUldBMVlBV2dFRFh3QUFCQUJmQUZsVVVnSUFWbFlBVTFVSEFsQlFBd1ZV.mp4',
   },
   {
@@ -33972,7 +33964,7 @@ export const pitchesArray = [
     url: 'a1pWcUJfWGw0TUFRPT1fVlZJRlZsTU5Wd0VBREFZSFVBQUFCbFFEQUZnRUIxSUFBVllHQVFVTVVBY0JBVkFD.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpyTk5fWGw0TUFRPT1fRGdoV1hRQUZVbEVBRDFSVFh3QUFCRlJVQUZsVUJnTUFBbFZRVlZJRVZWRldCVk5U.mp4',
   },
   {
@@ -34084,7 +34076,7 @@ export const pitchesArray = [
     url: 'a1pMMTBfWGw0TUFRPT1fVjFRQVZnRldCVkVBVzF0UVZ3QUFBUU5mQUFBRkFRSUFCd2RSVmdJQkFBY0JCd2Rl.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'ZW5NNTNfWGw0TUFRPT1fVXdNQ0J3Y0RVbFFBWEFZQkF3QUFWVk5RQUZrQkIxQUFWRkZYQkZFRkJ3WldCQUVB.mp4',
   },
   {
@@ -34092,7 +34084,7 @@ export const pitchesArray = [
     url: 'N1pHeGpfV0ZRVkV3dEdEUT09X1VBQlpBVmNDVTFRQVhBTlFYZ0FBQ0FWUUFBTlFWRmNBQzFWV0JsSU5VZ1pYQXdFRg==.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'cmVMMm9fWGw0TUFRPT1fQndWVFYxUUdCUVlBVzFJRFZBQUFBRmNFQUZsVUJsZ0FBRjBNVmdGV1ZWRUdCQVZW.mp4',
   },
   {
@@ -34120,7 +34112,7 @@ export const pitchesArray = [
     url: 'OGdHbHZfWGw0TUFRPT1fQmxJRFhBVUVVVkVBQ1ZvR0F3QUFBd0JSQUZrR1dnQUFDMVlOVVZKV0JndFRVbFpm.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'NjREYXZfWGw0TUFRPT1fRHdoVVZRWUFYd0lBREFRQkF3QUFCbEFFQUZoV0FWQUFDMXhRQWxCUlZBcFdCd1lF.mp4',
   },
   {
@@ -34140,7 +34132,7 @@ export const pitchesArray = [
     url: 'TVpyTk5fWGw0TUFRPT1fQWdaUlVnQUZBbFFBQVFZRFVBQUFDUU5SQUFNQ1VWRUFBRmNGVmdGUlV3WlRVZ05W.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'elpBQlpfWGw0TUFRPT1fQVFSUUJWeFZVVk1BQ2xZREJBQUFCUWRlQUZnREJWRUFVQUZRQndwUlV3TlJCZ1VB.mp4',
   },
   {
@@ -34220,7 +34212,7 @@ export const pitchesArray = [
     url: 'eFpBYWRfWGw0TUFRPT1fVndKU0FsUU5BZ1FBV2xvR0JBQUFWd0plQUFNQlZBVUFBZ0VNQndJRlZBdFdVMWRS.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'ZFo5TTZfV0ZRVkV3dEdEUT09X1VGVUFWMUJXQWxZQVhnTUxCd0FBQVZRREFGZ0FXZ01BQUZKWFVRc0ZCUVVFQkFSVQ==.mp4',
   },
   {
@@ -34316,11 +34308,11 @@ export const pitchesArray = [
     url: 'ZW5NMm9fWGw0TUFRPT1fQUFVQ1ZBSlhYZ2NBWEFjRlh3QUFBdzRGQUZrR1dsSUFVMWRRQVFjREFGZFJWZ1lI.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'a1pMTWRfWGw0TUFRPT1fQWxSWlhBWU5CUUVBV3dkUUF3QUFCZzVYQUZnRVVGZ0FBVkFGQWd0VVV3QlFCRkFE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NjRRNDJfWGw0TUFRPT1fQmxOUUFBWUhVVlFBQVZwUVZRQUFBd05TQUFNQlcxZ0FVMUVBQ1ZWVUFGVURBVkZm.mp4',
   },
   {
@@ -34480,7 +34472,7 @@ export const pitchesArray = [
     url: 'WVFuS25fWGw0TUFRPT1fVXdaV1ZBSlFCVlFBVzFVQlVRQUFBRklBQUFBRUFGRUFCZ0JUQWxkV1ZRb0FVbEZT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WGc0T1lfWGw0TUFRPT1fRHdRRFhBVUdVZ0lBQ1FkWFh3QUFCRlJSQUZnRlVBSUFBQWRSQUFRREJnQlJWZ0VG.mp4',
   },
   {
@@ -34500,7 +34492,7 @@ export const pitchesArray = [
     url: 'WGc0eURfWGw0TUFRPT1fVlFJQ1Yxd0NCUVFBWGdCUUFBQUFWd05WQUFBRkIxUUFWMVZUQndWV1YxY0hCUWNF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WVFuTzJfWGw0TUFRPT1fQUFRQVVBZFdWZ0VBRFZWVVV3QUFCQWRVQUZrRFZsQUFCMWRSVkFFSENBRURBbEFE.mp4',
   },
   {
@@ -34548,7 +34540,7 @@ export const pitchesArray = [
     url: 'anFadlhfWGw0TUFRPT1fQkFFSFVWTUJCd29BQ1FRR1h3QUFBUU5lQUZoVVcxSUFBbFJYQTFGVFZRTldCZ05V.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdMMmtfWGw0TUFRPT1fVndnRFVRRUZWUVlBRDFvQVVBQUFBUVVEQUFBRkFRY0FWZ0VCQUZWVVZRdFdCQW9B.mp4',
   },
   {
@@ -34608,11 +34600,11 @@ export const pitchesArray = [
     url: 'WVFuZHlfWGw0TUFRPT1fQjFSU1VRSlhCd01BQ2xkUlZRQUFVd1ZlQUFCVUFWZ0FCVlJUQ1ZVQVVsVURCVllD.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpyNWJfWGw0TUFRPT1fQkFCUlhGSUJCVk1BRFZFRlZRQUFBZzlUQUZsV1ZWUUFCVkZXVWdjRUFndGNBQVZS.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'bkdMMmtfWGw0TUFRPT1fVlFSWEFGSlhWMVFBRGdkVFVnQUFDQTVRQUFNQlV3Y0FCRklEQUFBRUNWRUdBd1VD.mp4',
   },
   {
@@ -34672,7 +34664,7 @@ export const pitchesArray = [
     url: 'OGdHNWJfWGw0TUFRPT1fVUZKWVhBQUdVUU1BQ2dNRlZBQUFWRlJRQUFBTVZWTUFDbEZVQ1FWWFVGWlFWQXRT.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'cThHZXpfWGw0TUFRPT1fVkZCU1ZsQlNBRmNBWFZZRlVnQUFCMUJXQUFBSFdnUUFBVkFCVVZVRUFnb0VDUVJR.mp4',
   },
   {
@@ -34704,7 +34696,7 @@ export const pitchesArray = [
     url: 'WVFuTzJfWGw0TUFRPT1fQmxOVEJ3WUhVUVFBQUFGVFZRQUFVZ1ZRQUFOUVZWZ0FDZ1lDQ0FZTUJnVUJWbE5l.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TGxuTk5fWGw0TUFRPT1fQVFJREJsSUNWZ01BQUFZR1hnQUFVRmRWQUZoUVZWSUFWRndNQVFvQlV3TldCbFpY.mp4',
   },
   {
@@ -34804,7 +34796,7 @@ export const pitchesArray = [
     url: 'a1pWcUJfWGw0TUFRPT1fVlZSVVZsQUFVQUVBVzFWUVh3QUFWUTlTQUFBTlUxY0FWbDFXQ1ZCUVYxRlJBZ29B.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpyTk5fWGw0TUFRPT1fVkFjQ1hWeFdYbEFBVzFWVFh3QUFWUUVDQUFCWFYxRUFDd1JVVVZjQVVsZGRCZ05T.mp4',
   },
   {
@@ -34824,11 +34816,11 @@ export const pitchesArray = [
     url: 'MzU4OVJfV0ZRVkV3dEdEUT09X0FsTllBbElHQUFBQUFGb0hYd0FBVUFVQ0FGaFFXZ0lBVndRTVZnUUdBVmRUQUFRRA==.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'a1pMTWRfWGw0TUFRPT1fQTFCWUFGUURWMWNBQzFzS1VRQUFDUTRBQUFCVVZsQUFVQVJYVkFOUUNBTlFBUUpS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'TVpyRzlfWGw0TUFRPT1fVWdFSFZGRUJWUVVBQ1ZRR1hnQUFDQVVDQUZrRlVBTUFBVmRXQWd0UlVnUUhVbGNF.mp4',
   },
   {
@@ -35048,7 +35040,7 @@ export const pitchesArray = [
     url: 'b25veFhfWGw0TUFRPT1fRGdWVEJWMVhWQW9BWFZkVVVBQUFCMWRlQUFCVUJ3QUFBZ0FOQWdKVEF3VlZCQVJR.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'S3dud2FfWGw0TUFRPT1fVUFSUVVWY0FVMVFBV1FSV1ZRQUFDVmRYQUZnR0JWRUFVVlZSVlF0UVVBdFdVd0VF.mp4',
   },
   {
@@ -35576,7 +35568,7 @@ export const pitchesArray = [
     url: 'NjREYk5fWGw0TUFRPT1fVUZkUUIxQlhVUUlBVzFBQlVBQUFBZ05SQUFNTkJRSUFCRkJUVmdWWFVsQURVZ2NB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'R1phekJfWGw0TUFRPT1fVlZSU1ZWME1Cd0FBV1ZVSFV3QUFVZ05VQUZnRkFnTUFVMVZVVlFOUlZBZFJWVkZm.mp4',
   },
   {
@@ -35672,7 +35664,7 @@ export const pitchesArray = [
     url: 'WmVLeGVfWGw0TUFRPT1fVjFOVFVsY0dWRkVBQ0ZVRkJBQUFBQVlIQUZrRVcxQUFBVllNQkZjSEExVUhWUU5l.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'b25vWlFfWGw0TUFRPT1fQVFKWFhWQlhCUWNBRDFzQVV3QUFWVmRYQUFBSEFRUUFCbHhUQkFKUVZ3dFdBUUJl.mp4',
   },
   {
@@ -36004,7 +35996,7 @@ export const pitchesArray = [
     url: 'R1phekJfWGw0TUFRPT1fVUFFRkIxUlhCQVFBRDFRR1VRQUFVZ0VGQUZrTkJWa0FWRmRUQUFzRUJ3WUJVMVJS.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'ZW5Na3lfWGw0TUFRPT1fQTFSUVVRY0ZWVkFBRGxvRVZRQUFCZ01EQUFNQkJWWUFBQUVCVkF0VFZ3UlVWQXNB.mp4',
   },
   {
@@ -36108,7 +36100,7 @@ export const pitchesArray = [
     url: 'TGxQb01fWGw0TUFRPT1fQkZkWFZGTlFYZ1VBV3dCUUF3QUFBZ1lFQUZoVEFsTUFCUUVHVWxBRkFGQlJWZ1pU.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'cmVBbFlfWGw0TUFRPT1fQWxVRkJ3WUVYbFlBQVZJS1V3QUFDRk5mQUZsVUJWVUFWZ05XQVZFRkJsZFNBd0Jl.mp4',
   },
   {
@@ -36172,7 +36164,7 @@ export const pitchesArray = [
     url: 'MDM4VjFfWGw0TUFRPT1fRGdCVkJsRUNBMVlBRDFFRkJ3QUFWMUJXQUZnQUIxZ0FCMUFDVmxFR0FWWlhWVkFF.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'TVpybzlfWGw0TUFRPT1fQlZSVVVWRldYMUFBV1ZKV1Z3QUFDQTVRQUFNQkIxZ0FCVlJYQUFwUVV3QlNWQVJW.mp4',
   },
   {
@@ -36332,7 +36324,7 @@ export const pitchesArray = [
     url: 'MkI3bGRfWGw0TUFRPT1fVndKWkFsRUdWUVFBV2xSVUJ3QUFWUTlSQUZsVVdsRUFCUWNHQlFBTkJ3TlVCUUJS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'b25vN2xfWGw0TUFRPT1fQXdOVVZWRUZWUXNBRFFkUUJRQUFWMUJVQUZsUkFWVUFCbGNGQlFWUVZ3dFRBd3Bl.mp4',
   },
   {
@@ -36360,7 +36352,7 @@ export const pitchesArray = [
     url: 'dzdBREFfWGw0TUFRPT1fVlFRSFZRVlJCd0FBWFZNS0JRQUFWRk5YQUFNTlZsTUFBUUVNQUFRSEIxQUhWQVVE.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cThrbnFfWGw0TUFRPT1fQkFkUUFGRUdVUVFBQ2xzQlZnQUFDUVpVQUZoV1VGWUFCQU5YVWdKVVZWRUVCVk1B.mp4',
   },
   {
@@ -36384,7 +36376,7 @@ export const pitchesArray = [
     url: 'TVpycWRfWGw0TUFRPT1fVXdnRFhGZFFCQWNBQ2xWWFh3QUFWQTVWQUFNQkIxSUFBRk1OQ0FGVVZWSUVBQVJV.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'elpBNG9fWGw0TUFRPT1fQVZjQVVGRUNVd29BREFOVFh3QUFCUUpmQUZrRVYxRUFBVkpXQkFFQlZ3c0RBRkFG.mp4',
   },
   {
@@ -36408,11 +36400,11 @@ export const pitchesArray = [
     url: 'UGpsenhfWGw0TUFRPT1fQUFWVkJsd0RYZ01BQ2xzRkJRQUFCdzVXQUZnTVVsUUFVd01CQ0FSVUJ3UlFWQUZV.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'WmUxeE5fWGw0TUFRPT1fRHdVSFYxVU1CUU1BQ0ZaVVVRQUFVMUFEQUFBRVVsTUFCRkVCQWdSV0F3b0JVUVFF.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'RFhHR3FfWGw0TUFRPT1fQXdoVFZnSlFCQWNBQ0FZQUJBQUFCZ1VBQUZrSFd3TUFCbElCVmd0VVUxWUhBQUVB.mp4',
   },
   {
@@ -36436,11 +36428,11 @@ export const pitchesArray = [
     url: 'WmUxeE5fWGw0TUFRPT1fRGxSVlVWVlJBd01BQ0ZNS1VRQUFBd0JTQUZrRldnY0FCZ1lBQ1FFQlVBRlFCMUJm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WGduWkRfWGw0TUFRPT1fQTFRRlUxSlFCMU1BREFBS0JRQUFDUTRDQUFOVEIxY0FDd2NOQTFjTlZBUlNCMVFD.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'WGduYlhfWGw0TUFRPT1fQmdVQUJnVU5VZ1lBV3dFQlh3QUFCUWNBQUFOUUIxUUFWbFVGVVFBQUNGWUhCd0FE.mp4',
   },
   {
@@ -36748,7 +36740,7 @@ export const pitchesArray = [
     url: 'OVpHeUFfV0ZRVkV3dEdEUT09X1ZGVlJCZ1VNWGdBQVhnY0VYZ0FBVkFCUUFBTUhBbEFBVjF3SFZnSlVBd3BVQUFKUg==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WGduYVpfWGw0TUFRPT1fRGdKVUJsUUdCQU1BRFFaVFZ3QUFCUUZRQUZnTldnSUFCd1lNVVFSVUNBVUhWZ0ZS.mp4',
   },
   {
@@ -36796,7 +36788,7 @@ export const pitchesArray = [
     url: 'Tnc3ZW5fWGw0TUFRPT1fQUFJQ0FGUUNVZ3NBWGdNRFZ3QUFWd01DQUZoUUJ3SUFCZ2NHVmdWVEF3SUhCUVlE.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'WGduYlhfWGw0TUFRPT1fQUFoUkIxWUZVUUFBWFFCVUFnQUFDQUJUQUZoV0FGTUFCRllFQlZZR0JRUUVVZ3RT.mp4',
   },
   {
@@ -36816,11 +36808,11 @@ export const pitchesArray = [
     url: 'MDNleDJfWGw0TUFRPT1fQWxWWVVWY0ZVRlFBWGxwUVZnQUFWQU1GQUFNTUJnTUFBVjFUVVZjRVZ3QUJBUUpX.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'WGduYVpfWGw0TUFRPT1fVWxRRlZnRUVBMVlBV1ZFRlVnQUFCRmNIQUZrQUFBVUFCMVFFQlFJQkJsSUhCbFJR.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'NFg3YkJfWGw0TUFRPT1fQndNQVZWRlZVMVlBQ2xBQ1VnQUFVbFJmQUZrRVVnY0FDMVZYVlFRQ0F3b0dDUUVE.mp4',
   },
   {
@@ -36892,7 +36884,7 @@ export const pitchesArray = [
     url: 'anEwYVhfWGw0TUFRPT1fVkFaWFZnSlJYMUVBRGdaVVVBQUFWMUpUQUZsUlZ3TUFDMU1CQlFOUVYxWlRCQVpS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'S3duMTJfWGw0TUFRPT1fVUFGV1ZsRlZCd0VBRGxKWEF3QUFBMVVEQUFBSEFRVUFWRlpRQlFwVVVnUldWQVJl.mp4',
   },
   {
@@ -37100,11 +37092,11 @@ export const pitchesArray = [
     url: 'V3luR1BfWGw0TUFRPT1fQkFFRFZRVlZWUVFBRFZRTEFnQUFWd0VFQUZnRlVsVUFWd2RSQWxBRkNGQlZVbFFI.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'WmUxeE5fWGw0TUFRPT1fRHdKVVVWY0hCUVlBQzFNRlZBQUFWVmNGQUZsUUIxWUFDbFFOQnd0UUJnRlhBZ3NG.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'NU43NktfWGw0TUFRPT1fQUZjRUFBSUdCQVlBRFFkVVZnQUFWMUplQUZnRFd3SUFBQVpRVmdZREJRRlNDQUJV.mp4',
   },
   {
@@ -37520,7 +37512,7 @@ export const pitchesArray = [
     url: 'WVFuR0RfWGw0TUFRPT1fVndFQVVBZFFBd2NBVzFjR0JRQUFVd01EQUZrQUJ3TUFBUU1HQVZWWFVnQlhCQUFB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'cThrYlFfWGw0TUFRPT1fQUFCU1UxWlJBd0lBRGdjQ1VBQUFDRlFDQUFOUVZWTUFCRndGVlZGVEFnb0RCd0lD.mp4',
   },
   {
@@ -37536,7 +37528,7 @@ export const pitchesArray = [
     url: 'cThrbzRfV0ZRVkV3dEdEUT09X0JGUUFCbFpYVndjQVdWTlVYZ0FBQlZWU0FBQUZCVmtBQVFZREExRUhCUWRWQVFZRA==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bkdvYVZfWGw0TUFRPT1fQXdsVUIxVlNCQUVBQ1ZNRVZ3QUFBd05TQUZrQ1Z3Y0FBQWRVQUZZTVZRc0dDVlJm.mp4',
   },
   {
@@ -37664,7 +37656,7 @@ export const pitchesArray = [
     url: 'NjREWTRfWGw0TUFRPT1fVWxkVEJ3VUZCQUFBRDFwVEFBQUFBd1ZXQUFBRlV3Y0FDZ1JVVXdjQ1YxSURCUVFG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'dzdBWFFfWGw0TUFRPT1fQkFJQ1YxTlZWUUVBQ0FkVVh3QUFCVk1IQUZnRlZGY0FVMUVIQkFZR0J3Y0dBZ3Rl.mp4',
   },
   {
@@ -37680,7 +37672,7 @@ export const pitchesArray = [
     url: 'Z0dBdllfWGw0TUFRPT1fVUFaWFZWQlNVd0VBQ0ZzQkJRQUFBd01IQUFNTkJnQUFBUUZRQTFjSFZ3QlZVbFJm.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'T1F3RGRfWGw0TUFRPT1fQXdJRFhBSUZBQVFBRDFVQlZRQUFVZ2RUQUZnQVVBQUFVMU5RQWxaUlYxWUhCbEFI.mp4',
   },
   {
@@ -37732,7 +37724,7 @@ export const pitchesArray = [
     url: 'bG5BcjdfV0ZRVkV3dEdEUT09X0J3TUVCVmRRVlFJQURnQUdBd0FBQlFSUkFBTUJCZ01BVkYwQ1VsWlhCbFZYVkFvQQ==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MkJ3MjVfWGw0TUFRPT1fRGxJRVZWVlhVd0lBQzFFRFV3QUFWRklGQUZnSEFGUUFBVk5YVkZKWEF3VlFBZ2RY.mp4',
   },
   {
@@ -37940,7 +37932,7 @@ export const pitchesArray = [
     url: 'UGpsdzNfWGw0TUFRPT1fQlFKWEFRVUVCQWNBWGdCUkJRQUFCRk1GQUZsUUFRTUFBZ0VHVVFvQlYxSldVUXRY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Z0diR0RfWGw0TUFRPT1fVXdGVUJnSUVVd0VBV3dNRVh3QUFVZ05SQUZsVEJnVUFDMUFIQlFjQ1V3UlNVMUJY.mp4',
   },
   {
@@ -37992,7 +37984,7 @@ export const pitchesArray = [
     url: 'bG5BcjdfV0ZRVkV3dEdEUT09X1Z3SlNBVkpXVmxNQUNWQUJVd0FBVWc0RUFBQUJWbGdBQkFNRkFsSURBZ0ZUQWdkZQ==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MDM4TWdfWGw0TUFRPT1fQmdJRlhRRlZBMVFBV1ZJTEFnQUFCZ0FIQUFBTlVGVUFBVmRVQ0FzR0NWSUFWQUlB.mp4',
   },
   {
@@ -38008,7 +38000,7 @@ export const pitchesArray = [
     url: 'bkdvV1ZfWGw0TUFRPT1fQWdNQUIxY05YZ0lBQ2xVSFV3QUFDUUFGQUFNTVdnY0FBVndIVWdBTVVsQlJCd0FB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'UGpsdzNfWGw0TUFRPT1fQlFkWkFsME1VQVFBQzFZR0JRQUFBdzllQUZsV0JRQUFBUU5RQndzSFUxZGRBRk5T.mp4',
   },
   {
@@ -38020,7 +38012,7 @@ export const pitchesArray = [
     url: 'UGpsanlfWGw0TUFRPT1fQXdOVVZBWUNCQUFBRGxGUUJBQUFWRk5UQUFNQVdsZ0FWbEFHQkZVRUFnc0RBUVVG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'YUs0MkdfWGw0TUFRPT1fQVZkWlhGRU5YbFlBV3dOV0FnQUFBQUFBQUFOV1VsZ0FVUU1GVWdVR1Z3WlNCZ01I.mp4',
   },
   {
@@ -38184,7 +38176,7 @@ export const pitchesArray = [
     url: 'Z0dBdllfWGw0TUFRPT1fVkZBRUIxRlZBMU1BWEFZRlVBQUFCd1JlQUZoVFd3TUFWRk1IQkFzRUFnZFdVZ0pV.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'V3lub1BfWGw0TUFRPT1fVlFZSFZWVlFCd29BVzFOV1V3QUFBd0FDQUFBRFZ3SUFCbDBNVVZCUkFGSlhWRk5X.mp4',
   },
   {
@@ -38328,7 +38320,7 @@ export const pitchesArray = [
     url: 'eVpBcXdfWGw0TUFRPT1fVXdGUUFnWU1BZ1VBVzFzQUJ3QUFCdzhGQUZoV1VWY0FWMUlEVVFBRFZBc0hDQUJY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'WVE2eXJfWGw0TUFRPT1fQmdWU1VWZFFYZ0VBWFZvREFBQUFWVlFEQUZnQ1ZGUUFCZ0JXQmxFREFRdGRCd0ZY.mp4',
   },
   {
@@ -38368,7 +38360,7 @@ export const pitchesArray = [
     url: 'elpBWTdfWGw0TUFRPT1fQkFKVFVGQUVCRk1BQzFFRUJ3QUFCQVFIQUFOWFcxRUFBQVFOQndFRFUxSlZVbEVG.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MVlqVzlfWGw0TUFRPT1fQmdZQVVsRU1CQW9BRGxGUkJ3QUFWd1ZlQUFCVFYxY0FBMTBBQlFCWFVsQUhBQUZY.mp4',
   },
   {
@@ -38440,7 +38432,7 @@ export const pitchesArray = [
     url: 'b25veTBfWGw0TUFRPT1fQmdOVFVnRUZYZ29BVzFjR1VnQUFWVkJYQUFBRFZ3SUFDZ0FBQjFGVUFBSUVBQUlF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVyQWpfWGw0TUFRPT1fQWdVRkFsUlNVd2NBQzFCUVVnQUFWRk5SQUFNQ1ZRUUFVUVJYQUZaVUFnQURCZ0ZY.mp4',
   },
   {
@@ -38512,7 +38504,7 @@ export const pitchesArray = [
     url: 'dzdBWFFfWGw0TUFRPT1fVXdoV1Z3SUFWRlFBWGxzRFZRQUFBQTVYQUZrRFZRSUFWd0JRQmdBRkFWRlFWZ1pU.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFpBQlZfWGw0TUFRPT1fVUFGU0IxQURWZ1VBVzFKV1ZnQUFBZ0VBQUZoVFcxRUFCMVFGVVFJRlYxZFdBbEZX.mp4',
   },
   {
@@ -38612,7 +38604,7 @@ export const pitchesArray = [
     url: 'WVFuR0RfWGw0TUFRPT1fVkZBREJRSlNWMU1BRFFRSFZnQUFBRmRWQUFNREJ3VUFWRjBGQWdRRlZBVmRBd1ZT.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'NFg3bkJfWGw0TUFRPT1fQndBSEFnRlZVUVlBQVFSV1ZRQUFCQUVEQUZrTVVRVUFCRkpRVVZJRFUxQlJBVk5V.mp4',
   },
   {
@@ -38620,7 +38612,7 @@ export const pitchesArray = [
     url: 'MzVyQWpfWGw0TUFRPT1fQlZOU1hGSldVZ1VBQ0FBRVVRQUFDRkFIQUZnTldsa0FDbFVIQkFKUkExZFdCUXNI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'YUtaWXlfWGw0TUFRPT1fVUFaV1VRWUNCd0lBRFFZQ1VnQUFDRlJYQUFBTVcxTUFCUUFHVmdaVUJWSUJVZ1Zl.mp4',
   },
   {
@@ -38676,7 +38668,7 @@ export const pitchesArray = [
     url: 'cThHTzRfWGw0TUFRPT1fQXdoUVhRVUNBZ1lBQUZzRkFBQUFCMUJTQUZoVUJnQUFBMTBFQlFGVUJGZFZDRkJY.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MVlqUjRfV0ZRVkV3dEdEUT09X0FBbFFVbGNOQlZRQUNsVlhBZ0FBQTFCU0FGbFdWd0lBQjEwRENBY0VCd3NFQTFRRQ==.mp4',
   },
   {
@@ -38728,7 +38720,7 @@ export const pitchesArray = [
     url: 'MzU4NFZfV0ZRVkV3dEdEUT09X0RnTlRVMVlEWHdjQUFRZFRYd0FBVXdaVEFBTUVBVklBVkFjQVV3VldCd0FFQndJQw==.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'TVpybDVfWGw0TUFRPT1fQVFVRlZ3RU5Vd2NBQ1ZJSFVRQUFDQTVUQUFNQkFGY0FCbFlOVlZBSFZBWUdWUUJT.mp4',
   },
   {
@@ -38796,7 +38788,7 @@ export const pitchesArray = [
     url: 'bkdvWEdfWGw0TUFRPT1fQVZOV1ZGQlJWUWNBRGxjTEJRQUFBbEFEQUZnQVZGVUFBbE1EQ0FGVEFBRlRWQUVI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'a1pMRHZfWGw0TUFRPT1fQVFnQVYxMVhBQUFBV2xRSEF3QUFCbGNFQUFCV0JsQUFBRkVGQWdCVVVnZFdVbGRV.mp4',
   },
   {
@@ -38900,11 +38892,11 @@ export const pitchesArray = [
     url: 'WmUxTU5fWGw0TUFRPT1fQVFCV1VRQUVWVkFBQVZOVVVBQUFCZzVRQUZnTVZnQUFVUU1NVTFJRlZRZFJCQUFF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'bG5BUG5fWGw0TUFRPT1fQkZCU1ZWRlNWVmNBVzFNQUJ3QUFBd05XQUFNTUFWZ0FCUVlOQWdVSEJWWmNBVlFB.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'UGpsdzNfWGw0TUFRPT1fRHdSVFZBQlhBd1FBWFFNQ1ZBQUFVRlZXQUFOUldnSUFWbDFXQmxCVVV3WldVVlpR.mp4',
   },
   {
@@ -39080,7 +39072,7 @@ export const pitchesArray = [
     url: 'bkdvWEdfWGw0TUFRPT1fQVZKU1ZWZFNCVmNBV3dOUkFnQUFCd0ZSQUZnSFVWa0FWbFFNVWxGVEF3dFJBbEJS.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'MzVyNXZfWGw0TUFRPT1fQUFNQ1ZnWUVVQUlBRFZOVVZRQUFBRkpYQUZsUlYxQUFWZ0JYQWdjTlZRTlNCd1pX.mp4',
   },
   {
@@ -39220,7 +39212,7 @@ export const pitchesArray = [
     url: 'UGpsdzNfWGw0TUFRPT1fVjFNRUJsQlhWUW9BV1ZOUkJ3QUFDRk5VQUZoVEFWQUFWRkVEQkFJRVVBQUhWUUJR.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'bkdMRzdfWGw0TUFRPT1fQWdaVFZBVUNWUUFBQ3djR1h3QUFBRk1IQUFBRVZWY0FVVkVEQmdNQkFBRmRCd3NG.mp4',
   },
   {
@@ -39240,7 +39232,7 @@ export const pitchesArray = [
     url: 'QnZHeEJfWGw0TUFRPT1fQmdGVEIxWURCVkFBQzFWUVV3QUFWd2NBQUFBTVVBQUFCRk5RQkFGVVYxRUFBd0lI.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'eFpBUnpfWGw0TUFRPT1fRDFCVFVRQlJWd3NBQUFaV0JBQUFBd01IQUZrTlVsWUFBUUVOQTFBR0FnSldCVlFG.mp4',
   },
   {
@@ -39520,7 +39512,7 @@ export const pitchesArray = [
     url: 'dzdBWjVfWGw0TUFRPT1fVWxNRkFRWU1BMVFBRGdBR0JBQUFCRmNEQUZrQ0FWWUFBbFlDQXdRQ0NWVlJBd3BR.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'S3dud2dfWGw0TUFRPT1fQndCU1V3SUVWVllBQ2dZQlh3QUFCd01FQUFOVVZGRUFBUWNDQkFkVUIxVlNCVlFG.mp4',
   },
   {
@@ -39540,7 +39532,7 @@ export const pitchesArray = [
     url: 'elpBRFdfWGw0TUFRPT1fVndoV1ZsSlZYZ3NBQzFaUkF3QUFBQTVYQUZrQkFRQUFBVllHQlFwUVZRQUVVUXNF.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'QVlHYjJfWGw0TUFRPT1fQjFOWFUxY01Bd0FBQUZFRFVRQUFBQWRYQUFOUkFGUUFBUU1DQVFCVFZWSUhBMUFB.mp4',
   },
   {
@@ -39620,7 +39612,7 @@ export const pitchesArray = [
     url: 'MDNlOFpfWGw0TUFRPT1fQXdSWVYxRUhVZ1FBQ1ZCUlVBQUFDQVJUQUFOV1VRUUFVQUJVQUFWV0FsRlhBd3BV.mp4',
   },
   {
-    pitch: 'KC',
+    pitch: 'CU',
     url: 'bkdMRzdfWGw0TUFRPT1fQUFGV1YxRldBbFFBWFZWUUF3QUFCd0VGQUZnRlZBY0FWbFFDQkFZTkJWVmRCVk5R.mp4',
   },
   {
@@ -39632,7 +39624,7 @@ export const pitchesArray = [
     url: 'elpBcVpfWGw0TUFRPT1fRGxNSEJnWlNCUUFBWFZNTEJRQUFVdzVUQUZnQkFWa0FWRkFIQ0FSWEExWlJBd29I.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'YUs0TTZfWGw0TUFRPT1fQlFSUUJsVU5CQU1BRFZFR0FBQUFCVlJYQUZsVEFWRUFVMU1HQ1FGUUFGVmNCUXNF.mp4',
   },
   {
@@ -39788,7 +39780,7 @@ export const pitchesArray = [
     url: 'OVpHa1ZfV0ZRVkV3dEdEUT09X0JRRllVMVJWVXdBQUNGQUtYd0FBQlFFRUFGa0NBbGNBQjFjTUNGY0VCZ1ZRQUZSVw==.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'Tnc3a2tfWGw0TUFRPT1fVXdjQVZsRUJYd0VBWFZKVVV3QUFCQUVBQUZrQkFBY0FCbFJRQlFGVFV3ZGRDUVJl.mp4',
   },
   {
@@ -39796,7 +39788,7 @@ export const pitchesArray = [
     url: 'OVpHYUdfWGw0TUFRPT1fQmxVQVUxVlJCRmNBRDFzRUF3QUFWRlJUQUZoUlZGZ0FCRkJXQmxaVUFRWlRWRk1B.mp4',
   },
   {
-    pitch: 'ST',
+    pitch: 'SL',
     url: 'OVpHUndfWGw0TUFRPT1fRHdJRVVsUlJBZ1lBQ0ZjR1VnQUFWUU5WQUFNQlZGZ0FBQUVCQWdaVUJBWlVWZ1Zm.mp4',
   },
   {

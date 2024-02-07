@@ -1,27 +1,18 @@
 import { pitchesArray } from './data.js';
 
-let index = Math.floor(Math.random() * 10000);
+const videoPlayer = document.querySelector('.video-player');
+const pitchContainer = document.querySelector('.pitch-type');
+const getPitchBtn = document.querySelector('.get-pitch-btn');
 
-console.log(index);
-console.log(pitchesArray[index]);
+const getNewPitch = function () {
+  const index = Math.floor(Math.random() * 9998);
+  videoPlayer.src = `https://sporty-clips.mlb.com/${pitchesArray[index].url}#t=2.5`;
+  pitchContainer.innerHTML = `Pitch type = ${pitchesArray[index].pitch}`;
+};
 
-let videoContainer = document.querySelector('.video-container');
+getNewPitch();
 
-let html = `<video
-src="https://sporty-clips.mlb.com/${pitchesArray[9998].url}#t=2.5"
-class="video-player"
-preload="none"
-data-embed="default"
-autoplay
-playsinline
-muted
-></video>`;
-
-videoContainer.insertAdjacentHTML('afterbegin', html);
-
-let video = document.querySelector('.video-player');
-
-video.addEventListener('timeupdate', function () {
+videoPlayer.addEventListener('timeupdate', function () {
   // check whether we have passed 5 seconds,
   // current time is given in seconds
   if (this.currentTime >= 5) {
@@ -31,6 +22,7 @@ video.addEventListener('timeupdate', function () {
   }
 });
 
+getPitchBtn.addEventListener('click', getNewPitch);
 // 1a. Get random pitch video url and pitch type
 
 // 1b. Display the pitch video, show loading graphic as needed
