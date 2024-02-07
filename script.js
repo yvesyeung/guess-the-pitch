@@ -8,7 +8,7 @@ console.log(pitchesArray[index]);
 let videoContainer = document.querySelector('.video-container');
 
 let html = `<video
-src="https://sporty-clips.mlb.com/UDJNQTBfWGw0TUFRPT1fVkFkU1hRWUZYZ1VBQ2dFQUJRQUFBZ1lIQUFCVFV3Y0FWRkVFQmdjQkExY0VDRlJX.mp4#t=2.5"
+src="https://sporty-clips.mlb.com/${pitchesArray[9998].url}#t=2.5"
 class="video-player"
 preload="none"
 data-embed="default"
