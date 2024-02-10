@@ -1,9 +1,9 @@
 import { pitchesArray } from './data.js';
 
 const videoPlayer = document.querySelector('.video-player');
-const pitchLabel = document.querySelector('.pitch-label');
 const getPitchBtn = document.querySelector('.get-pitch-btn');
 const btnContainer = document.querySelector('.btn-container');
+const resultLabel = document.querySelector('.result');
 
 let currentPitch; // Keep track of current pitch type
 
@@ -14,7 +14,7 @@ const getNewPitch = function () {
   videoPlayer.src = `https://sporty-clips.mlb.com/${pitchesArray[index].url}#t=2.5`;
 
   currentPitch = pitchesArray[index].pitch;
-  pitchLabel.innerHTML = `Pitch type = ${currentPitch}`;
+  console.log(currentPitch);
 };
 
 // Reset video so it plays the segment between 2.5s and 5s on a loop
@@ -31,20 +31,17 @@ const checkAnswer = function (e) {
 
   const answer = answerBtn.dataset.pitch;
   if (answer == currentPitch) {
-    console.log('Correct answer');
-    getNewPitch();
-    return;
+    resultLabel.innerHTML = `Correct! It was a ${currentPitch}`;
   } else {
-    console.log('Incorrect answer');
-    getNewPitch();
-    return;
+    resultLabel.innerHTML = `Incorrect. It was a ${currentPitch}`;
   }
+
+  setTimeout(getNewPitch, 1500);
 };
 
 getNewPitch();
 
 videoPlayer.addEventListener('timeupdate', resetVideo);
-getPitchBtn.addEventListener('click', getNewPitch);
 btnContainer.addEventListener('click', checkAnswer);
 
 // 1a. Get random pitch video url and pitch type
