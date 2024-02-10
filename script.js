@@ -1,28 +1,52 @@
 import { pitchesArray } from './data.js';
 
 const videoPlayer = document.querySelector('.video-player');
-const pitchContainer = document.querySelector('.pitch-type');
+const pitchLabel = document.querySelector('.pitch-label');
 const getPitchBtn = document.querySelector('.get-pitch-btn');
+const btnContainer = document.querySelector('.btn-container');
 
+let currentPitch; // Keep track of current pitch type
+
+// Get new pitch video
 const getNewPitch = function () {
-  const index = Math.floor(Math.random() * 9998);
+  const index = Math.floor(Math.random() * 9997);
+
   videoPlayer.src = `https://sporty-clips.mlb.com/${pitchesArray[index].url}#t=2.5`;
-  pitchContainer.innerHTML = `Pitch type = ${pitchesArray[index].pitch}`;
+
+  currentPitch = pitchesArray[index].pitch;
+  pitchLabel.innerHTML = `Pitch type = ${currentPitch}`;
+};
+
+// Reset video so it plays the segment between 2.5s and 5s on a loop
+const resetVideo = function () {
+  if (this.currentTime >= 5) {
+    this.currentTime = 2.5;
+  }
+};
+
+// Check if user's answer is correct then get new pitch
+const checkAnswer = function (e) {
+  const answerBtn = e.target.closest('.answer-btn');
+  if (!answerBtn) return;
+
+  const answer = answerBtn.dataset.pitch;
+  if (answer == currentPitch) {
+    console.log('Correct answer');
+    getNewPitch();
+    return;
+  } else {
+    console.log('Incorrect answer');
+    getNewPitch();
+    return;
+  }
 };
 
 getNewPitch();
 
-videoPlayer.addEventListener('timeupdate', function () {
-  // check whether we have passed 5 seconds,
-  // current time is given in seconds
-  if (this.currentTime >= 5) {
-    // pause the playback
-    console.log('current time met');
-    this.currentTime = 2.5;
-  }
-});
-
+videoPlayer.addEventListener('timeupdate', resetVideo);
 getPitchBtn.addEventListener('click', getNewPitch);
+btnContainer.addEventListener('click', checkAnswer);
+
 // 1a. Get random pitch video url and pitch type
 
 // 1b. Display the pitch video, show loading graphic as needed
