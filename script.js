@@ -8,11 +8,12 @@ const highScoreLabel = document.querySelector('.high-score');
 
 let currentPitch; // Keep track of current pitch type
 let score = 0; // Keep track of current score
-let highScore = 0; // Keep track of high score
+let highScore = localStorage.getItem('highScore') || 0; // Keep track of high score
+highScoreLabel.innerHTML = `High score = ${highScore}`;
 
 // Get new pitch video
 const getNewPitch = function () {
-  const index = Math.floor(Math.random() * 9996);
+  const index = Math.floor(Math.random() * 9993);
 
   videoPlayer.src = `https://sporty-clips.mlb.com/${pitchesArray[index].url}#t=2.5`;
 
@@ -51,6 +52,7 @@ const increaseScore = function () {
   if (score > highScore) {
     highScore = score;
     highScoreLabel.innerHTML = `High score = ${highScore}`;
+    localStorage.setItem('highScore', highScore);
   }
 };
 
