@@ -1,6 +1,6 @@
 import { pitchesArray } from './data.js';
 
-const videoPlayer = document.querySelector('.video-player');
+const video = document.querySelector('.video');
 const btnContainer = document.querySelector('.btn-container');
 const resultLabel = document.querySelector('.result');
 const scoreLabel = document.querySelector('.score');
@@ -13,9 +13,9 @@ highScoreLabel.innerHTML = `High score = ${highScore}`;
 
 // Get new pitch video
 const getNewPitch = function () {
-  const index = Math.floor(Math.random() * 9993);
+  const index = Math.floor(Math.random() * 9992);
 
-  videoPlayer.src = `https://sporty-clips.mlb.com/${pitchesArray[index].url}#t=2.5`;
+  video.src = `https://sporty-clips.mlb.com/${pitchesArray[index].url}#t=2.5`;
 
   currentPitch = pitchesArray[index].pitch;
   console.log(currentPitch);
@@ -64,7 +64,7 @@ const resetScore = function () {
 
 getNewPitch();
 
-videoPlayer.addEventListener('timeupdate', resetVideo);
+video.addEventListener('timeupdate', resetVideo);
 btnContainer.addEventListener('click', checkAnswer);
 
 // 1a. Get random pitch video url and pitch type
