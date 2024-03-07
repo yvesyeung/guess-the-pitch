@@ -11,42 +11,54 @@
     <title>Guess The Pitch!</title>
   </head>
   <body>
-    <div style="width: 100%; background: orange">
-      <div class="video-container">
-        <div class="video-player">
-          <video
-            src=""
-            class="video"
-            preload="none"
-            data-embed="default"
-            autoplay
-            playsinline
-            muted
-          ></video>
+    <div class="container">
+      <div style="width: 100%; background: orange">
+        <div class="video-container">
+          <div class="video-player">
+            <video
+              src=""
+              class="video"
+              preload="none"
+              data-embed="default"
+              autoplay
+              playsinline
+              muted
+            ></video>
+          </div>
         </div>
-      </div>
 
-      <div class="btn-container">
-        Fastball
-        <button type="button" class="answer-btn" data-pitch="FF">4-Seam</button>
-        <button type="button" class="answer-btn" data-pitch="FC">Cutter</button>
-        <button type="button" class="answer-btn" data-pitch="SI">Sinker</button>
-        <br />
-        Offspeed
-        <button type="button" class="answer-btn" data-pitch="CH">
-          Changeup
-        </button>
-        <button type="button" class="answer-btn" data-pitch="FS">
-          Splitter
-        </button>
-        <br />
-        Breaking
-        <button type="button" class="answer-btn" data-pitch="CU">Curve</button>
-        <button type="button" class="answer-btn" data-pitch="SL">Slider</button>
-        <br />
-        <h1 class="score">Current score = 0</h1>
-        <h1 class="high-score">High score = 0</h1>
-        <h1 class="result"></h1>
+        <div class="btn-container">
+          Fastball
+          <button type="button" class="answer-btn" data-pitch="FF">
+            4-Seam
+          </button>
+          <button type="button" class="answer-btn" data-pitch="FC">
+            Cutter
+          </button>
+          <button type="button" class="answer-btn" data-pitch="SI">
+            Sinker
+          </button>
+          <br />
+          Offspeed
+          <button type="button" class="answer-btn" data-pitch="CH">
+            Changeup
+          </button>
+          <button type="button" class="answer-btn" data-pitch="FS">
+            Splitter
+          </button>
+          <br />
+          Breaking
+          <button type="button" class="answer-btn" data-pitch="CU">
+            Curve
+          </button>
+          <button type="button" class="answer-btn" data-pitch="SL">
+            Slider
+          </button>
+          <br />
+          <h1 class="score">Current score = 0</h1>
+          <h1 class="high-score">High score = 0</h1>
+          <h1 class="result"></h1>
+        </div>
       </div>
     </div>
   </body>
