@@ -1,7 +1,7 @@
 import { pitchesArray } from './data.js';
 
 const video = document.querySelector('.video');
-const btnContainer = document.querySelector('.btn-container');
+const btnContainer = document.querySelector('.ui-container');
 const resultLabel = document.querySelector('.result');
 const scoreLabel = document.querySelector('.score');
 const highScoreLabel = document.querySelector('.high-score');
