@@ -1,7 +1,8 @@
 import { pitchesArray } from './data.js';
 
 const video = document.querySelector('.video');
-const btnContainer = document.querySelector('.ui-container');
+const btnContainer = document.querySelector('.btn-container');
+const answerBtns = document.querySelectorAll('.answer-btn');
 const resultLabel = document.querySelector('.result');
 const scoreLabel = document.querySelector('.score');
 const highScoreLabel = document.querySelector('.high-score');
@@ -19,12 +20,28 @@ const getNewPitch = function () {
 
   currentPitch = pitchesArray[index].pitch;
   console.log(currentPitch);
+
+  resultLabel.style.display = 'none';
+  enableBtns();
 };
 
 // Reset video so it plays the segment between 2.5s and 5s on a loop
 const resetVideo = function () {
   if (this.currentTime >= 5) {
     this.currentTime = 2.5;
+  }
+};
+
+// Enable or disable answer buttons
+const enableBtns = function (enable = true) {
+  if (enable) {
+    answerBtns.forEach(btn => {
+      btn.disabled = false;
+      btn.classList.remove('answer-correct');
+      btn.classList.remove('answer-incorrect');
+    });
+  } else {
+    answerBtns.forEach(btn => (btn.disabled = true));
   }
 };
 
@@ -35,14 +52,24 @@ const checkAnswer = function (e) {
 
   const answer = answerBtn.dataset.pitch;
   if (answer == currentPitch) {
-    resultLabel.innerHTML = `Correct! It was a ${currentPitch}`;
+    answerBtn.classList.add('answer-correct');
+    enableBtns(false);
+    resultLabel.innerHTML = `✅ Correct!`;
+    resultLabel.style.display = 'flex';
     increaseScore();
   } else {
-    resultLabel.innerHTML = `Incorrect. It was a ${currentPitch}`;
+    answerBtn.classList.add('answer-incorrect');
+    enableBtns(false);
+    resultLabel.innerHTML = `❌ Incorrect`;
+    resultLabel.style.display = 'flex';
+    answerBtns.forEach(btn => {
+      if (btn.dataset.pitch == currentPitch)
+        btn.classList.add('answer-correct');
+    });
     resetScore();
   }
 
-  setTimeout(getNewPitch, 1500);
+  setTimeout(getNewPitch, 2000);
 };
 
 // Increase current score and update high score as needed

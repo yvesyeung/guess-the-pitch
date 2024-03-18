@@ -16,7 +16,7 @@ body {
 .container {
   height: 95%;
   min-height: 560px;
-  max-height: 800px;
+  max-height: 1000px;
   /* margin-top: 20px; */
   margin-left: auto;
   margin-right: auto;
@@ -56,7 +56,7 @@ video {
   padding: 10px 20px 10px 20px;
 }
 
-.ui-container {
+.btn-container {
   background-image: linear-gradient(rgba(49, 49, 49, 0), rgba(49, 49, 49, 0.5));
   /* flex: 1 1 auto;
   aspect-ratio: 7/9; */
@@ -79,7 +79,7 @@ video {
   /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
   font-size: 16px;
   font-weight: 700;
-  text-shadow: 1px 1px 1px rgb(0, 0, 0);
+  text-shadow: 1px 1px 1px rgb(49, 49, 49);
   grid-column: 1/-1;
   justify-self: center;
 }
@@ -103,4 +103,37 @@ video {
 .answer-btn:active {
   background-color: white;
   transform: translateY(1px);
+}
+
+.answer-correct {
+  background-color: rgb(31, 210, 70);
+}
+
+.answer-correct:hover {
+  background-color: rgb(31, 210, 70);
+  color: white;
+}
+
+.answer-incorrect {
+  background-color: rgb(210, 31, 31);
+}
+
+.answer-incorrect:hover {
+  background-color: rgb(210, 31, 31);
+  color: white;
+}
+
+.result {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(49, 49, 49, 0.5);
+  top: 0;
+  color: white;
+  font-size: 32px;
+  font-weight: 700;
+  text-shadow: 1px 1px 1px rgb(49, 49, 49);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
