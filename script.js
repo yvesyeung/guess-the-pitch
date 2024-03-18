@@ -9,7 +9,7 @@ const highScoreLabel = document.querySelector('.high-score');
 let currentPitch; // Keep track of current pitch type
 let score = 0; // Keep track of current score
 let highScore = localStorage.getItem('highScore') || 0; // Keep track of high score
-highScoreLabel.innerHTML = `High score = ${highScore}`;
+highScoreLabel.innerHTML = `HI SCORE: ${highScore}`;
 
 // Get new pitch video
 const getNewPitch = function () {
@@ -48,10 +48,10 @@ const checkAnswer = function (e) {
 // Increase current score and update high score as needed
 const increaseScore = function () {
   score += 1;
-  scoreLabel.innerHTML = `Current score = ${score}`;
+  scoreLabel.innerHTML = `STREAK: ${score}`;
   if (score > highScore) {
     highScore = score;
-    highScoreLabel.innerHTML = `High score = ${highScore}`;
+    highScoreLabel.innerHTML = `HI SCORE: ${highScore}`;
     localStorage.setItem('highScore', highScore);
   }
 };
@@ -59,7 +59,7 @@ const increaseScore = function () {
 // Reset score
 const resetScore = function () {
   score = 0;
-  scoreLabel.innerHTML = `Current score = 0`;
+  scoreLabel.innerHTML = `STREAK: 0`;
 };
 
 getNewPitch();
