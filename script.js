@@ -1,6 +1,7 @@
 import { pitchesArray } from './data.js';
 
 const video = document.querySelector('.video');
+const loader = document.querySelector('.loader');
 const btnContainer = document.querySelector('.btn-container');
 const answerBtns = document.querySelectorAll('.answer-btn');
 const resultLabel = document.querySelector('.result');
@@ -18,9 +19,7 @@ let incorrect = 0;
 // Get new pitch video
 const getNewPitch = function () {
   const index = Math.floor(Math.random() * 9992);
-
   video.src = `https://sporty-clips.mlb.com/${pitchesArray[index].url}#t=2.5`;
-
   currentPitch = pitchesArray[index].pitch;
   console.log(currentPitch);
 
