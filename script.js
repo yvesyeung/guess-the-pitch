@@ -8,11 +8,13 @@ const resultLabel = document.querySelector('.result');
 const correctLabel = document.querySelector('.correct');
 const incorrectLabel = document.querySelector('.incorrect');
 const percentLabel = document.querySelector('.percent');
+const progressBar = document.querySelector('.progress');
 // const highScoreLabel = document.querySelector('.high-score');
 
 let currentPitch; // Keep track of current pitch type
-let correct = 0; // Keep track of current score
-let incorrect = 0;
+let correct = 0; // Keep track of # correct answers
+let incorrect = 0; // Keep track of # incorrect answers
+let progress = 0; // Keep track of progress bar length
 // let highScore = localStorage.getItem('highScore') || 0; // Keep track of high score
 // highScoreLabel.innerHTML = `HI SCORE: ${highScore}`;
 
@@ -47,6 +49,11 @@ const enableBtns = function (enable = true) {
   }
 };
 
+const moveProgress = function () {
+  progress += 5;
+  progressBar.style.width = `${progress}%`;
+};
+
 // Check if user's answer is correct then update score and get new pitch
 const checkAnswer = function (e) {
   const answerBtn = e.target.closest('.answer-btn');
@@ -59,6 +66,7 @@ const checkAnswer = function (e) {
     resultLabel.innerHTML = `✅ Correct!`;
     resultLabel.style.display = 'flex';
     increaseScore(true);
+    moveProgress();
   } else {
     answerBtn.classList.add('answer-incorrect');
     enableBtns(false);
@@ -69,9 +77,14 @@ const checkAnswer = function (e) {
         btn.classList.add('answer-correct');
     });
     increaseScore(false);
+    moveProgress();
   }
 
-  setTimeout(getNewPitch, 2000);
+  if (progress < 100) {
+    setTimeout(getNewPitch, 2000);
+  } else {
+    console.log('game over');
+  }
 };
 
 // Increase current score and update high score as needed
@@ -100,6 +113,7 @@ const resetScore = function () {
   correctLabel.innerHTML = `0 ✅`;
   incorrect = 0;
   incorrectLabel.innerHTML = `0 ❌`;
+  progress = 5;
 };
 
 getNewPitch();
