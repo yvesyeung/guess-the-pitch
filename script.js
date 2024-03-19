@@ -4,13 +4,16 @@ const video = document.querySelector('.video');
 const btnContainer = document.querySelector('.btn-container');
 const answerBtns = document.querySelectorAll('.answer-btn');
 const resultLabel = document.querySelector('.result');
-const scoreLabel = document.querySelector('.score');
-const highScoreLabel = document.querySelector('.high-score');
+const correctLabel = document.querySelector('.correct');
+const incorrectLabel = document.querySelector('.incorrect');
+const percentLabel = document.querySelector('.percent');
+// const highScoreLabel = document.querySelector('.high-score');
 
 let currentPitch; // Keep track of current pitch type
-let score = 0; // Keep track of current score
-let highScore = localStorage.getItem('highScore') || 0; // Keep track of high score
-highScoreLabel.innerHTML = `HI SCORE: ${highScore}`;
+let correct = 0; // Keep track of current score
+let incorrect = 0;
+// let highScore = localStorage.getItem('highScore') || 0; // Keep track of high score
+// highScoreLabel.innerHTML = `HI SCORE: ${highScore}`;
 
 // Get new pitch video
 const getNewPitch = function () {
@@ -56,7 +59,7 @@ const checkAnswer = function (e) {
     enableBtns(false);
     resultLabel.innerHTML = `✅ Correct!`;
     resultLabel.style.display = 'flex';
-    increaseScore();
+    increaseScore(true);
   } else {
     answerBtn.classList.add('answer-incorrect');
     enableBtns(false);
@@ -66,27 +69,38 @@ const checkAnswer = function (e) {
       if (btn.dataset.pitch == currentPitch)
         btn.classList.add('answer-correct');
     });
-    resetScore();
+    increaseScore(false);
   }
 
   setTimeout(getNewPitch, 2000);
 };
 
 // Increase current score and update high score as needed
-const increaseScore = function () {
-  score += 1;
-  scoreLabel.innerHTML = `STREAK: ${score}`;
-  if (score > highScore) {
-    highScore = score;
-    highScoreLabel.innerHTML = `HI SCORE: ${highScore}`;
-    localStorage.setItem('highScore', highScore);
+const increaseScore = function (isCorrect) {
+  if (isCorrect) {
+    correct += 1;
+    correctLabel.innerHTML = `${correct} ✅`;
+  } else {
+    incorrect += 1;
+    incorrectLabel.innerHTML = `${incorrect} ❌`;
   }
+
+  const percent = Math.floor((100 * correct) / (correct + incorrect));
+  percentLabel.innerHTML = `${percent}%`;
+
+  // if (score > highScore) {
+  //   highScore = score;
+  //   highScoreLabel.innerHTML = `HI SCORE: ${highScore}`;
+  //   localStorage.setItem('highScore', highScore);
+  // }
 };
 
 // Reset score
 const resetScore = function () {
-  score = 0;
-  scoreLabel.innerHTML = `STREAK: 0`;
+  correct = 0;
+  correctLabel.innerHTML = `0 ✅`;
+  incorrect = 0;
+  incorrectLabel.innerHTML = `0 ❌`;
 };
 
 getNewPitch();

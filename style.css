@@ -49,11 +49,11 @@ video {
   width: 100%;
   color: white;
   /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 900;
   display: flex;
   justify-content: space-between;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 15% 10px 15%;
 }
 
 .btn-container {
