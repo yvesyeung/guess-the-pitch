@@ -1,7 +1,6 @@
 import { pitchesArray } from './data.js';
 
 const video = document.querySelector('.video');
-const loader = document.querySelector('.loader');
 const btnContainer = document.querySelector('.btn-container');
 const answerBtns = document.querySelectorAll('.answer-btn');
 const resultLabel = document.querySelector('.result');
@@ -9,14 +8,18 @@ const correctLabel = document.querySelector('.correct');
 const incorrectLabel = document.querySelector('.incorrect');
 const percentLabel = document.querySelector('.percent');
 const progressBar = document.querySelector('.progress');
-// const highScoreLabel = document.querySelector('.high-score');
+const summary = document.querySelector('.summary');
+const summaryCircle = document.querySelector('.summary-circle');
+const summaryScore = document.querySelector('.summary-score');
+const summaryFraction = document.querySelector('.summary-fraction');
+const summaryComment = document.querySelector('.summary-comment');
+const playAgnBtn = document.querySelector('.play-again-btn');
 
 let currentPitch; // Keep track of current pitch type
 let correct = 0; // Keep track of # correct answers
 let incorrect = 0; // Keep track of # incorrect answers
+let percent = 0; // Keep track of % of correct answers
 let progress = 0; // Keep track of progress bar length
-// let highScore = localStorage.getItem('highScore') || 0; // Keep track of high score
-// highScoreLabel.innerHTML = `HI SCORE: ${highScore}`;
 
 // Get new pitch video
 const getNewPitch = function () {
@@ -54,6 +57,42 @@ const moveProgress = function () {
   progressBar.style.width = `${progress}%`;
 };
 
+const showSummary = function (show = true) {
+  if (show) {
+    summary.classList.add('slide-up');
+    summaryCircle.style.display = 'inline-block';
+    summaryScore.innerHTML = `${percent}%`;
+  } else {
+    summary.classList.remove('slide-up');
+    summaryCircle.style.display = 'none';
+    return;
+  }
+
+  summaryFraction.innerHTML = `You got ${correct} out of 20 correct`;
+
+  if (correct < 10) {
+    summaryCircle.style.setProperty('--score-color', '#d21f1f');
+    summaryComment.innerHTML = `You should practice more 😅`;
+  } else if (correct >= 10 && correct < 14) {
+    summaryCircle.style.setProperty('--score-color', '#fa9f36');
+    summaryComment.innerHTML = `Not bad, but can you do better? `;
+  } else if (correct >= 14 && correct < 17) {
+    summaryCircle.style.setProperty('--score-color', '#eded31');
+    summaryComment.innerHTML = `You're pretty good at this`;
+  } else if (correct >= 17 && correct < 20) {
+    summaryCircle.style.setProperty('--score-color', '#1fd246');
+    summaryComment.innerHTML = `You must watch a lot of baseball!`;
+  } else if (correct == 20) {
+    summaryCircle.style.setProperty('--score-color', '#1fd246');
+    summaryComment.innerHTML = `PERFECT GAME!`;
+  }
+
+  summaryCircle.style.setProperty(
+    '--score-dashoffset',
+    471 - (471 * percent) / 100
+  );
+};
+
 // Check if user's answer is correct then update score and get new pitch
 const checkAnswer = function (e) {
   const answerBtn = e.target.closest('.answer-btn');
@@ -84,6 +123,7 @@ const checkAnswer = function (e) {
     setTimeout(getNewPitch, 2000);
   } else {
     console.log('game over');
+    setTimeout(showSummary, 1500);
   }
 };
 
@@ -97,41 +137,27 @@ const increaseScore = function (isCorrect) {
     incorrectLabel.innerHTML = `${incorrect} ❌`;
   }
 
-  const percent = Math.floor((100 * correct) / (correct + incorrect));
+  percent = Math.floor((100 * correct) / (correct + incorrect));
   percentLabel.innerHTML = `${percent}%`;
-
-  // if (score > highScore) {
-  //   highScore = score;
-  //   highScoreLabel.innerHTML = `HI SCORE: ${highScore}`;
-  //   localStorage.setItem('highScore', highScore);
-  // }
 };
 
-// Reset score
-const resetScore = function () {
+// Reset game
+const resetGame = function () {
+  getNewPitch();
+
   correct = 0;
   correctLabel.innerHTML = `0 ✅`;
   incorrect = 0;
   incorrectLabel.innerHTML = `0 ❌`;
-  progress = 5;
+  percentLabel.innerHTML = `- %`;
+  progress = 0;
+  progressBar.style.width = `0%`;
+
+  showSummary(false);
 };
 
 getNewPitch();
 
 video.addEventListener('timeupdate', resetVideo);
 btnContainer.addEventListener('click', checkAnswer);
-
-// 1a. Get random pitch video url and pitch type
-
-// 1b. Display the pitch video, show loading graphic as needed
-
-// 2a. Display answer options
-
-// 2b. Determine if user's answer is correct, and display message
-
-// 3a. Update current game and overall tallies in UI
-// Current Score and High Score
-// Modal for % Correct For Each Pitch Type
-
-// 3b. Update overall tallies in local storage
-// High Score, % Correct For Each Pitch Type
+playAgnBtn.addEventListener('click', resetGame);
