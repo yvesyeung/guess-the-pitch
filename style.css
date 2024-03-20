@@ -1,3 +1,8 @@
+:root {
+  --positive-color: #1fd246;
+  --negative-color: #d21f1f;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -9,16 +14,16 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: linear-gradient(rgb(255, 255, 255), rgb(230, 230, 230));
+  background-image: linear-gradient(rgb(255, 255, 255), rgb(225, 225, 225));
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  overflow: hidden;
+  /* position: relative; */
 }
 
 .container {
-  background: rgba(255, 255, 255, 0);
   height: 95%;
   min-height: 560px;
   max-height: 1000px;
-  /* margin-top: 20px; */
   margin-left: auto;
   margin-right: auto;
   display: flex;
@@ -28,7 +33,7 @@ body {
 }
 
 .video-container {
-  background: rgba(255, 255, 255, 0);
+  background: rgba(0, 0, 0, 0);
   flex: 1 1 auto;
   aspect-ratio: 5/9;
   border-radius: 10px;
@@ -86,7 +91,7 @@ video {
   justify-self: center;
 }
 
-.answer-btn {
+button {
   background-color: rgba(49, 49, 49, 0.7);
   border: 1px solid rgb(255, 255, 255);
   color: white;
@@ -97,31 +102,31 @@ video {
   cursor: pointer;
 }
 
-.answer-btn:hover {
+button:hover {
   background-color: white;
   color: rgb(49, 49, 49);
 }
 
-.answer-btn:active {
+button:active {
   background-color: white;
   transform: translateY(1px);
 }
 
 .answer-correct {
-  background-color: rgb(31, 210, 70);
+  background-color: var(--positive-color);
 }
 
 .answer-correct:hover {
-  background-color: rgb(31, 210, 70);
+  background-color: var(--positive-color);
   color: white;
 }
 
 .answer-incorrect {
-  background-color: rgb(210, 31, 31);
+  background-color: var(--negative-color);
 }
 
 .answer-incorrect:hover {
-  background-color: #d21f1f;
+  background-color: var(--negative-color);
   color: white;
 }
 
@@ -164,7 +169,7 @@ video {
   position: absolute;
   display: flex;
   flex-direction: column;
-  gap: 18px;
+  gap: 24px;
   padding: 36px 20px 30px 20px;
   height: 100%;
   width: 100%;
@@ -175,7 +180,7 @@ video {
   font-weight: 700;
   align-items: center;
   justify-content: center;
-  transition: transform 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+  transition: transform 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
 
 .slide-up {
@@ -199,7 +204,7 @@ video {
 .summary-circle {
   height: 160px;
   fill: transparent;
-  --score-color: #1fd246;
+  --score-color: var(--positive-color);
   --score-dashoffset: 471;
   stroke: var(--score-color);
   stroke-width: 10px;
@@ -223,13 +228,65 @@ video {
   }
 }
 
-.play-again-btn {
-  background-color: rgba(31, 210, 70);
+.start {
+  z-index: 1;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding: 30px 35px 30px 35px;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(49, 49, 49);
+  top: 0;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 700;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.start {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* flex: 0 1 auto; */
+}
+
+.start h1 {
+  /* padding-top: 30px; */
+  text-align: center;
+}
+
+.start p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.bg-img {
+  position: absolute;
+  z-index: -2;
+  height: 100%;
+  opacity: 10%;
+}
+
+.icon-img {
+  height: 50px;
+  /* margin-bottom: -30px; */
+}
+
+.start-btn {
+  /* background-color: var(--positive-color); */
+  background-color: rgba(49, 49, 49, 0.7);
   border: 1px solid rgb(255, 255, 255);
   color: white;
   font-size: 16px;
   font-weight: 600;
-  padding: 8px;
+  padding: 8px 12px 8px 12px;
   border-radius: 30px;
   cursor: pointer;
 }

@@ -9,7 +9,9 @@
     <script type="module" defer src="script.js"></script>
 
     <title>Guess The Pitch!</title>
+    <link rel="icon" type="image/x-icon" href="baseball-icon.png" />
   </head>
+
   <body>
     <div class="container">
       <div class="loader"></div>
@@ -25,13 +27,23 @@
           muted
         ></video>
 
+        <div class="start">
+          <img src="baseball-icon.png" class="icon-img" />
+          <h1>Guess The Pitch!</h1>
+          <p>
+            How good are you at recognizing pitch types? Test yourself with a
+            random selection of 20 pitches. Pitch data courtesy of Statcast.
+          </p>
+          <button type="button" class="start-btn">Start Game</button>
+          <img src="ballpark-1.jpg" class="bg-img" />
+        </div>
+
         <div class="result"></div>
 
         <div class="score-container">
           <div class="correct">0 ✅</div>
           <div class="incorrect">0 ❌</div>
           <div class="percent">- %</div>
-          <!-- <div class="high-score" >HI SCORE: 0</div> -->
         </div>
 
         <div class="progress"></div>
@@ -69,7 +81,9 @@
           <p class="summary-fraction">You got X out of 20 correct</p>
           <p class="summary-comment">You must watch a lot of baseball!</p>
 
-          <button type="button" class="play-again-btn">Play Again</button>
+          <button type="button" class="start-btn play-again">Play Again</button>
+
+          <img src="ballpark-2.jpg" class="bg-img" />
         </div>
       </div>
     </div>

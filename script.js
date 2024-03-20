@@ -1,5 +1,7 @@
 import { pitchesArray } from './data.js';
 
+const start = document.querySelector('.start');
+const startBtn = document.querySelector('.start-btn');
 const video = document.querySelector('.video');
 const btnContainer = document.querySelector('.btn-container');
 const answerBtns = document.querySelectorAll('.answer-btn');
@@ -13,13 +15,19 @@ const summaryCircle = document.querySelector('.summary-circle');
 const summaryScore = document.querySelector('.summary-score');
 const summaryFraction = document.querySelector('.summary-fraction');
 const summaryComment = document.querySelector('.summary-comment');
-const playAgnBtn = document.querySelector('.play-again-btn');
+const playAgnBtn = document.querySelector('.play-again');
 
 let currentPitch; // Keep track of current pitch type
 let correct = 0; // Keep track of # correct answers
 let incorrect = 0; // Keep track of # incorrect answers
 let percent = 0; // Keep track of % of correct answers
 let progress = 0; // Keep track of progress bar length
+
+// Start game
+const startGame = function () {
+  start.classList.add('slide-up');
+  getNewPitch();
+};
 
 // Get new pitch video
 const getNewPitch = function () {
@@ -53,7 +61,7 @@ const enableBtns = function (enable = true) {
 };
 
 const moveProgress = function () {
-  progress += 5;
+  progress += 50;
   progressBar.style.width = `${progress}%`;
 };
 
@@ -122,7 +130,6 @@ const checkAnswer = function (e) {
   if (progress < 100) {
     setTimeout(getNewPitch, 2000);
   } else {
-    console.log('game over');
     setTimeout(showSummary, 1500);
   }
 };
@@ -156,8 +163,15 @@ const resetGame = function () {
   showSummary(false);
 };
 
-getNewPitch();
-
+startBtn.addEventListener('click', startGame);
 video.addEventListener('timeupdate', resetVideo);
 btnContainer.addEventListener('click', checkAnswer);
 playAgnBtn.addEventListener('click', resetGame);
+
+// TO DO
+// 0. refactor html and css
+// 1. spacing, fonts, font sizes, images
+// 2. refactor js
+// 2. Mobile responsiveness
+// 3. Handle load error
+// 4. Test cases?
