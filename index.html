@@ -9,14 +9,14 @@
     <script type="module" defer src="script.js"></script>
 
     <title>Guess The Pitch!</title>
-    <link rel="icon" type="image/x-icon" href="baseball-icon.png" />
+    <link rel="icon" type="image/x-icon" href="img/baseball-icon.png" />
   </head>
 
   <body>
-    <div class="container">
+    <main class="main-container">
       <div class="loader"></div>
 
-      <div class="video-container">
+      <div class="game-container">
         <video
           src=""
           class="video"
@@ -26,17 +26,6 @@
           playsinline
           muted
         ></video>
-
-        <div class="start">
-          <img src="baseball-icon.png" class="icon-img" />
-          <h1>Guess The Pitch!</h1>
-          <p>
-            How good are you at recognizing pitch types? Test yourself with a
-            random selection of 20 pitches. Pitch data courtesy of Statcast.
-          </p>
-          <button type="button" class="start-btn">Start Game</button>
-          <img src="ballpark-1.jpg" class="bg-img" />
-        </div>
 
         <div class="result"></div>
 
@@ -70,12 +59,23 @@
           </button>
         </div>
 
-        <div class="summary">
+        <div class="start-page">
+          <img src="img/baseball-icon.png" class="icon-img" />
+          <h1>Guess The Pitch!</h1>
+          <p>
+            How good are you at recognizing pitch types? Test yourself with a
+            random selection of 20 pitches. Pitch data courtesy of Statcast.
+          </p>
+          <button type="button" class="start-btn">Start Game</button>
+          <img src="img/ballpark-1.jpg" class="bg-img" />
+        </div>
+
+        <div class="summary-page">
           <div class="summary-score-container">
-            <svg class="summary-circle">
+            <div class="summary-score-percent">80%</div>
+            <svg class="summary-score-circle">
               <circle cx="50%" cy="50%" r="75px" />
             </svg>
-            <div class="summary-score">80%</div>
           </div>
 
           <p class="summary-fraction">You got X out of 20 correct</p>
@@ -83,9 +83,9 @@
 
           <button type="button" class="start-btn play-again">Play Again</button>
 
-          <img src="ballpark-2.jpg" class="bg-img" />
+          <img src="img/ballpark-2.jpg" class="bg-img" />
         </div>
       </div>
-    </div>
+    </main>
   </body>
 </html>
