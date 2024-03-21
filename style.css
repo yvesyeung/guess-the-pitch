@@ -112,7 +112,7 @@ button:active {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 32px;
+  font-size: 36px;
   font-weight: 700;
   text-shadow: 1px 1px 1px var(--primary-bg-color);
   background-color: var(--secondary-bg-color);
@@ -124,9 +124,9 @@ button:active {
   top: 0;
   display: flex;
   justify-content: space-between;
-  padding: 10px 15% 10px 15%;
+  padding: 12px 15% 12px 15%;
   font-size: 20px;
-  font-weight: 900;
+  font-weight: 700;
   background-color: var(--secondary-bg-color);
 }
 
@@ -134,7 +134,7 @@ button:active {
   width: 0%;
   height: 6px;
   position: absolute;
-  top: 49px;
+  top: 52px;
   background-color: var(--tertiary-bg-color);
 }
 
@@ -147,7 +147,7 @@ button:active {
   grid-template-rows: 0.8fr 1fr 1fr;
   column-gap: 16px;
   row-gap: 12px;
-  padding: 36px 20px 30px 20px;
+  padding: 32px 16px 32px 16px;
   background-image: linear-gradient(rgba(49, 49, 49, 0), rgba(49, 49, 49, 0.5));
 }
 
@@ -203,6 +203,7 @@ button:active {
 }
 
 .start-page h1 {
+  font-size: 30px;
   text-align: center;
 }
 
@@ -214,7 +215,7 @@ button:active {
 }
 
 .icon-img {
-  height: 50px;
+  height: 52px;
 }
 
 .bg-img {
@@ -241,7 +242,7 @@ button:active {
   align-items: center;
   justify-content: center;
   gap: 24px;
-  padding: 36px 20px 30px 20px;
+  padding: 32px 16px 32px 16px;
   font-size: 16px;
   font-weight: 700;
   background-color: var(--primary-bg-color);
@@ -257,7 +258,7 @@ button:active {
   top: 50%;
   left: 50%;
   transform: translate(-48%, -50%);
-  font-size: 32px;
+  font-size: 36px;
   font-weight: 700;
 }
 

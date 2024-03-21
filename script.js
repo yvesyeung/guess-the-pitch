@@ -168,9 +168,7 @@ video.addEventListener('timeupdate', resetVideo);
 btnContainer.addEventListener('click', checkAnswer);
 
 // TO DO
-// 0. refactor html and css
-// 1. spacing, fonts, font sizes, images
-// 2. refactor js
 // 2. Mobile responsiveness
 // 3. Handle load error
 // 4. Test cases?
+// 5. Twitter share button
