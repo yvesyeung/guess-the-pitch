@@ -62,13 +62,13 @@ const resetVideo = function () {
 // Enable or disable answer buttons
 const enableBtns = function (enable = true) {
   if (enable) {
+    btnContainer.style.setProperty('pointer-events', 'auto');
     answerBtns.forEach(btn => {
-      btn.disabled = false;
       btn.classList.remove('correct-btn');
       btn.classList.remove('incorrect-btn');
     });
   } else {
-    answerBtns.forEach(btn => (btn.disabled = true));
+    btnContainer.style.setProperty('pointer-events', 'none');
   }
 };
 
@@ -168,7 +168,11 @@ video.addEventListener('timeupdate', resetVideo);
 btnContainer.addEventListener('click', checkAnswer);
 
 // TO DO
-// 2. Mobile responsiveness
+// 2a. Mobile responsiveness, test how it looks if you open from messenger
+// 2b. Test in different browsers
 // 3. Handle load error
 // 4. Test cases?
 // 5. Twitter share button
+// 6. Performance test with Lighthouse in Chrome dev tools
+// 7. Search engine optimization (SEO)
+// 8. Add analytics (google analytics, fathom, etc.)

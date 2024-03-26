@@ -20,7 +20,7 @@ body {
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  background-image: linear-gradient(#fff, #d0d0d0);
+  background-image: linear-gradient(#fff, #dddddd);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -50,15 +50,14 @@ button {
   background-color: var(--secondary-bg-color);
 }
 
-button:hover {
+button:hover,
+button:active {
   color: var(--secondary-text-color);
   background-color: var(--tertiary-bg-color);
 }
 
 button:active {
   transform: translateY(1px);
-  color: var(--secondary-text-color);
-  background-color: var(--tertiary-bg-color);
 }
 
 /**************************/
@@ -90,10 +89,11 @@ button:active {
 .game-container {
   position: relative;
   flex: 1 1 auto;
-  aspect-ratio: 5/9;
+  aspect-ratio: 9/16;
   border-radius: 10px;
   overflow: hidden;
   color: var(--primary-text-color);
+  font-weight: 600;
   background: rgba(0, 0, 0, 0);
 }
 
@@ -113,7 +113,6 @@ button:active {
   align-items: center;
   justify-content: center;
   font-size: 36px;
-  font-weight: 700;
   text-shadow: 1px 1px 1px var(--primary-bg-color);
   background-color: var(--secondary-bg-color);
 }
@@ -124,9 +123,8 @@ button:active {
   top: 0;
   display: flex;
   justify-content: space-between;
-  padding: 12px 15% 12px 15%;
+  padding: 12px 15% 10px 15%;
   font-size: 20px;
-  font-weight: 700;
   background-color: var(--secondary-bg-color);
 }
 
@@ -134,7 +132,7 @@ button:active {
   width: 0%;
   height: 6px;
   position: absolute;
-  top: 52px;
+  top: 50px;
   background-color: var(--tertiary-bg-color);
 }
 
@@ -155,7 +153,6 @@ button:active {
   grid-column: 1/-1;
   justify-self: center;
   font-size: 16px;
-  font-weight: 700;
   text-shadow: 1px 1px 1px var(--primary-bg-color);
 }
 
@@ -193,7 +190,6 @@ button:active {
   gap: 24px;
   padding: 30px 35px 30px 35px;
   font-size: 16px;
-  font-weight: 700;
   background-color: var(--primary-bg-color);
   transition: transform 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
@@ -203,12 +199,12 @@ button:active {
 }
 
 .start-page h1 {
+  font-weight: 600;
   font-size: 30px;
   text-align: center;
 }
 
 .start-page p {
-  font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
   text-align: center;
@@ -226,7 +222,7 @@ button:active {
 }
 
 .start-btn {
-  padding: 8px 12px 8px 12px;
+  padding: 8px 16px 8px 16px;
 }
 
 /**************************/
@@ -244,7 +240,7 @@ button:active {
   gap: 24px;
   padding: 32px 16px 32px 16px;
   font-size: 16px;
-  font-weight: 700;
+  font-weight: 600;
   background-color: var(--primary-bg-color);
   transition: transform 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
@@ -259,7 +255,6 @@ button:active {
   left: 50%;
   transform: translate(-48%, -50%);
   font-size: 36px;
-  font-weight: 700;
 }
 
 .summary-score-circle {
