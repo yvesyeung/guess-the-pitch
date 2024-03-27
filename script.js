@@ -4,7 +4,7 @@ const start = document.querySelector('.start-page');
 const startBtn = document.querySelector('.start-btn');
 const playAgnBtn = document.querySelector('.play-again');
 const video = document.querySelector('.video');
-const btnContainer = document.querySelector('.btn-container');
+const btnContainer = document.querySelector('.btns');
 const answerBtns = document.querySelectorAll('.answer-btn');
 const resultLabel = document.querySelector('.result');
 const correctLabel = document.querySelector('.correct');
@@ -74,7 +74,7 @@ const enableBtns = function (enable = true) {
 
 // Move progress bar
 const moveProgress = function () {
-  progress += 50;
+  progress += 5;
   progressBar.style.width = `${progress}%`;
 };
 
