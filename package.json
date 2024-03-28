@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "core-js": "^3.36.1",
+    "regenerator-runtime": "^0.14.1"
+  }
+}

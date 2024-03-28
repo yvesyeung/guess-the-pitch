@@ -1,4 +1,6 @@
 import { pitchesArray } from './data.js';
+import 'core-js/stable';
+import 'regenerator-runtime/runtime';
 
 const start = document.querySelector('.start-page');
 const startBtn = document.querySelector('.start-btn');
@@ -74,7 +76,7 @@ const enableBtns = function (enable = true) {
 
 // Move progress bar
 const moveProgress = function () {
-  progress += 5;
+  progress += 50;
   progressBar.style.width = `${progress}%`;
 };
 
