@@ -170,8 +170,6 @@ video.addEventListener('timeupdate', resetVideo);
 btnContainer.addEventListener('click', checkAnswer);
 
 // TO DO
-// 2a. Mobile responsiveness, test how it looks if you open from messenger
-// 2b. Test in different browsers
 // 3. Handle load error
 // 4. Test cases?
 // 5. Twitter share button

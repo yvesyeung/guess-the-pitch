@@ -14,6 +14,10 @@
   box-sizing: border-box;
 }
 
+html {
+  font-size: 62.5%;
+}
+
 body {
   height: 100vh;
   height: 100dvh;
@@ -33,16 +37,16 @@ body {
   overflow: hidden;
 
   height: 100%;
-  min-height: 560px;
-  max-height: 1000px;
+  min-height: 52rem;
+  max-height: 100rem;
 
   aspect-ratio: 10/16;
 }
 
 @media (hover: hover) {
   .main-container {
-    border: 12px solid #ffffff00;
-    border-radius: 24px;
+    border: 1.2rem solid #ffffff00;
+    border-radius: 2.4rem;
   }
 }
 
@@ -50,11 +54,11 @@ body {
 /* GENERAL BUTTON STYLING */
 /**************************/
 button {
-  padding: 8px;
-  border: 1px solid var(--primary-text-color);
-  border-radius: 30px;
+  padding: 0.8rem;
+  border: 0.1rem solid var(--primary-text-color);
+  border-radius: 3rem;
   color: var(--primary-text-color);
-  font-size: 16px;
+  font-size: 1.6rem;
   font-weight: 600;
   cursor: pointer;
   background-color: var(--secondary-bg-color);
@@ -68,7 +72,7 @@ button {
   }
 
   button:active {
-    transform: translateY(1px);
+    transform: translateY(0.1rem);
   }
 }
 
@@ -77,11 +81,11 @@ button {
 /**************************/
 .loader {
   z-index: -1;
-  width: 50px;
-  height: 50px;
+  width: 5rem;
+  height: 5rem;
   position: absolute;
-  border: 8px solid #aeaeae;
-  border-top: 8px solid #494949;
+  border: 0.8rem solid #aeaeae;
+  border-top: 0.8rem solid #494949;
   border-radius: 50%;
   animation: spin 1s linear infinite;
 }
@@ -108,9 +112,9 @@ button {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 24px;
-  padding: 30px 35px 30px 35px;
-  font-size: 16px;
+  gap: 2.4rem;
+  padding: 3rem 3.5rem 3rem 3.5rem;
+  font-size: 1.6rem;
   background-color: var(--primary-bg-color);
   transition: transform 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
@@ -121,7 +125,7 @@ button {
 
 .start-page h1 {
   font-weight: 600;
-  font-size: 30px;
+  font-size: 3rem;
   text-align: center;
 }
 
@@ -132,7 +136,7 @@ button {
 }
 
 .icon-img {
-  height: 52px;
+  height: 5.2rem;
 }
 
 .bg-img {
@@ -143,7 +147,7 @@ button {
 }
 
 .start-btn {
-  padding: 8px 16px 8px 16px;
+  padding: 0.8rem 1.6rem 0.8rem 1.6rem;
 }
 
 /**************************/
@@ -177,8 +181,8 @@ button {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 36px;
-  text-shadow: 1px 1px 1px var(--primary-bg-color);
+  font-size: 3.6rem;
+  text-shadow: 0.1rem 0.1rem 0.1rem var(--primary-bg-color);
   background-color: var(--secondary-bg-color);
 }
 
@@ -192,15 +196,15 @@ button {
   grid-template-columns: 1fr 1fr 1fr;
   align-items: center;
   justify-items: center;
-  padding: 12px 0 0 0;
-  font-size: 20px;
+  padding: 1.2rem 0 0 0;
+  font-size: 2rem;
   background-color: var(--secondary-bg-color);
 }
 
 .progress {
   grid-row: 2;
   grid-column: 1 / -1;
-  height: 6px;
+  height: 0.6rem;
   justify-self: stretch;
   margin-top: auto;
   background-color: var(--tertiary-bg-color);
@@ -214,17 +218,17 @@ button {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 0.8fr 1fr 1fr;
-  column-gap: 16px;
-  row-gap: 12px;
-  padding: 32px 16px 32px 16px;
+  column-gap: 1.6rem;
+  row-gap: 1.2rem;
+  padding: 3.2rem 1.6rem 3.2rem 1.6rem;
   background-image: linear-gradient(rgba(49, 49, 49, 0), rgba(49, 49, 49, 0.5));
 }
 
 .instruction {
   grid-column: 1/-1;
   justify-self: center;
-  font-size: 16px;
-  text-shadow: 1px 1px 1px var(--primary-bg-color);
+  font-size: 1.6rem;
+  text-shadow: 0.1rem 0.1rem 0.1rem var(--primary-bg-color);
 }
 
 .correct-btn {
@@ -258,9 +262,9 @@ button {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 24px;
-  padding: 32px 16px 32px 16px;
-  font-size: 16px;
+  gap: 2.4rem;
+  padding: 3.2rem 1.6rem 3.2rem 1.6rem;
+  font-size: 1.6rem;
   font-weight: 600;
   background-color: var(--primary-bg-color);
   transition: transform 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
@@ -275,16 +279,16 @@ button {
   top: 50%;
   left: 50%;
   transform: translate(-48%, -50%);
-  font-size: 36px;
+  font-size: 3.6rem;
 }
 
 .summary-score-circle {
-  height: 160px;
+  height: 16rem;
   fill: transparent;
   --score-color: var(--positive-color);
   --score-dashoffset: 471;
   stroke: var(--score-color);
-  stroke-width: 10px;
+  stroke-width: 1rem;
   stroke-dasharray: 471;
   stroke-dashoffset: var(--score-dashoffset);
   transform: rotate(-90deg);
