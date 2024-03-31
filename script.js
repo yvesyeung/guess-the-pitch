@@ -45,7 +45,7 @@ const startGame = function () {
 
 // Get new pitch video
 const getNewPitch = function () {
-  const index = Math.floor(Math.random() * 9992);
+  const index = Math.floor(Math.random() * 9010);
   video.src = `https://sporty-clips.mlb.com/${pitchesArray[index].url}#t=2.5`;
   currentPitch = pitchesArray[index].pitch;
   console.log(currentPitch);
@@ -76,7 +76,7 @@ const enableBtns = function (enable = true) {
 
 // Move progress bar
 const moveProgress = function () {
-  progress += 50;
+  progress += 5;
   progressBar.style.width = `${progress}%`;
 };
 
