@@ -19,21 +19,27 @@ const summaryScore = document.querySelector('.summary-score-percent');
 const summaryFraction = document.querySelector('.summary-fraction');
 const summaryComment = document.querySelector('.summary-comment');
 
-let currentPitch; // Keep track of current pitch type
-let correct = 0; // Keep track of # correct answers
-let incorrect = 0; // Keep track of # incorrect answers
-let percent = 0; // Keep track of % of correct answers
-let progress = 0; // Keep track of progress bar length
+// Manage game state
+export const state = {
+  currentPitch: null,
+  correct: null,
+  incorrect: 0,
+  percent: 0,
+  progress: 0,
+};
 
 // Start new game
-const startGame = function () {
-  // Set all variables to 0
-  correct = 0;
+export const startGame = function () {
+  // Set state variables to 0
+  state.correct = 0;
+  state.incorrect = 0;
+  state.percent = 0;
+  state.progress = 0;
+
+  // Set HTML labels to 0
   correctLabel.innerHTML = `0 ✅`;
-  incorrect = 0;
   incorrectLabel.innerHTML = `0 ❌`;
   percentLabel.innerHTML = `- %`;
-  progress = 0;
   progressBar.style.width = `0%`;
 
   // Get rid of start page / summary page
@@ -44,25 +50,24 @@ const startGame = function () {
 };
 
 // Get new pitch video
-const getNewPitch = function () {
+export const getNewPitch = function () {
   const index = Math.floor(Math.random() * 9010);
   video.src = `https://sporty-clips.mlb.com/${pitchesArray[index].url}#t=2.5`;
-  currentPitch = pitchesArray[index].pitch;
-  console.log(currentPitch);
+  state.currentPitch = pitchesArray[index].pitch;
 
   resultLabel.style.display = 'none';
   enableBtns();
 };
 
 // Reset video so it plays the segment between 2.5s and 5s on a loop
-const resetVideo = function () {
+export const resetVideo = function () {
   if (this.currentTime >= 5) {
     this.currentTime = 2.5;
   }
 };
 
 // Enable or disable answer buttons
-const enableBtns = function (enable = true) {
+export const enableBtns = function (enable = true) {
   if (enable) {
     btnContainer.style.setProperty('pointer-events', 'auto');
     answerBtns.forEach(btn => {
@@ -75,55 +80,55 @@ const enableBtns = function (enable = true) {
 };
 
 // Move progress bar
-const moveProgress = function () {
-  progress += 5;
-  progressBar.style.width = `${progress}%`;
+export const moveProgress = function () {
+  state.progress += 5;
+  progressBar.style.width = `${state.progress}%`;
 };
 
 // Show / hide summary page
-const showSummary = function (show = true) {
+export const showSummary = function (show = true) {
   if (show) {
     summary.classList.add('slide-up');
     summaryCircle.style.display = 'inline-block';
-    summaryScore.innerHTML = `${percent}%`;
+    summaryScore.innerHTML = `${state.percent}%`;
   } else {
     summary.classList.remove('slide-up');
     summaryCircle.style.display = 'none';
     return;
   }
 
-  summaryFraction.innerHTML = `You got ${correct} out of 20 correct`;
+  summaryFraction.innerHTML = `You got ${state.correct} out of 20 correct`;
 
-  if (correct < 10) {
+  if (state.correct < 10) {
     summaryCircle.style.setProperty('--score-color', '#d21f1f');
-    summaryComment.innerHTML = `You should practice more 😅`;
-  } else if (correct >= 10 && correct < 14) {
+    summaryComment.innerHTML = `Is that all you got?`;
+  } else if (state.correct >= 10 && state.correct < 14) {
     summaryCircle.style.setProperty('--score-color', '#fa9f36');
     summaryComment.innerHTML = `Not bad, but can you do better? `;
-  } else if (correct >= 14 && correct < 17) {
+  } else if (state.correct >= 14 && state.correct < 17) {
     summaryCircle.style.setProperty('--score-color', '#eded31');
-    summaryComment.innerHTML = `You're pretty good at this`;
-  } else if (correct >= 17 && correct < 20) {
+    summaryComment.innerHTML = `You're pretty good at this!`;
+  } else if (state.correct >= 17 && state.correct < 20) {
     summaryCircle.style.setProperty('--score-color', '#1fd246');
     summaryComment.innerHTML = `You must watch a lot of baseball!`;
-  } else if (correct == 20) {
+  } else if (state.correct === 20) {
     summaryCircle.style.setProperty('--score-color', '#1fd246');
     summaryComment.innerHTML = `PERFECT GAME!`;
   }
 
   summaryCircle.style.setProperty(
     '--score-dashoffset',
-    471 - (471 * percent) / 100
+    471 - (471 * state.percent) / 100
   );
 };
 
 // Check if user's answer is correct then update score and get new pitch
-const checkAnswer = function (e) {
+export const checkAnswer = function (e) {
   const answerBtn = e.target.closest('.answer-btn');
   if (!answerBtn) return;
 
   const answer = answerBtn.dataset.pitch;
-  if (answer == currentPitch) {
+  if (answer === state.currentPitch) {
     answerBtn.classList.add('correct-btn');
     enableBtns(false);
     resultLabel.innerHTML = `✅ Correct!`;
@@ -136,13 +141,14 @@ const checkAnswer = function (e) {
     resultLabel.innerHTML = `❌ Incorrect`;
     resultLabel.style.display = 'flex';
     answerBtns.forEach(btn => {
-      if (btn.dataset.pitch == currentPitch) btn.classList.add('correct-btn');
+      if (btn.dataset.pitch === state.currentPitch)
+        btn.classList.add('correct-btn');
     });
     increaseScore(false);
     moveProgress();
   }
 
-  if (progress < 100) {
+  if (state.progress < 100) {
     setTimeout(getNewPitch, 2000);
   } else {
     setTimeout(showSummary, 1500);
@@ -150,29 +156,33 @@ const checkAnswer = function (e) {
 };
 
 // Increase current scores
-const increaseScore = function (isCorrect) {
+export const increaseScore = function (isCorrect) {
   if (isCorrect) {
-    correct += 1;
-    correctLabel.innerHTML = `${correct} ✅`;
+    state.correct += 1;
+    correctLabel.innerHTML = `${state.correct} ✅`;
   } else {
-    incorrect += 1;
-    incorrectLabel.innerHTML = `${incorrect} ❌`;
+    state.incorrect += 1;
+    incorrectLabel.innerHTML = `${state.incorrect} ❌`;
   }
 
-  percent = Math.floor((100 * correct) / (correct + incorrect));
-  percentLabel.innerHTML = `${percent}%`;
+  state.percent = Math.floor(
+    (100 * state.correct) / (state.correct + state.incorrect)
+  );
+  percentLabel.innerHTML = `${state.percent}%`;
 };
 
-// Event listeners
-startBtn.addEventListener('click', startGame);
-playAgnBtn.addEventListener('click', startGame);
-video.addEventListener('timeupdate', resetVideo);
-btnContainer.addEventListener('click', checkAnswer);
+// Event listeners added to a DOMContentLoaded listener to avoid this Jest error:
+// TypeError: Cannot read properties of null (reading 'addEventListener')
+document.addEventListener('DOMContentLoaded', function () {
+  startBtn.addEventListener('click', startGame);
+  playAgnBtn.addEventListener('click', startGame);
+  video.addEventListener('timeupdate', resetVideo);
+  btnContainer.addEventListener('click', checkAnswer);
+});
 
 // TO DO
-// 3. Handle load error
+// 3. Handle rare network error on video load
 // 4. Test cases?
-// 5. Twitter share button
 // 6. Performance test with Lighthouse in Chrome dev tools
 // 7. Search engine optimization (SEO)
 // 8. Add analytics (google analytics, fathom, etc.)
