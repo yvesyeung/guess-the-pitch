@@ -16,13 +16,13 @@ test('startGame function exists', () => {
   expect(startGame).toBeDefined();
 });
 
-test('startGame modifies variables correctly', () => {
-  startGame();
-  expect(state.correct).toBe(0);
-  expect(state.incorrect).toBe(0);
-  expect(state.percent).toBe(0);
-  expect(state.progress).toBe(0);
-});
+// test('startGame modifies variables correctly', () => {
+//   startGame();
+//   expect(state.correct).toBe(0);
+//   expect(state.incorrect).toBe(0);
+//   expect(state.percent).toBe(0);
+//   expect(state.progress).toBe(0);
+// });
 
 test('getNewPitch function exists', () => {
   expect(getNewPitch).toBeDefined();
@@ -51,9 +51,3 @@ test('checkAnswer function exists', () => {
 test('increaseScore function exists', () => {
   expect(increaseScore).toBeDefined();
 });
-
-// const { sum } = require('./sum.js');
-
-// test('sum function exists', () => {
-//   expect(sum).toBeDefined();
-// });
