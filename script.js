@@ -22,7 +22,7 @@ const summaryComment = document.querySelector('.summary-comment');
 // Manage game state
 export const state = {
   currentPitch: null,
-  correct: null,
+  correct: 0,
   incorrect: 0,
   percent: 0,
   progress: 0,
