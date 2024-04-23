@@ -51,7 +51,7 @@ export const startGame = function () {
 
 // Get new pitch video
 export const getNewPitch = function () {
-  const index = Math.floor(Math.random() * 9010);
+  const index = Math.floor(Math.random() * 6379);
   video.src = `https://sporty-clips.mlb.com/${pitchesArray[index].url}#t=2.5`;
   state.currentPitch = pitchesArray[index].pitch;
 
